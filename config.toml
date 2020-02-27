@@ -1,6 +1,7 @@
 languageCode = "it-it"
 title = "Zainando"
-baseurl = "http://zainando.com/"
+# baseurl = "http://zainando.com/"
+baseurl = "https://zainando.github.io/zainando/"
 theme = "hugo_theme_robust"
 
 [params]
