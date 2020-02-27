@@ -1,0 +1,37 @@
+languageCode = "it-it"
+title = "Zainando"
+baseurl = "http://zainando.com/"
+theme = "hugo_theme_robust"
+
+[params]
+GoogleAnalyticsUserID = "UA-97568677-1"
+disqusShortname = "zainando"
+
+[outputs]
+page = [ "HTML", "AMP" ]
+
+[[menu.main]]
+    name = "Chi siamo"
+    url = "/page/about/"
+
+[[menu.social]]
+    pre = "<i class='fa fa-facebook'></i>"
+    url = "https://www.facebook.com/zainandoperilmondo/"
+    identifier = "facebook"
+    name = "@zainandoperilmondo"
+[[menu.social]]
+    pre = "<i class='fa fa-instagram'></i>"
+    url = "https://instagram.com/zainandoperilmondo/"
+    identifier = "instagram"
+    name = "@zainandoperilmondo"
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  serie = "series"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+    unsafe = true

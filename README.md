@@ -1,0 +1,10 @@
+* https://gohugo.io/tutorials/hosting-on-gitlab/
+* https://discuss.gohugo.io/t/solved-finding-a-basic-workflow-with-hugo-and-gitlab-pages/4210
+* http://makebeforebreak.com/post/posting-to-hugo-on-gitlab-pages-from-ios/
+* http://makebeforebreak.com/post/on-moving-to-hugo-on-gitlab-pages/
+* http://www.tmrd.uk/post/hugo-deployment-using-gitlab-ci-pages/
+* https://eightportions.com/2016-08-21-Migrate-blog-to-GitLab-pages/
+* https://haruair.github.io/post/setup-hugo-blog-on-github-pages-with-travis-ci/
+* https://gohugo.io/tutorials/hosting-on-gitlab/
+* https://about.gitlab.com/2016/08/19/posting-to-your-gitlab-pages-blog-from-ios/
+* https://about.gitlab.com/2016/04/07/gitlab-pages-setup/

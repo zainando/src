@@ -1,0 +1,10 @@
+<article class="li">
+  <a href="{{ .Permalink }}" class="clearfix">
+    <div class="image" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}https://photos.smugmug.com/photos/i-c7jXPkB/0/c309b026/X3/i-c7jXPkB-X3.jpg{{ end }});"></div>
+    <div class="detail">
+      <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+      <h2 class="title">{{ .Title }}</h2>
+      <div class="summary">{{ .Summary }}</div>
+    </div>
+  </a>
+</article>

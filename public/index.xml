@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zainando </title>
+    <link>http://zainando.com/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2017</rights>
+    <updated>2017-04-19 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>Posts</title>
+          <link>http://zainando.com/post/</link>
+          <pubDate>Wed, 19 Apr 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://zainando.com/post/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+    
+
+  </channel>
+</rss>
