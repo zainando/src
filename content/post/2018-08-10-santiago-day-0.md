@@ -65,4 +65,4 @@ Preferisco tralasciare
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1469548.7385965628!2d-2.1582029310912847!3d43.99633530039606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0xd5527e8f751ca81%3A0x796386037b397a89!2sBordeaux%2C+France!3m2!1d44.837789!2d-0.57918!4m5!1s0xd51408b63ded46f%3A0x9d4bd7d3d9323d5c!2sBayonne%2C+France!3m2!1d43.492948999999996!2d-1.4748409999999998!4m5!1s0xd50d5616cb5d49f%3A0x27d43cc64a91e1c7!2sSaint-Jean-Pied-de-Port%2C+France!3m2!1d43.163140999999996!2d-1.23811!5e0!3m2!1sen!2sit!4v1533914153781" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<iframe src="https://photos.marcozeta.com/frame/slideshow?key=vL4dh7&autoStart=0&captions=1&navigation=1&playButton=1&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://photos.marcozeta.com/frame/slideshow?key=vL4dh7&autoStart=0&captions=1&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>

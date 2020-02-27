@@ -23,4 +23,4 @@ Non avere un orizzonte temporale di ritorno un po' fa paura, ma è anche il gust
 Mi manca mio marito e ci penso ogni giorno di più. I ragazzi fanno domande: dov’è, perché non è con me, quando mi raggiunge... Sapere di poterlo fare con il suo appoggio e la cosa più bella che ci possa essere. 
 A domani! 
 
-<iframe src="https://photos.marcozeta.com/frame/slideshow?key=tZttcp&autoStart=0&captions=1&navigation=1&playButton=1&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://photos.marcozeta.com/frame/slideshow?key=tZttcp&autoStart=0&captions=1&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>

@@ -36,4 +36,4 @@ Siamo accolti dal primo ospitalero che parla italiano: è spagnolo sposato con u
 Una chiacchera e un bicchiere di vino con un singnore di Manchester che lavora nel settore vino e pronti a letto per un’altra giornata. 
 Domani è ferragosto: da noi si festeggia, e noi che faremo? 
 
-<iframe src="https://photos.marcozeta.com/frame/slideshow?key=b7HN3h&autoStart=0&captions=1&navigation=1&playButton=1&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://photos.marcozeta.com/frame/slideshow?key=b7HN3h&autoStart=0&captions=1&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>

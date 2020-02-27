@@ -21,4 +21,4 @@ L’ultima parte è noiosa e tutta uguale. Compaiono le conchiglie di ferro.
 Mi prendo una ustione al collo. Ci raggiunge Paolo. Mi fa una digitazione ai piedi, non viene fuori nulla che io non sappia già. Dormiamo nell’ostello parrrocchiale, avrei voluto dare una mano a preparare la cena e andare a messa ma mi lascio trasportare dall’aperitivo. La cena è semplice ma buona. 
 Prima volta che entro un una chiesa, la preghiera finale è molto bella. 
 
-<iframe src="https://photos.marcozeta.com/frame/slideshow?key=7Fsbnv&autoStart=0&captions=1&navigation=1&playButton=1&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://photos.marcozeta.com/frame/slideshow?key=7Fsbnv&autoStart=0&captions=1&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="no" scrolling="no"></iframe>
