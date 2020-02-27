@@ -1,38 +1,31 @@
-languageCode = "it-it"
-title = "Zainando"
-# baseurl = "http://zainando.com/"
 baseurl = "https://zainando.github.io/zainando/"
+languageCode = "it-it"
 theme = "hugo_theme_robust"
-
+title = "Zainando"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+name = "Chi siamo"
+url = "/page/about/"
+weight = 1
+[[menu.social]]
+identifier = "instagram"
+name = "@zainandoperilmondo"
+pre = "<i class='fa fa-instagram'></i>"
+url = "https://instagram.com/zainandoperilmondo/"
+weight = 1
+[[menu.social]]
+identifier = "facebook"
+name = "@zainandoperilmondo"
+pre = "<i class='fa fa-facebook'></i>"
+url = "https://www.facebook.com/zainandoperilmondo/"
+weight = 2
+[outputs]
+page = ["HTML", "AMP"]
 [params]
 GoogleAnalyticsUserID = "UA-97568677-1"
 disqusShortname = "zainando"
-
-[outputs]
-page = [ "HTML", "AMP" ]
-
-[[menu.main]]
-    name = "Chi siamo"
-    url = "/page/about/"
-
-[[menu.social]]
-    pre = "<i class='fa fa-facebook'></i>"
-    url = "https://www.facebook.com/zainandoperilmondo/"
-    identifier = "facebook"
-    name = "@zainandoperilmondo"
-[[menu.social]]
-    pre = "<i class='fa fa-instagram'></i>"
-    url = "https://instagram.com/zainandoperilmondo/"
-    identifier = "instagram"
-    name = "@zainandoperilmondo"
-
-
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  serie = "series"
-
-[markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-    unsafe = true
+category = "categories"
+serie = "series"
+tag = "tags"
