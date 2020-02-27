@@ -29,18 +29,18 @@ La semplicità della proposta è così sfidante che decidiamo di aggiungere quei
 (quindi 15€ a paio di sandali). 
 Abbiamo fatto un acquisto geniale o siamo stati fregati? Lo scopriremo solo con il tempo. Quel che è sicuro è che per queste vacanze rimarremo senza sandali! 
 
-![diy-huaraches](/images/barcellona2017/Screenshot_2017-05-01-16-05-22.png)
+![diy-huaraches](https://photos.smugmug.com/photos/i-LNBzLFD/0/ecce3d23/X2/i-LNBzLFD-X2.jpg)
 
-![five_fingers](/images/barcellona2017/IMG_20170418_124818-01.jpeg)
+![five_fingers](https://photos.smugmug.com/photos/i-LVQD5zx/0/f949e285/X2/i-LVQD5zx-X2.jpg)
 
 Continuamo il nostro giro con la ricerca di cibo che si conclude in maniera sbrigativa con due tacos a Raval, 
 da [Taco Alto Raval](http://tacoalto.es/) (ma ci diranno poi che poco più avanti c'era un messicano degno di questo nome 
 e più economico), poco lontano da [el gato de botero](http://www.barcelonaturisme.com/wv3/en/page/1226/cat-fernando-botero.html) 
 e proseguiamo a girare per negozi e vie. 
 
-![tacos](/images/barcellona2017/IMG_20170501_161738.jpg)
+![tacos](https://photos.smugmug.com/photos/i-rCPbc3N/0/6efa9bb4/X2/i-rCPbc3N-X2.jpg)
 
-![el_gato](/images/barcellona2017/20170417200646_IMG_3547-01.jpeg)
+![el_gato](https://photos.smugmug.com/photos/i-7tjLMdX/0/c322e668/X2/i-7tjLMdX-X2.jpg)
 
 Ripassiamo per casa a prendere i nostri bagagli e a lasciare le chiavi, e ci rechiamo
 in zona università dove abbiamo appuntamento con la mia amica Alba, la stessa che ci aveva introdotto alle bontà di Bodega la Palma il giorno prima. 
@@ -51,7 +51,7 @@ cercare uno spazio tutto suo, in una città dove si respira davvero e ogni cosa 
 dopo la birra desideriamo qualcosa da mettere sotto i denti prima di andare in aeroporto a prendere il nostro secondo volo, 
 e ci fermiamo in una pizzeria al taglio tutta italiana: una certezza assaporare i gusti di casa! 
 
-![bye-barcelona](/images/barcellona2017/20170418192129_IMG_3580-01.jpeg)
+![bye-barcelona](https://photos.smugmug.com/photos/i-Wmz2qDC/0/eea01851/X2/i-Wmz2qDC-X2.jpg)
 
 In plaza Catalunya prendiamo l'aerobus numero 2 per andare verso il terminal Rayanair, biglietto che ovviamente acquistiamo online dallo smartphone. 
 Il volo va per il meglio, atterriamo a Siviglia e con un altro bus arriviamo in centro città per mezzanotte. I gradi indicati 
