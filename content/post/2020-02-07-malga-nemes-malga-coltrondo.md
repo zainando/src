@@ -14,6 +14,7 @@ Tempo di percorrenza: un'ora e un quarto
 Dislivello: 240 metri
 
 Parcheggiamo a Passo Monte Croce, c'è un piccolo parcheggio che era già pieno quando siamo arrivati, ore 11.00 circa, ma abbiamo trovato posto senza problemi lungo la strada che era pulitissima. Il primo pezzo del percorso è lungo una pista battuta, non abbiamo avuto bisogno di utilizzare le ciaspole anche se in alcuni punti era possibile scegliere un percorso alternativo dove la neve era un pelo più alta. 
+
 ![i-x7vM3sP](https://photos.smugmug.com/SpaceTimePoints/2020-02-08-NemesColtrondo/i-x7vM3sP/0/477aa246/X3/IMG_1930-X3.jpg "i-x7vM3sP")
 
 Arrivati in circa un'ora alla malga ci si apre una vista mozzafiato sulle alpi Trentine: la voglia di rimanere a mangiare è tanta, grazie alla bella giornata molti passeggiatori pranzano fuori sui tavoloni esterni. Ci fermiamo solo per una tappa bagno e proseguiamo verso Malga Colrotondo. Il sentiero si fa più stretto e si dipana in mezzo ad un piccolo bosco; nessuno di noi aveva le ciaspe ai piedi e non abbiamo avuto difficoltà, ma se le avessimo avute sicuramente il percorso sarebbe stato più divertente e ci saremmo potuti permettere qualche fuori pista! Arriviamo in circa 40 minuti a Malga Coltrondo che troviamo chiusa per la ristrutturazione (ne eravamo al corrente), ci fermiamo ugualmente su un terrazzamento a mangiare panini che ci eravamo portati in zaino. Poco prima di ripartire incrociamo i gestori intenti a proseguire con i lavori: promettiamo che torneremo anche in estate a vedere i lavori ultimati!
