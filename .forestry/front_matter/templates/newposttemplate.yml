@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/malga-nemes-malga-coltrondo.md
