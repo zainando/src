@@ -1,5 +1,5 @@
 +++
-date = 2020-02-29T23:00:00Z
+date = 2020-02-29
 draft = true
 image = ""
 series = ""
