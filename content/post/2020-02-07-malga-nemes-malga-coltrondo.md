@@ -27,6 +27,8 @@ Il sentiero è adatto a escursionisti principianti fino a Malga Nemes e Malga Co
 
 Per chi vuole alzare l'asticella di difficoltà, da Malga Nemes può scegliere di proseguire vero Monte Rosso. Si prosegue per il sentiero n.13 verso il Rio di Pulla, per poi prendere il segnavia n. 14 seguendo la fine della valle. Il percorso diventa sempre più ripido fino ad arrivare alla cima del Monte Rosso.
 
+## Riassunto
+
 Per questa escursione:
 
 * Lunghezza percorso 12km
