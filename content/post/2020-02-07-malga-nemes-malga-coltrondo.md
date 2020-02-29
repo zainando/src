@@ -32,12 +32,8 @@ Per chi vuole alzare l'asticella di difficoltà, da Malga Nemes può scegliere d
 
 Per questa escursione:
 
-lunghezza percorso 12km
-
-Dislivello 800 mt
-
-Tempo di Percorrenza: 5-6 ore totali
-
-Giro effettivo:
+* Lunghezza percorso 12km
+* Dislivello 800 mt
+* Tempo di Percorrenza: 5-6 ore totali
 
 <iframe src="https://www.komoot.com/tour/112856515/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
