@@ -14,6 +14,12 @@ fields:
     required: false
   label: image
   description: Header Image
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+  description: The post URL
 - type: text
   name: series
   label: series
