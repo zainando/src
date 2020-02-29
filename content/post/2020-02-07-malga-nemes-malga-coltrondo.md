@@ -7,9 +7,7 @@ tags = ["Italia", "Montagna"]
 title = "Malga Nemes - Malga Coltrondo"
 
 +++
-
-
-Itinerario: Da Passo Monte Croce a Malga Nemes proseguenso per Malga Coltrondo
+Itinerario: Da Passo Monte Croce a Malga Nemes proseguendo per Malga Coltrondo
 
 Tempo di percorrenza: un'ora e un quarto
 
