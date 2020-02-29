@@ -29,7 +29,7 @@ Torniamo lungo il sentiero e puntiamo a chiudere l'anello lungo il segnavia 149,
 
 Esiste una piccola variante che attraversa il bosco;  noi abbiamo scelto di farla al ritorno in discesa ed è sicuramente avventurosa, passando anche di fianco ad un fortino militare risalente all'epoca fascista. Questo sentiero non è adatto a tutti in quanto è scivoloso (essendo all'ombra alcuni tratti sono ghiacciati) e poco battuto; consigliamo di avere i ramponcini ai piedi e una buona dose di spericolatezza!
 
-![Arrampicata su un bunker fascista!](https://photos.smugmug.com/SpaceTimePoints/2020-02-08-NemesColtrondo/i-ZvVk8S4/0/9740d5db/X3/IMG_2070-X3.jpg)
+![Arrampicata su un bunker fascista!](https://photos.smugmug.com/SpaceTimePoints/2020-02-08-NemesColtrondo/i-d36VrT7/0/93576004/X3/IMG_2163-X3.jpg)
 
 In totale abbiamo camminato 3 ore circa.
 
