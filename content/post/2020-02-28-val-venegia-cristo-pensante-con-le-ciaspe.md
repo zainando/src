@@ -20,7 +20,7 @@ Tot: 5 ore,
 
 Dislivello 640mt
 
-<iframe src="https://www.komoot.com/tour/115342393/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/115342393/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Riferimenti
 
