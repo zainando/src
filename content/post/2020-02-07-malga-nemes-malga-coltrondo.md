@@ -8,7 +8,7 @@ tags = ["Italia", "Montagna"]
 title = "Malga Nemes - Malga Coltrondo"
 
 +++
-[https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo](https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo "https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo")
+
 
 Itinerario: Da Passo Monte Croce a Malga Nemes proseguenso per Malga Coltrondo
 
