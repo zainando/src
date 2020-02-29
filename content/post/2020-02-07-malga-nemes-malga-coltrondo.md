@@ -13,11 +13,11 @@ Tempo di percorrenza: un'ora e un quarto
 
 Dislivello: 240 metri
 
-Parcheggiamo a Passo Monte Croce, c'è un piccolo parcheggio che era già pieno quando siamo arrivati, ore 11.00 circa, ma abbiamo trovato posto senza problemi lungo la strada che era pulitissima. Il primo pezzo del percorso è lungo una pista battuta, non abbiamo avuto bisogno di utilizzare le ciaspole anche se in alcuni punti era possibile scegliere un percorso alternativo dove la neve era un pelo più alta. 
+Parcheggiamo a Passo Monte Croce, c'è un piccolo parcheggio che era già pieno quando siamo arrivati, ore 11.00 circa, ma abbiamo trovato posto senza problemi lungo la strada che era pulitissima. Il primo pezzo del percorso è lungo una pista battuta, non abbiamo avuto bisogno di utilizzare le ciaspole anche se in alcuni punti era possibile scegliere un percorso alternativo dove la neve era un pelo più alta.
 
 ![Cani da slitta sulla strada per Malga Nemes](https://photos.smugmug.com/SpaceTimePoints/2020-02-08-NemesColtrondo/i-x7vM3sP/0/477aa246/X3/IMG_1930-X3.jpg)
 
-Arrivati in circa un'ora alla malga ci si apre una vista mozzafiato sulle alpi Trentine: la voglia di rimanere a mangiare è tanta, grazie alla bella giornata molti passeggiatori pranzano fuori sui tavoloni esterni. Ci fermiamo solo per una tappa bagno e proseguiamo verso Malga Colrotondo. 
+Arrivati in circa un'ora alla malga ci si apre una vista mozzafiato sulle alpi Trentine: la voglia di rimanere a mangiare è tanta, grazie alla bella giornata molti passeggiatori pranzano fuori sui tavoloni esterni. Ci fermiamo solo per una tappa bagno e proseguiamo verso Malga Coltrondo.
 
 ![Distesa di neve prima di addentrarci nel bosco](https://photos.smugmug.com/SpaceTimePoints/2020-02-08-NemesColtrondo/i-CR3rmFX/0/3f1ed265/X3/IMG_1984-X3.jpg)
 
