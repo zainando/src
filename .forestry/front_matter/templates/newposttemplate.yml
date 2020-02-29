@@ -1,0 +1,19 @@
+---
+label: NewPostTemplate
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: text
+  name: series
+  label: series
+- type: list
+  name: tags
+  label: tags
