@@ -1,4 +1,4 @@
-baseurl = "www.zainando.com"
+baseurl = "https://zainando.com"
 languageCode = "it-it"
 theme = "hugo_theme_robust"
 title = "Zainando"
