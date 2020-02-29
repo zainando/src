@@ -1,6 +1,6 @@
 +++
 date = 2020-02-28T23:00:00Z
-draft = true
+draft = false
 image = ""
 series = "Montagna"
 slug = "ValVenegia-Cristo Pensante-con-le-ciaspe"
