@@ -1,6 +1,5 @@
 +++
 date = 2020-02-08T23:00:00Z
-draft = true
 image = "https://photos.smugmug.com/photos/i-5krCKxV/0/b91dfb47/X3/i-5krCKxV-X3.jpg"
 series = "Montagna"
 slug = "malga-nemes-malga-coltrondo"
