@@ -5,7 +5,7 @@ image = "https://photos.smugmug.com/photos/i-5krCKxV/0/b91dfb47/X3/i-5krCKxV-X3.
 series = "Montagna"
 tags = ["Italia", "Montagna"]
 title = "Malga Nemes - Malga Coltrondo"
-
+slug = "malga-nemes-malga-coltrondo"
 +++
 [https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo](https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo "https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo")
 

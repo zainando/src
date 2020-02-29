@@ -5,6 +5,6 @@ image = "https://photos.smugmug.com/photos/i-3QJdgz5/0/54f8f3d6/X3/i-3QJdgz5-X3.
 series = "Montagna"
 tags = ["Sauna", "SPA", "Sesto", "Montagna", "Slittino"]
 title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pusteria"
-
+slugh = "in-slittino-dal-rifugio-tre-scarperi-alla-spa-più-bella-della-val-pusteria"
 +++
 [https://photos.marcozeta.com/Private/2020-02-22-TreScarperi/](https://photos.marcozeta.com/Private/2020-02-22-TreScarperi/ "https://photos.marcozeta.com/Private/2020-02-22-TreScarperi/")
