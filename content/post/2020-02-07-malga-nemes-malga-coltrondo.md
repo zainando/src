@@ -1,7 +1,7 @@
 +++
 date = 2020-02-08T23:00:00Z
 draft = true
-image = ""
+image = "https://photos.smugmug.com/photos/i-RLbPBLm/0/X3/i-RLbPBLm-X3.jpg"
 series = "Montagna"
 tags = ["Italia", "Montagna"]
 title = "Malga Nemes - Malga Coltrondo"
