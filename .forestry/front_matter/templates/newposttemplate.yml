@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/val-venegia-cristo-pensante-con-le-ciaspe.md

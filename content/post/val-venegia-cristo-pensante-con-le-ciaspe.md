@@ -1,0 +1,27 @@
++++
+date = 2020-02-28T23:00:00Z
+draft = true
+image = ""
+series = "Montagna"
+slug = "ValVenegia-Cristo Pensante-con-le-ciaspe"
+tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensante", "Ciaspe", "Val Venegia", "Trentino", "montagna"]
+title = "Val Venegia & Cristo Pensante con le ciaspe"
+
++++
+Parcheggiamo presso Pian dei Casoni (mt. 1677)  e ci incamminiamo verso la Malga Venegia (mt. 1778).
+
+In inverno, la strada che conduce fino alla Malga Venegia è percorribile solo a piedi e proprio per questo decidiamo di lasciare l’auto a Pian dei Casoni. Dalla Malga Venegia un sentiero in leggera e costante pendenza sale nel bosco. In circa 45 minuti raggiugiamo un pianoro.  Proseguiamo dritti per il sentiero in direzione Baita Segantini (mt. 2170) attraversando la Val Venegia.  Un cartello indica la via per il “trekking del Cristo pensante” (2260mt) a cui si arriva in circa un'ora di camminata, circa 3 km e 130 mt di dislivello. questa deviazione si può tranquillamente saltare se si prosegue verso Passo Rolle. 
+
+Dal Cristo Pesante scendiamo in direzione Capanna Cervino ( mt 2.082). Da qui andiamo verso Malga Juribello con ritorno a Pian dei Casoni. 
+
+Tot: 5 ore, 
+
+16km 
+
+Dislivello 640mt
+
+## Riferimenti
+
+Ringraziamo per la descrizione invernale [http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/](http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/ "http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/")
+
+Per il giro al Trekking del Cristo Pensante: [http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/](http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/ "http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/")
