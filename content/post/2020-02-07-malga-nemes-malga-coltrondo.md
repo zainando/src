@@ -11,6 +11,7 @@ title = "Malga Nemes - Malga Coltrondo"
 [https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo](https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo "https://photos.marcozeta.com/Private/2020-02-08-NemesColtrondo")
 
 
+Giro effettivo:
 
-<iframe src="[https://www.komoot.com/tour/112856515/embed?profile=1](https://www.komoot.com/tour/112856515/embed?profile=1 "https://www.komoot.com/tour/112856515/embed?profile=1")" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/112856515/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
