@@ -1,7 +1,6 @@
 +++
 date = 2020-02-28T23:00:00Z
-draft = false
-image = ""
+image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-Ciaspolata-Val-Venegia/i-jbtRNR7/0/a9f4110f/X3/IMG_3331-X3.jpg"
 series = "Montagna"
 slug = "ValVenegia-Cristo Pensante-con-le-ciaspe"
 tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensante", "Ciaspe", "Val Venegia", "Trentino", "montagna"]
