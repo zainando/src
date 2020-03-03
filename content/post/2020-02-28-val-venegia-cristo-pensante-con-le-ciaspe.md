@@ -36,7 +36,7 @@ Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui and
 
 ### Itinerario effettivo
 
-<iframe src="[https://www.komoot.com/tour/115562299/embed?profile=1](https://www.komoot.com/tour/115562299/embed?profile=1 "https://www.komoot.com/tour/115562299/embed?profile=1")" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/115562299/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Riferimenti
 
