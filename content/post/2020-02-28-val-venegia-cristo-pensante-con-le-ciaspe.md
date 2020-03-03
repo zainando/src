@@ -13,13 +13,26 @@ In inverno, la strada che conduce fino alla Malga Venegia è percorribile solo a
 
 Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui andiamo verso Malga Juribello con ritorno a Pian dei Casoni.
 
+!["Prima sosta foto"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg "Prima sosta foto")
+
+!["La discesa (1)"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg "La discesa (1)") !["La discesa (1)"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/X3/IMG_3386-X3.jpg "La discesa (1)") 
+
+
+
+
 ## In breve
 
 * Durata: 5 ore
 * Lunghezza: 16 km
 * Dislivello 640 mt
 
+### Itinerario pianificato
+
 <iframe src="https://www.komoot.com/tour/115342393/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Itinerario effettivo
+
+<iframe src="[https://www.komoot.com/tour/115562299/embed?profile=1](https://www.komoot.com/tour/115562299/embed?profile=1 "https://www.komoot.com/tour/115562299/embed?profile=1")" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Riferimenti
 
