@@ -15,8 +15,11 @@ Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui and
 
 !["Prima sosta foto"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg "Prima sosta foto")
 
-!["La discesa (1)"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg "La discesa (1)") !["La discesa (1)"](https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/X3/IMG_3386-X3.jpg "La discesa (1)") 
-
+{{< load-photoswipe >}}
+{{< gallery >}}
+  {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg" >}}
+  {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/X3/IMG_3386-X3.jpg" >}}
+{{< /gallery >}}
 
 
 
