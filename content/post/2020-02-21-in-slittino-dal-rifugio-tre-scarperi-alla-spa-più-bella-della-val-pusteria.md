@@ -53,7 +53,7 @@ Tempo di percorrenza: 2 h
 
 ## SPA
 
-Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. L'ingresso alle piscine + terme costa 21 €
+Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. Il parcheggio è poco capiente quindi giriamo un pochino prima di trovare un posto libero; entrando L'ingresso alle piscine + terme costa 21 € a persona (non sono previste riduzioni per gruppi), e indossati i nostri costumi ci 
 
 ## Cena
 
