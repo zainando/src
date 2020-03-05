@@ -7,9 +7,9 @@ tags = ["Sauna", "SPA", "Sesto", "Montagna", "Slittino"]
 title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pusteria"
 
 +++
-## Trekking e relax a Sesto: una facile escursione adatta a tutti
-
 La passeggiata fino al Rifugio Tre Scarperi è semplice e breve adatta a camminatori poco allenati o alle prime esperienze con la montagna, specialmente in inverno: abbiamo programmato infatti questa escursione sulle esigenze di una coppia di amici non abituata alle alte quote ma che voleva provare per la prima volta l'esperienza con le ciaspole. La possibilità di unire cammino e relax in un'unica uscita ha contribuito a rendere la giornata super!
+
+## Trekking e relax a Sesto: una facile escursione adatta a tutti
 
 Si parte da Val Campo di Dentro, località **tra San Candido e Sesto**; un cartello segnaletico indica la strada per il Rifugio tre Scarperi e pochi metri dopo è possibile lasciare l'auto nel parcheggio gratuito [qui](https://goo.gl/maps/7VW3TH4otornwKqZA) come abbiamo fatto noi. Se preferite si può proseguire lungo la strada asfaltata, ma con il fondo parzialmente ghiacciato fino a [qui](https://goo.gl/maps/dyjZEhSVhP2YoGgd6). Da questo punto in poi in inverno la strada in inverno è chiusa con una transenna e dedicata alle discese in slittino (e alle salite a piedi!).
 
