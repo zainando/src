@@ -30,7 +30,7 @@ Rifugio Tre Scarperi 0474 966610 [www.drei-schuster-huette.com](http://www.drei-
   
 ![Momomento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-DPrx2qG/0/f449d34a/X3/IMG_3227-X3.jpg)
 
-## Discesa
+## Discesa in slittino!
 
 In slittino!!
 
@@ -40,7 +40,7 @@ Al costo di 5€ (non 4€ come avevamo trovato scritto nelle nostre ricerche pr
 
 ![Traguardo!](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-rS29Q9P/0/8bd6c655/X3/IMG_3247-X3.jpg)
 
-## Riassunto
+## In Breve
 
 Partenza: Parcheggio Val Campo di Dentro  
 Dislivello: 280 m  
@@ -49,7 +49,7 @@ Tempo di percorrenza: 2 h
 
 <iframe src="https://www.komoot.com/tour/114571639/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-## SPA
+## SPA a Sesto: il Caravan Park Sexten
 
 Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; la giornata non è stata per nulla fredda ma il sole sta tramontando e i vestiti sono fradici per la discesa, è ora di scaldarci le ossa! Ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. Il parcheggio è poco capiente quindi giriamo un pochino prima di trovare un posto libero; entrando capiamo subito il perchè, il posto è davvero pieno di persone!  
  L'ingresso alle piscine + terme costa 21 € a persona (non sono previste riduzioni per gruppi), e indossati i nostri costumi ci buttiamo nella zona delle piscine. Non ci viene dato un asciugamano o ciabatte, per fortuna abbiamo tutto l'occorrente con noi; il personale sebbene molto gentile non ci spiega nel dettaglio come funziona la logistica o come possiamo controllare il tempo che ci rimane a disposizione dall'ingresso. Abbiamo un braccialetto elettronico al polso, scopriamo poi che basta avvicinarlo in un totem e ci informa quanto tempo è passato dal momento dell'ingresso. Il posto è curato e davvero piacevole, ma il gran numero di bambini presenti fa si che si perda la tranquillità che la location richiama. Davvero piacevole la piscina esterna con idromassaggio da cui si vedono le montagne. 
@@ -59,6 +59,8 @@ La zona della sauna è più tranquilla anche se sempre molto affollata; si posso
 L'igene in questi luoghi è molto controllata quindi i corpi devono necessariamente stare all'interno dell'asciugamano, piedi compresi, vi consigliamo quindi di portarne uno abbastanza ampio. 
 
 Questa zona benessere non ha il classico angolino con tisane o bibite rinfrescanti, ma all'occorrenza un paio di fontanelle per bere un po' d'acqua. Vi suggeriamo di non portare con voi cellulari o averi preziosi, ma di godervi questa esperienza completamente scollegati dal resto del mondo. 
+
+PS il Caravan Sexten Park è anche un ottimo posto dove soggiornare, sia con camper che con tenda o negli chalet a disposizione. Uno dei nostri sogni è soggiornare nella casetta sull'albero.. Prima o poi diventerà realtà!
 
 ## Cena
 
