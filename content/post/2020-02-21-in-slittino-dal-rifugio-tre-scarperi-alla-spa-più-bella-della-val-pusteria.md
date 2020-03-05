@@ -12,8 +12,6 @@ title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pust
 
 La passeggiata fino al Rifugio Tre Scarperi è semplice e breve adatta a camminatori poco allenate o alle prime esperienze con la montagna, specialmente in inverno: abbiamo programmato infatti questa escursione sulle esigenze di una coppia di amici non abituata alle alte quote. La possibilità di unire cammino e relax in un'unica uscita ha contribuito a rendere la giornata super!
 
-Partenza
-
 Si parte da Val Campo di Dentro, località **tra San Candido e Sesto**; un cartello segnaletico indica la strada per il Rifugio tre Scarperi e pochi metri dopo è\` possibile lasciare l'auto nel parcheggio gratuito [qui](https://goo.gl/maps/7VW3TH4otornwKqZA) come abbiamo fatto noi. Se preferite si può proseguire lungo la strada asfaltata, ma con il fondo parzialmente ghiacciato fino a [qui](https://goo.gl/maps/dyjZEhSVhP2YoGgd6). Da questo punto in poi in inverno la strada in inverno è chiusa con una transenna e dedicata alle discese in slittino (e alle salite a piedi!).
 
 ![Ponticello alla partenza del sentiero in mezzo al bosco](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-8KnhFT4/0/451f3927/X3/IMG_3194-X3.jpg)
