@@ -60,7 +60,7 @@ L'igene in questi luoghi è molto controllata quindi i corpi devono necessariame
 
 Questa zona benessere non ha il classico angolino con tisane o bibite rinfrescanti, ma all'occorrenza un paio di fontanelle per bere un po' d'acqua. Vi suggeriamo di non portare con voi cellulari o averi preziosi, ma di godervi questa esperienza completamente scollegati dal resto del mondo. 
 
-PS il Caravan Sexten Park è anche un ottimo posto dove soggiornare, sia con camper che con tenda o negli chalet a disposizione. Uno dei nostri sogni è soggiornare nella casetta sull'albero.. Prima o poi diventerà realtà!
+PS il Caravan Park Sexten è anche un ottimo posto dove soggiornare, sia con camper che con tenda o negli chalet a disposizione. Uno dei nostri sogni è soggiornare nella casetta sull'albero.. Prima o poi diventerà realtà!
 
 ## Cena
 
