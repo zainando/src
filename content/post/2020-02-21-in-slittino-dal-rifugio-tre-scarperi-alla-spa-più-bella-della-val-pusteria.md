@@ -53,11 +53,22 @@ Tempo di percorrenza: 2 h
 
 ## SPA
 
-Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. Il parcheggio è poco capiente quindi giriamo un pochino prima di trovare un posto libero; entrando L'ingresso alle piscine + terme costa 21 € a persona (non sono previste riduzioni per gruppi), e indossati i nostri costumi ci 
+Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; la giornata non è stata per nulla fredda ma il sole sta tramontando e i vestiti sono fradici per la discesa, è ora di scaldarci le ossa! Ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. Il parcheggio è poco capiente quindi giriamo un pochino prima di trovare un posto libero; entrando capiamo subito il perchè, il posto è davvero pieno di persone!  
+ L'ingresso alle piscine + terme costa 21 € a persona (non sono previste riduzioni per gruppi), e indossati i nostri costumi ci buttiamo nella zona delle piscine. Non ci viene dato un asciugamano o ciabatte, per fortuna abbiamo tutto l'occorrente con noi; il personale sebbene molto gentile non ci spiega nel dettaglio come funziona la logistica o come possiamo controllare il tempo che ci rimane a disposizione dall'ingresso. Abbiamo un braccialetto elettronico al polso, scopriamo poi che basta avvicinarlo in un totem e ci informa quanto tempo è passato dal momento dell'ingresso. Il posto è curato e davvero piacevole, ma il gran numero di bambini presenti fa si che si perda la tranquillità che la location richiama. Davvero piacevole la piscina esterna con idromassaggio da cui si vedono le montagne. 
+
+La zona della sauna è più tranquilla anche se sempre molto affollata; si possono scegliere saune esterne (=bisogna uscire al freddo per accedervi.. ma ne vale la pena!!) con tanto di possibilità di fare il bagno nel laghetto esterno, oppure le saune interne con l'imbarazzo della scelta tra grotta di sale, bagno turco, saune a varie temperature e livelli di umidità. In tre ore abbiamo provato tutto, ma saremmo rimasti in ammollo molto volentieri ancora a lungo! Facciamo notare che la parte della sauna è obbligatorio accedervi senza costume, come è di consuetudine in Trentino e in generale nella tradizione nordica; per noi la cosa è molto naturale, ma se non avete piacere a mostrarvi senza veli potete tranquillamente indossare l'ascigamano ovunque, ad eccezione per il bagno turco. 
+
+L'igene in questi luoghi è molto controllata quindi i corpi devono necessariamente stare all'interno dell'asciugamano, piedi compresi, vi consigliamo quindi di portarne uno abbastanza ampio. 
+
+Questa zona benessere non ha il classico angolino con tisane o bibite rinfrescanti, ma all'occorrenza un paio di fontanelle per bere un po' d'acqua. Vi suggeriamo di non portare con voi cellulari o averi preziosi, ma di godervi questa esperienza completamente scollegati dal resto del mondo. 
 
 ## Cena
 
-[Lanterna Verde](https://www.gruenelaterne.it/en/gruene-laterne.html)
+Per cena siamo andati alla [Lanterna Verde](https://www.gruenelaterne.it/en/gruene-laterne.html) a Moso, a pochi minuti di distanza dalla Spa, che propone un menu d'asporto e due sale per cenare; è inoltre un bel posto dove soggiornare nel caso vogliate rimanere più giorni in zona. Suggeriamo di prenotare con anticipo; noi non avendolo fatto aspettiamo 40 minuti il tavolo, ma ce la passiamo chiaccherando. Il menù è tipico locale e qualunque cosa scegliate, farete la scelta giusta! Il prezzo non è leggero ma adeguato alla qualità e alla zona. 
+
+Grazie a Davide e Chiara che hanno vissuto con noi questa avventura!!
+
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Se ci condividi suoi tuoi social, ci farai un gran bel regalo. 
 
 Thanks to
 
