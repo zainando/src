@@ -1,6 +1,5 @@
 +++
 date = 2020-02-21T23:00:00Z
-draft = true
 image = "https://photos.smugmug.com/photos/i-3QJdgz5/0/54f8f3d6/X3/i-3QJdgz5-X3.jpg"
 series = "Montagna"
 slugh = "in-slittino-dal-rifugio-tre-scarperi-alla-spa-più-bella-della-val-pusteria"
@@ -65,8 +64,8 @@ Per cena siamo andati alla [Lanterna Verde](https://www.gruenelaterne.it/en/grue
 
 Grazie a Davide e Chiara che hanno vissuto con noi questa avventura!!
 
-Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Se ci condividi suoi tuoi social, ci farai un gran bel regalo.
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;) 
 
-Thanks to
+Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
 
-[https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/](https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/ "https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/")
+Thanks to: [https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/](https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/ "https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/")
