@@ -4,20 +4,18 @@ image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-Ciaspolata-Val-Ve
 series = "Montagna"
 slug = "ValVenegia-Cristo Pensante-con-le-ciaspe"
 tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensante", "Ciaspe", "Val Venegia", "Trentino", "montagna"]
-title = "Val Venegia & Cristo Pensante con le ciaspe"
+title = "Val Venegia: giro ad Anello con le ciaspe sotto la neve!"
 
 +++
-Parcheggiamo presso Pian dei Casoni (mt. 1677)  e ci incamminiamo verso la Malga Venegia (mt. 1778).
+Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito  Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  e ci incamminiamo verso la Malga Venegia (mt. 1778).
 
 In inverno, la strada che conduce fino alla Malga Venegia è percorribile solo a piedi e proprio per questo decidiamo di lasciare l’auto a Pian dei Casoni. Dalla Malga Venegia un sentiero in leggera e costante pendenza sale nel bosco. In circa 45 minuti raggiugiamo un pianoro.  Proseguiamo dritti per il sentiero in direzione Baita Segantini (mt. 2170) attraversando la Val Venegia.  Un cartello indica la via per il “trekking del Cristo pensante” (mt. 2260) a cui si arriva in circa un'ora di camminata, circa 3 km e 130 mt di dislivello. questa deviazione si può tranquillamente saltare se si prosegue verso Passo Rolle.
 
 Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui andiamo verso Malga Juribello con ritorno a Pian dei Casoni.
 
-
 {{< load-photoswipe >}}
 
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/L/IMG_3290-L.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg" caption="Prima sosta foto in mezzo alla neve!!!">}}
-
 
 ### La salita
 
@@ -42,15 +40,14 @@ Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui and
 ### Il ritorno
 
 {{< gallery >}}
-  {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/S/IMG_3385-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg" caption="Tentativi di discesa" >}}
-  {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/S/IMG_3386-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/X3/IMG_3386-X3.jpg" caption="Tentativi di discesa" >}}
-  {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dt327gQ/0/9acf85f0/S/IMG_3396-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dt327gQ/0/9acf85f0/X3/IMG_3396-X3.jpg" caption="Tentativi di discesa" >}}
+{{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/S/IMG_3385-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg" caption="Tentativi di discesa" >}}
+{{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/S/IMG_3386-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-GrXPLsV/0/d65852a4/X3/IMG_3386-X3.jpg" caption="Tentativi di discesa" >}}
+{{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dt327gQ/0/9acf85f0/S/IMG_3396-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dt327gQ/0/9acf85f0/X3/IMG_3396-X3.jpg" caption="Tentativi di discesa" >}}
 {{< /gallery >}}
 
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-XhSXWFC/0/669466ba/L/IMG_3423-L.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-XhSXWFC/0/669466ba/X3/IMG_3423-X3.jpg" caption="Pupazzo di neve birichino 😜">}}
 
 [Qui trovate tutte le foto](https://photos.marcozeta.com/SpaceTimePoints/2020-03-01-ValVenegia)
-
 
 ## In breve
 
