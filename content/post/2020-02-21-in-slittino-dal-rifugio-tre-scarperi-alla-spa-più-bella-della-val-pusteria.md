@@ -28,6 +28,11 @@ Lungo il sentiero che si intreccia alla strada
 
 In slittino!!
 
+![Pronti per lo slittino](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-vdZMfk4/0/4ed6c567/X3/IMG_3240-X3.jpg)
+
+![Traguardo!](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-rS29Q9P/0/8bd6c655/X3/IMG_3247-X3.jpg)
+
+
 ## Riassunto
 
 <iframe src="https://www.komoot.com/tour/114571639/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
