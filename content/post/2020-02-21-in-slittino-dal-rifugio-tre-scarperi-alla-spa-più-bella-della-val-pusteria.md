@@ -12,8 +12,22 @@ title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pust
 
 E\` possibile parcheggiare [qui](https://goo.gl/maps/7VW3TH4otornwKqZA) oppure proseguire lungo una strada con il fondo parzialmente ghiacciato fino a [qui](https://goo.gl/maps/dyjZEhSVhP2YoGgd6). Da qui in poi la strada (in inverno) è chiusa con una transenna e dedicata alle discese in slittino (e alle salite a piedi!).
 
+## Salita 
 
+Lungo il sentiero che si intreccia alla strada
 
-## Riassunto 
+## Discesa
+
+In slittino!!
+
+## Riassunto
 
 <iframe src="https://www.komoot.com/tour/114571639/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+## SPA
+
+[Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) 3 ore, 21 €
+
+## Cena
+
+[Lanterna Verde](https://www.gruenelaterne.it/en/gruene-laterne.html)
