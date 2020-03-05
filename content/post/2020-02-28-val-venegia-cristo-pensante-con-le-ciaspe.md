@@ -7,11 +7,9 @@ tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensa
 title = "Val Venegia: giro ad Anello con le ciaspe sotto la neve!"
 
 +++
-Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito  Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  e ci incamminiamo verso la Malga Venegia (mt. 1778).
-
-In inverno, la strada che conduce fino alla Malga Venegia è percorribile solo a piedi e proprio per questo decidiamo di lasciare l’auto a Pian dei Casoni. Dalla Malga Venegia un sentiero in leggera e costante pendenza sale nel bosco. In circa 45 minuti raggiugiamo un pianoro.  Proseguiamo dritti per il sentiero in direzione Baita Segantini (mt. 2170) attraversando la Val Venegia.  Un cartello indica la via per il “trekking del Cristo pensante” (mt. 2260) a cui si arriva in circa un'ora di camminata, circa 3 km e 130 mt di dislivello. questa deviazione si può tranquillamente saltare se si prosegue verso Passo Rolle.
-
-Dal Cristo Pesante scendiamo in direzione Capanna Cervino (mt 2.082). Da qui andiamo verso Malga Juribello con ritorno a Pian dei Casoni.
+Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!   
+  
+Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, la strada in macchina è pulita anche se sta già nevicando, basta avere un po' di abilità alla guida per gestire i tornanti. Il parcheggio è mezzo vuoto; lasciamo le auto e prendiamo un piccolo sentiero che attraversa un ponte e si dirige verso Malga Juribello. Il giro ad anello si può infatti fare in entrambi i sensi, o verso Malga Juribello o verso Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
 {{< load-photoswipe >}}
 
