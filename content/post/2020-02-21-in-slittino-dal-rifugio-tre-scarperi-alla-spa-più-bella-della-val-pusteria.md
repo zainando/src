@@ -28,7 +28,7 @@ Arriviamo in circa un'ora e mezza (comprese soste fotografiche e non) al Rifugio
 Rifugio Tre Scarperi 0474 966610 [www.drei-schuster-huette.com](http://www.drei-schuster-huette.com/)
 
   
-![Momomento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-DPrx2qG/0/f449d34a/X3/IMG_3227-X3.jpg)
+![Momomento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-Ln33vQc/0/04ab20cc/X3/IMG_3226-X3.jpg)
 
 ## Discesa in slittino!
 
