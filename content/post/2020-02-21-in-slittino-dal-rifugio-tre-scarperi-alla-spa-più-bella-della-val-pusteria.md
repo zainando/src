@@ -12,9 +12,17 @@ title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pust
 
 E\` possibile parcheggiare [qui](https://goo.gl/maps/7VW3TH4otornwKqZA) oppure proseguire lungo una strada con il fondo parzialmente ghiacciato fino a [qui](https://goo.gl/maps/dyjZEhSVhP2YoGgd6). Da qui in poi la strada (in inverno) è chiusa con una transenna e dedicata alle discese in slittino (e alle salite a piedi!).
 
+![Ponticello alla partenza del sentiero in mezzo al bosco](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-8KnhFT4/0/451f3927/X3/IMG_3194-X3.jpg)
+
+
+
 ## Salita 
 
 Lungo il sentiero che si intreccia alla strada
+
+![L'uscita dal bosco](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-FgQk23s/0/20358eae/X3/IMG_3210-X3.jpg)
+
+![Momomento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-DPrx2qG/0/f449d34a/X3/IMG_3227-X3.jpg)
 
 ## Discesa
 
