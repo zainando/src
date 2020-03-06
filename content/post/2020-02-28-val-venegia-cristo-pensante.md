@@ -1,9 +1,9 @@
 +++
 date = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-4KVCsfX/0/053cf394/X3/IMG_3331-X3.jpg"
 series = ""
-slug = ""
+slug = "val-venegia-cristo-pensante"
 tags = []
 title = "Val Venegia & Cristo Pensante"
 
