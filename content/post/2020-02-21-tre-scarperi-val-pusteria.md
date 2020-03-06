@@ -5,8 +5,9 @@ series = "Montagna"
 slugh = "2020-02-21-tre-scarperi-val-pusteria"
 tags = ["Sauna", "SPA", "Sesto", "Montagna", "Slittino"]
 title = "In slittino dal Rifugio Tre Scarperi alla SPA più bella della Val Pusteria"
-
+description = "La passeggiata fino al Rifugio Tre Scarperi è semplice e breve adatta a camminatori poco allenati o alle prime esperienze con la montagna, specialmente in inverno: abbiamo programmato infatti questa escursione sulle esigenze di una coppia di amici non abituata alle alte quote ma che voleva provare per la prima volta l'esperienza con le ciaspole. La possibilità di unire cammino e relax in un'unica uscita ha contribuito a rendere la giornata super!"
 +++
+
 La passeggiata fino al Rifugio Tre Scarperi è semplice e breve adatta a camminatori poco allenati o alle prime esperienze con la montagna, specialmente in inverno: abbiamo programmato infatti questa escursione sulle esigenze di una coppia di amici non abituata alle alte quote ma che voleva provare per la prima volta l'esperienza con le ciaspole. La possibilità di unire cammino e relax in un'unica uscita ha contribuito a rendere la giornata super!
 
 ## Trekking e relax a Sesto: una facile escursione adatta a tutti
