@@ -27,6 +27,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/2020-02-28-val-venegia-cristo-pensante.md
 - content/post/azzorre-trekking.md
 - content/post/dal-sass-pordoi-ai-piz-boè.md
 - content/post/indonesia.md
@@ -35,4 +36,3 @@ pages:
 - content/post/madeira.md
 - content/post/rifugio-fonda-savio-dal-lago-d-atorno.md
 - content/post/rifugio-fuciade.md
-- content/post/val-venegia-cristo-pensante.md
