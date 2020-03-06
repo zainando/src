@@ -8,6 +8,12 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: Small summary for the post preview
 - name: image
   type: text
   config:
