@@ -1,13 +1,13 @@
 +++
 date = 2020-02-28T23:00:00Z
+description = "Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti! "
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-Ciaspolata-Val-Venegia/i-jbtRNR7/0/a9f4110f/X3/IMG_3331-X3.jpg"
 series = "Montagna"
-slug = "val-venegia-cristo-pensante-con-le-ciaspe"
+slug = ""
 tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensante", "Ciaspe", "Val Venegia", "Trentino", "montagna"]
 title = "Val Venegia: giro ad Anello con le ciaspe sotto la neve!"
-description = "Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti! "
-+++
 
++++
 Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!   
   
 Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, la strada in macchina è pulita anche se sta già nevicando, basta avere un po' di abilità alla guida per gestire i tornanti. Il parcheggio è mezzo vuoto; lasciamo le auto e prendiamo un piccolo sentiero che attraversa un ponte e si dirige verso Malga Juribello. Il giro ad anello si può infatti fare in entrambi i sensi, o verso Malga Juribello o verso Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
