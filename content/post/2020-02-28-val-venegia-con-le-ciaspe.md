@@ -4,9 +4,9 @@ description = "Lo scorso weekend era prevista una domenica di piggia in pianura 
 draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mSbjP/0/706001c8/X3/IMG_3337-X3.jpg"
 series = "Montagna"
-slug = "2020-02-28-val-venegia-ciaspe"
+slug = 2020-02-28T00:00:00Z
 tags = ["Giro ad anello", "Trekking invernale", "Baita Segantini", "Cristo Pensante", "Ciaspe", "Val Venegia", "Trentino", "montagna"]
-title = "Val Venegia: giro ad Anello con le ciaspe sotto la neve!"
+title = "Val Venegia: giro ad Anello con le ciaspe!"
 
 +++
 Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!   
