@@ -12,7 +12,7 @@ fields:
   type: text
   config:
     required: false
-  label: Description
+  label: description
   description: Small summary for the post preview
 - name: image
   type: text
