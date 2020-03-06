@@ -1,9 +1,10 @@
 +++
 date = ""
+description = ""
 draft = true
 image = ""
 series = ""
-slug = ""
+slug = "istanbul-e-cappadocia"
 tags = []
 title = "Istambul e Cappadocia"
 
