@@ -29,3 +29,6 @@ disqusShortname = "zainando"
 category = "categories"
 serie = "series"
 tag = "tags"
+
+[permalinks]
+  posts = "/post/:slug/"
