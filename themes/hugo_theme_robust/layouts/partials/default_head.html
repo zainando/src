@@ -15,17 +15,17 @@
 
     {{ if eq .Permalink "/" }}
     <title>{{ .Title }}</title>
-    <meta property='og:title' content="{{ .Title }}">
-    <meta property="og:type" content="website">
+    <meta property='og:title' content="{{ .Title }}" />
+    <meta property="og:type" content="website" />
     {{ else }}
     <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}">
-    <meta property="og:type" content="article">
+    <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}" />
+    <meta property="og:type" content="article" />
     {{ end }}
 
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Params.image }}<meta property="og:image" content="{{ . }}">{{ end }}
+    {{ with .Description }}<meta name="description" content="{{ . }}" />{{ end }}
+    {{ with .Params.image }}<meta property="og:image" content="{{ . }}" />{{ end }}
   </head>
 
   <body>
