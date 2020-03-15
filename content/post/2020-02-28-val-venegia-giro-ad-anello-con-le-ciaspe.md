@@ -4,7 +4,7 @@ description = "Lo scorso weekend era prevista una domenica di piggia in pianura 
 draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mSbjP/0/706001c8/X3/IMG_3337-X3.jpg"
 series = "Montagna"
-slug = "2020-02-28-val-venegia-con-le-ciaspe"
+slug = "val-venegia-con-le-ciaspe"
 tags = ["montagna", "trentino", "val venegia", "ciaspe", "baita segantini", "trekking montagna", "giro ad anello"]
 title = "Val Venegia: giro ad Anello con le ciaspe!"
 
