@@ -25,6 +25,8 @@ Dal rigufio seguire...
 
 ## Salita al Rif. Giussani
 
+![Salita al Rifugio Giussani](https://photos.smugmug.com/SpaceTimePoints/2019-08-18-SentieroAstaldi/i-ZfpjvLw/0/a28ab60e/X3/2019-08-18-Sentiero_Astaldi-069_IMG_5296-X3.jpg)
+
 ## Discesa al Rif. Dibona
 
 ## In breve 
