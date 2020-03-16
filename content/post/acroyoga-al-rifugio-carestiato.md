@@ -13,7 +13,12 @@ title = "Acroyoga al Rifugio Carestiato"
 
 Passo Duran, rifugio San Sebastiano.
 
+![La vista da Passo Duran](https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-nLkQfLz/0/0e0fe63f/X3/IMG_1013-X3.jpg)
+
 ## Percorso
+
+![Salita](https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-rPm4wq5/0/c8678d12/X3/IMG_1027-X3.jpg)
+
 
 ## Acro
 
