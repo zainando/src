@@ -1,10 +1,14 @@
 +++
 date = 2019-08-18T00:00:00Z
+description = "Il sentiero Astaldi è un sentiero attrezzato caratterizzato da colori intensi e dalla vista mozzafiato"
 draft = true
 image = "https://photos.smugmug.com/photos/i-QPj35RB/0/0394a5cd/X3/i-QPj35RB-X3.jpg"
 series = "Montagna"
-tags = ["montagna", "ferrate"]
+slug = "sentiero-astaldi"
+tags = ["montagna", "colori", "ferrata", "ferrate", "trekking montagna", "astaldi", "tofana", "dolomiti", "dolomites"]
 title = "Sentiero Astaldi: la ferrata dei colori"
+
++++
 
 +++
 ## Partenza: Rif. Pomedes
