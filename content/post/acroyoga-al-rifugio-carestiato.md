@@ -1,6 +1,6 @@
 +++
 date = 2020-01-24T23:00:00Z
-description = "Acro al Carestiato......."
+description = "Facile e breve passeggiata al Rifugio Carestiato"
 draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-MRDDrJd/0/c792b33e/X3/IMG_1110-X3.jpg"
 series = "Montagna"
