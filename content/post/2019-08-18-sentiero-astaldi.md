@@ -9,14 +9,23 @@ title = "Sentiero Astaldi: la ferrata dei colori"
 +++
 ## Partenza: Rif. Pomedes
 
+![Vista dal Rifugio Pomedes](https://photos.smugmug.com/SpaceTimePoints/2019-08-18-SentieroAstaldi/i-q72PcFj/0/d3b8ab69/X3/2019-08-18-Sentiero_Astaldi-003_IMG_5230-X3.jpg)
+
 Parcheggio alla base della funivia....
 
 Funivia fino al rifugio Pomedes
 
 Dal rigufio seguire...
 
+![Attacco del sentiero](https://photos.smugmug.com/SpaceTimePoints/2019-08-18-SentieroAstaldi/i-6VhHsz4/0/e5c211c0/X3/2019-08-18-Sentiero_Astaldi-008_IMG_5235-X3.jpg)
+
 ## Sentiero Astaldi
 
 ## Salita al Rif. Giussani
 
 ## Discesa al Rif. Dibona
+
+## In breve 
+
+<iframe src="https://www.komoot.com/tour/87211569/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
