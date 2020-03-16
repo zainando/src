@@ -28,4 +28,6 @@ Passo Duran, rifugio San Sebastiano.
 
 <iframe src="https://www.komoot.com/tour/111147300/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+![Panorama durante la discesa](https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-CzQ5dnk/0/91a429cc/X3/IMG_1029-X3.jpg)
+
 Tutte le foto [qui](https://photos.marcozeta.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato).
