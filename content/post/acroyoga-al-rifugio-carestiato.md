@@ -9,4 +9,6 @@ tags = ["Camminate", "Acroyoga", "Montagna"]
 title = "Acroyoga al Rifugio Carestiato"
 
 +++
-asdasdasd
+## Partenza
+
+Tutte le foto [qui](https://photos.marcozeta.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato).
