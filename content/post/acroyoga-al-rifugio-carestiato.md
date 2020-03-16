@@ -12,3 +12,9 @@ title = "Acroyoga al Rifugio Carestiato"
 ## Partenza
 
 Tutte le foto [qui](https://photos.marcozeta.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato).
+
+
+## In breve
+
+<iframe src="https://www.komoot.com/tour/111147300/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
