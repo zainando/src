@@ -17,6 +17,8 @@ Passo Duran, rifugio San Sebastiano.
 
 ## Acro
 
+![Acro](https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-6wkVW5K/0/3cb3246f/X3/IMG_1070-X3.jpg)
+
 ## In breve
 
 <iframe src="https://www.komoot.com/tour/111147300/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
