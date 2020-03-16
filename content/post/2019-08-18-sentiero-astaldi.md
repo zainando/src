@@ -7,3 +7,16 @@ tags = ["montagna", "ferrate"]
 title = "Sentiero Astaldi: la ferrata dei colori"
 
 +++
+## Partenza: Rif. Pomedes
+
+Parcheggio alla base della funivia....
+
+Funivia fino al rifugio Pomedes
+
+Dal rigufio seguire...
+
+## Sentiero Astaldi
+
+## Salita al Rif. Giussani
+
+## Discesa al Rif. Dibona
