@@ -9,8 +9,6 @@ tags = ["montagna", "colori", "ferrata", "ferrate", "trekking montagna", "astald
 title = "Sentiero Astaldi: la ferrata dei colori"
 
 +++
-
-+++
 ## Partenza: Rif. Pomedes
 
 ![Vista dal Rifugio Pomedes](https://photos.smugmug.com/SpaceTimePoints/2019-08-18-SentieroAstaldi/i-q72PcFj/0/d3b8ab69/X3/2019-08-18-Sentiero_Astaldi-003_IMG_5230-X3.jpg)
@@ -32,4 +30,3 @@ Dal rigufio seguire...
 ## In breve 
 
 <iframe src="https://www.komoot.com/tour/87211569/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-
