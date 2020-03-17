@@ -1,12 +1,14 @@
 +++
-date = "2017-04-21"
-title = "SVQ#7: Mangiare al mercato"
+date = 2017-04-21T00:00:00Z
+description = ""
 draft = true
 image = "https://photos.smugmug.com/photos/i-48jkcBr/0/c8c6e654/X3/i-48jkcBr-X3.jpg"
 series = "Spagna 2017"
+slug = "svq-7-mangiare-al-mercato"
 tags = ["spagna", "siviglia", "travel"]
-+++
+title = "SVQ#7: Mangiare al mercato"
 
++++
 Lonja de Feria
 
 ![feria1](/images/siviglia2017/day3/20170421145620_IMG_3897-01.jpg)
