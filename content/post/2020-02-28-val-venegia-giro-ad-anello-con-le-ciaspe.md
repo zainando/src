@@ -11,9 +11,11 @@ title = "Val Venegia: giro ad Anello con le ciaspe!"
 +++
 Lo scorso weekend (febbraio 2020) era prevista una domenica di pioggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria  nevicata da novembre: impossibile rimanere a casa! 
 
-Decidiamo con qualche amico di percorrere un giro ad anello in Val Venegia, proposto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo scelto un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!
+Decidiamo con qualche amico di percorrere un giro ad anello in Val Venegia, proposto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo scelto un itinerario già visto da almeno uno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!
 
-Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, la strada in macchina è pulita anche se sta già nevicando, basta avere un po' di abilità alla guida per gestire i tornanti. Il parcheggio è mezzo vuoto; lasciamo le auto e prendiamo un piccolo sentiero che attraversa un ponte e si dirige verso Malga Juribello. Il giro ad anello si può infatti fare in entrambi i sensi, o verso Malga Juribello o verso Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
+Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, troviamo la strada pulita anche se stava già nevicando da qualche ora, la strada non presenta difficioltà, basta avere un po' di abilità alla guida per gestire i tornanti. Arriviamo al parcheggio in cui ci sono solo poche auto; lasciamo le nostre e prendiamo un piccolo sentiero che inizia con un ponticello con le indicazioni verso Malga Juribello. 
+
+Il giro ad anello si può infatti fare in entrambi i sensi, o verso Malga Juribello o verso Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
 {{< load-photoswipe >}}
 
