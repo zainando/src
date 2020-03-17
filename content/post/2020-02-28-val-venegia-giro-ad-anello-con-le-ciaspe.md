@@ -9,8 +9,10 @@ tags = ["montagna", "trentino", "val venegia", "ciaspe", "baita segantini", "tre
 title = "Val Venegia: giro ad Anello con le ciaspe!"
 
 +++
-Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!   
-  
+Lo scorso weekend (febbraio 2020) era prevista una domenica di pioggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria  nevicata da novembre: impossibile rimanere a casa! 
+
+Decidiamo con qualche amico di percorrere un giro ad anello in Val Venegia, proposto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo scelto un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti!
+
 Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, la strada in macchina è pulita anche se sta già nevicando, basta avere un po' di abilità alla guida per gestire i tornanti. Il parcheggio è mezzo vuoto; lasciamo le auto e prendiamo un piccolo sentiero che attraversa un ponte e si dirige verso Malga Juribello. Il giro ad anello si può infatti fare in entrambi i sensi, o verso Malga Juribello o verso Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
 {{< load-photoswipe >}}
@@ -68,4 +70,3 @@ Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato
 Ringraziamo per la descrizione invernale [http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/](http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/ "http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/")
 
 Per il giro al Trekking del Cristo Pensante: [http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/](http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/ "http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/")
-
