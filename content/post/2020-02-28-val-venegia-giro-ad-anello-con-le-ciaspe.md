@@ -1,6 +1,6 @@
 +++
 date = 2020-02-27T23:00:00Z
-description = "Lo scorso weekend era prevista una domenica di piggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria da novembre: impossibile rimanere a casa! Decidiamo così un piacevole giro ad anello in Val Venegia, scelto da Marco G. in quanto c'era stato di recente e conosceva bene il percorso. Non sapendo infatti come sarebbero state le condizioni atmosferiche, abbiamo preferito scegliere un itinerario già visto da almeno qualcuno di noi che avrebbe potuto guidare la strada in caso di scarsa visibilità e che dire.. siamo stati previdenti! "
+description = "Da Malga Juribello a Baita Segantini proseguendo per la Val Venegia: una ciaspolata immersi nel bianco"
 draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mSbjP/0/706001c8/X3/IMG_3337-X3.jpg"
 series = "Montagna"
