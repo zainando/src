@@ -15,7 +15,7 @@ Decidiamo con qualche amico di percorrere un giro ad anello in Val Venegia, prop
 
 Il giro è lungo 16km  e consigliato a camminatori "in gamba", noi nonostante l'allenamento maturato questo inverno siamo arrivati alla fine con le gambe molto stanche! Non presenta particolari difficoltà tecniche a livello di percorso, per la salita iniziale è richiesto un po' di fiato.
 
-Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, troviamo la strada pulita anche se stava già nevicando da qualche ora, la strada non presenta difficioltà, basta avere un po' di abilità alla guida per gestire i tornanti. Arriviamo al parcheggio in cui ci sono solo poche auto; lasciamo le nostre e prendiamo un piccolo sentiero che inizia con un ponticello con le indicazioni verso Malga Juribello.
+Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato il Passo Valles, troviamo la strada pulita anche se stava già nevicando da qualche ora. Arriviamo al parcheggio in cui ci sono solo poche auto; lasciamo le nostre e prendiamo un piccolo sentiero che inizia con un ponticello con le indicazioni verso Malga Juribello.
 
 Il giro ad anello può essere percorso in entrambi i sensi, verso Malga Juribello come abbiamo fatto noi oppure attraversando subito la Val Venegia e puntando a Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
