@@ -23,9 +23,13 @@ Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoc
 
 La tentazione di fermarci qui e concludere la nostra gita con una mangiata fa capolino, ma per fortuna teniamo duro e proseguiamo; in circa mezz'ora di salita che costeggia la pista da sci arriviamo a Baita Segantini: ce l'abbiamo fatta! Al piano superiore si trova il ristorante, ma leggiamo sul cartello che il servizio cucina chiude alle 14.00, e sono esattamente le 14.00 quando ci arriviamo; andiamo così al "piano terra" con il dove si trova il bar: ordiniamo un panino e una birra a testa per scaldarci un po', anche se ci eravamo portati il pranzo al sacco. 
 
-Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista dei monti innevati, un vero spettacolo! Quando ripartiamo ha ripreso a nevicare e il cielo si è nuovamente ricoperto. La discesa verso la Val Venegia avviene su mulattiera larga a tornanti; è davvero piacevole percorrerla in discesa e concedersi qualche fuoripista sulla neve appena scesa! Questo secondo pezzo di anello è più lungo di quello percorso alla mattina; ma farlo con la pancia piena e in discesa lo rende super gradito. 
+Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista dei monti innevati, un vero spettacolo! Quando ripartiamo ha ripreso a nevicare e il cielo si è nuovamente ricoperto. La discesa verso la Val Venegia avviene su mulattiera larga a tornanti; è davvero piacevole percorrerla in discesa e concedersi qualche fuoripista sulla neve appena scesa! Questo secondo pezzo di anello è più lungo di quello percorso alla mattina; ma farlo con la pancia piena e in discesa lo rende super gradito. Ecco perchè abbiamo scelto di farlo in questo senso ;) 
 
-Passiamo di fronte a Malgia Venegiota e Malga Venegia, entrambe chiuse d'inverno; lungo la strada facciamo un incontro singolare con un pupazzo di neve alto come noi (o meglio come qualcuno di noi!!) realizzato con massima cura, speriamo da qualche bambino. 
+Passiamo di fronte a Malgia Venegiota e Malga Venegia, entrambe chiuse d'inverno; lungo la strada facciamo un incontro singolare con un pupazzo di neve alto come noi (o meglio come qualcuno di noi!!) realizzato con massima cura da qualche bambino passato prima di noi. 
+
+Dopo circa 5 ore di camminata (tolte pause fotografiche e pausa pranzo) siamo arrivati alle macchine: siamo gli unici rimasti in parcheggio!
+
+Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per una nuova avventura: al giro infatti si puà aggiungere una tappa verso la cima del Monte del Cristo Pensante, per un'ora circa di percorso aggiuntivo. 
 
 {{< load-photoswipe >}}
 
