@@ -6,7 +6,7 @@ image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mS
 series = "Montagna"
 slug = "val-venegia-con-le-ciaspe"
 tags = ["montagna", "trentino", "val venegia", "ciaspe", "baita segantini", "trekking montagna", "giro ad anello"]
-title = "Val Venegia: giro ad Anello con le ciaspe!"
+title = "Val Venegia: giro ad Anello sotto la neve!"
 
 +++
 Lo scorso weekend (febbraio 2020) era prevista una domenica di pioggia in pianura mentre in montagna era attesa una buona dose di neve, la prima seria  nevicata da novembre: impossibile rimanere a casa!
@@ -19,13 +19,15 @@ Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato
 
 Il giro ad anello può essere percorso in entrambi i sensi, verso Malga Juribello come abbiamo fatto noi oppure attraversando subito la Val Venegia e puntando a Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
+### La salita
+
+Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoci sudare e togliere i primi strati di vestiario;  qui facciamo delle splendide foto con la neve che ancora scende dolcemente su di noi.
+
 {{< load-photoswipe >}}
 
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/L/IMG_3290-L.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg" caption="Prima sosta foto in mezzo alla neve!!!">}}
 
-### La salita
-
-Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoci sudare e togliere i primi strati di vestiario;  qui facciamo delle splendide foto con la neve che ancora scende dolcemente su di noi. Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto di strada si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare ed è poco tracciato; ci guida Marco G. che controlla il percorso sul GPS, in quanto la nostra visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare. Avanzare senza ciaspe diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. La Malga dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta essere salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
+ Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto di strada si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare ed è poco tracciato; ci guida Marco G. che controlla il percorso sul GPS, in quanto la nostra visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare. Avanzare senza ciaspe diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. La Malga dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta essere salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
 
 La tentazione di fermarci qui e concludere la nostra gita con una mangiata fa capolino, ma per fortuna teniamo duro e proseguiamo; in circa mezz'ora di salita che costeggia la pista da sci arriviamo a Baita Segantini: ce l'abbiamo fatta! 
 
