@@ -19,23 +19,19 @@ Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato
 
 Il giro ad anello può essere percorso in entrambi i sensi, verso Malga Juribello come abbiamo fatto noi oppure attraversando subito la Val Venegia e puntando a Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
-Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoci sudare e togliere i primi strati di vestiario;  qui facciamo delle splendide foto con la neve che ancora scende dolcemente su di noi. Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto di strada si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare ed è poco tracciato; ci guida Marco G. che controlla il percorso sul GPS, in quanto la nostra visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare. Avanzare senza ciaspe diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. La Malga dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta essere salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
-
-La tentazione di fermarci qui e concludere la nostra gita con una mangiata fa capolino, ma per fortuna teniamo duro e proseguiamo; in circa mezz'ora di salita che costeggia la pista da sci arriviamo a Baita Segantini: ce l'abbiamo fatta! Al piano superiore si trova il ristorante, ma leggiamo sul cartello che il servizio cucina chiude alle 14.00, e sono esattamente le 14.00 quando ci arriviamo; andiamo così al "piano terra" con il dove si trova il bar: ordiniamo un panino e una birra a testa per scaldarci un po', anche se ci eravamo portati il pranzo al sacco.
-
-Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista dei monti innevati, un vero spettacolo! Quando ripartiamo ha ripreso a nevicare e il cielo si è nuovamente ricoperto. La discesa verso la Val Venegia avviene su mulattiera larga a tornanti; è davvero piacevole percorrerla in discesa e concedersi qualche fuoripista sulla neve appena scesa! Questo secondo pezzo di anello è più lungo di quello percorso alla mattina; ma farlo con la pancia piena e in discesa lo rende super gradito. Ecco perchè abbiamo scelto di farlo in questo senso ;)
-
-Passiamo di fronte a Malgia Venegiota e Malga Venegia, entrambe chiuse d'inverno; lungo la strada facciamo un incontro singolare con un pupazzo di neve alto come noi (o meglio come qualcuno di noi!!) realizzato con massima cura da qualche bambino passato prima di noi.
-
-Dopo circa 5 ore di camminata (tolte pause fotografiche e pausa pranzo) siamo arrivati alle macchine: siamo gli unici rimasti in parcheggio!
-
-Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per intraprendere una nuova avventura: al giro infatti si può aggiungere una tappa verso la cima del Monte Castellaz per raggiungere il Cristo Pensante, che si raggiunge in un'ora di cammino circa da Capanna Cervino. In inverno non è prudente percorrerla in quanto il sentiero è poco battuto e sarebbe stato difficile individuarlo. Tutta una scusa per tornare! 
-
 {{< load-photoswipe >}}
 
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/L/IMG_3290-L.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg" caption="Prima sosta foto in mezzo alla neve!!!">}}
 
 ### La salita
+
+Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoci sudare e togliere i primi strati di vestiario;  qui facciamo delle splendide foto con la neve che ancora scende dolcemente su di noi. Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto di strada si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare ed è poco tracciato; ci guida Marco G. che controlla il percorso sul GPS, in quanto la nostra visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare. Avanzare senza ciaspe diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. La Malga dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta essere salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
+
+La tentazione di fermarci qui e concludere la nostra gita con una mangiata fa capolino, ma per fortuna teniamo duro e proseguiamo; in circa mezz'ora di salita che costeggia la pista da sci arriviamo a Baita Segantini: ce l'abbiamo fatta! 
+
+Al piano superiore si trova il ristorante, ma leggiamo sul cartello che il servizio cucina chiude alle 14.00, e sono esattamente le 14.00 quando ci arriviamo; andiamo così al "piano terra" con il dove si trova il bar: ordiniamo un panino e una birra a testa per scaldarci un po', anche se ci eravamo portati il pranzo al sacco.
+
+Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista dei monti innevati, un vero spettacolo! Quando ripartiamo ha ripreso a nevicare e il cielo si è nuovamente ricoperto. 
 
 {{< gallery >}}
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-HVJ5tVv/0/3fb63b88/S/IMG_3272-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-HVJ5tVv/0/3fb63b88/X3/IMG_3272-X3.jpg" caption="">}}
@@ -56,6 +52,14 @@ Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per intra
 {{< /gallery >}}
 
 ### Il ritorno
+
+La discesa verso la Val Venegia avviene su mulattiera larga a tornanti; è davvero piacevole percorrerla in discesa e concedersi qualche fuoripista sulla neve appena scesa! Questo secondo pezzo di anello è più lungo di quello percorso alla mattina; ma farlo con la pancia piena e in discesa lo rende super gradito. Ecco perchè abbiamo scelto di farlo in questo senso ;)
+
+Passiamo di fronte a Malgia Venegiota e Malga Venegia, entrambe chiuse d'inverno; lungo la strada facciamo un incontro singolare con un pupazzo di neve alto come noi (o meglio come qualcuno di noi!!) realizzato con massima cura da qualche bambino passato prima di noi.
+
+Dopo circa 5 ore di camminata (tolte pause fotografiche e pausa pranzo) siamo arrivati alle macchine: siamo gli unici rimasti in parcheggio!
+
+Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per intraprendere una nuova avventura: al giro infatti si può aggiungere una tappa verso la cima del Monte Castellaz per raggiungere il Cristo Pensante, che si raggiunge in un'ora di cammino circa da Capanna Cervino. In inverno non è prudente percorrerla in quanto il sentiero è poco battuto e sarebbe stato difficile individuarlo. Tutta una scusa per tornare! 
 
 {{< gallery >}}
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/S/IMG_3385-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-jbMZ2wD/0/7877a9d1/X3/IMG_3385-X3.jpg" caption="Tentativi di discesa" >}}
