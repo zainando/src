@@ -1,7 +1,6 @@
 +++
 date = 2020-02-27T23:00:00Z
 description = "Da Malga Juribello a Baita Segantini proseguendo per la Val Venegia: una ciaspolata immersi nel bianco"
-draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mSbjP/0/706001c8/X3/IMG_3337-X3.jpg"
 series = "Montagna"
 slug = "val-venegia-con-le-ciaspe"
