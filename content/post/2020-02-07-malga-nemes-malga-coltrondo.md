@@ -7,11 +7,16 @@ tags = ["Italia", "Montagna"]
 title = "Malga Nemes - Malga Coltrondo"
 
 +++
-Itinerario: Da Passo Monte Croce a Malga Nemes proseguendo per Malga Coltrondo
+## In breve
 
-Tempo di percorrenza: un'ora e un quarto
+* Itinerario: Da Passo Monte Croce a Malga Nemes proseguendo per Malga Coltrondo
+* Lunghezza percorso 12km
+* Dislivello 400 mt
+* Tempo di Percorrenza: 3 ore
 
-Dislivello: 240 metri
+<iframe src="https://www.komoot.com/tour/112856515/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+## Il percorso
 
 Parcheggiamo a Passo Monte Croce, c'è un piccolo parcheggio che era già pieno quando siamo arrivati, ore 11.00 circa, ma abbiamo trovato posto senza problemi lungo la strada che era pulitissima. Il primo pezzo del percorso è lungo una pista battuta, non abbiamo avuto bisogno di utilizzare le ciaspole anche se in alcuni punti era possibile scegliere un percorso alternativo dove la neve era un pelo più alta.
 
@@ -41,12 +46,3 @@ Il sentiero è adatto a escursionisti principianti fino a Malga Nemes e Malga Co
 
 Per chi vuole alzare l'asticella di difficoltà, da Malga Nemes può scegliere di proseguire vero Monte Rosso. Si prosegue per il sentiero n.13 verso il Rio di Pulla, per poi prendere il segnavia n. 14 seguendo la fine della valle. Il percorso diventa sempre più ripido fino ad arrivare alla cima del Monte Rosso.
 
-## Riassunto
-
-Per questa escursione:
-
-* Lunghezza percorso 12km
-* Dislivello 800 mt
-* Tempo di Percorrenza: 5-6 ore totali
-
-<iframe src="https://www.komoot.com/tour/112856515/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
