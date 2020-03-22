@@ -1,5 +1,5 @@
 +++
-date = 2018-06-17T00:00:00Z
+date = 2018-06-17T09:00:00Z
 title = "Monte Rite e Museo Messner in estate"
 draft = true
 tags = [ "montagna", "veneto"]
