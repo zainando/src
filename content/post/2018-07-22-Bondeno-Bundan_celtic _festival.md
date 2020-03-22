@@ -1,8 +1,9 @@
 +++
-date = "2018-07-22"
-title = "Bundan Celtic Festival"
+date = 2018-07-22T00:00:00Z
 draft = true
-tags = ["festival", "celtic"]
 series = "Festival"
+slug = "bundan-celtic-festival"
+tags = ["festival", "celtic"]
+title = "Bundan Celtic Festival"
 +++
 

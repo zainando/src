@@ -1,10 +1,12 @@
 +++
-series = "Montagna"
-date = "2017-12-10"
-title = "Monte Grappa sotto la neve"
+date = 2017-12-10T00:00:00Z
+description = ""
 draft = true
-tags = ["fuochi d'artificio", "fireworks", "santo patrono", "italia"]
-slug = "monte-grappa-sotto-la-neve"
 image = "https://photos.smugmug.com/photos/i-SZh44bL/0/77bf4a8b/X3/i-SZh44bL-X3.jpg"
+series = "Montagna"
+slug = "monte-grappa-sotto-la-neve"
+tags = ["fuochi d'artificio", "fireworks", "santo patrono", "italia"]
+title = "Monte Grappa sotto la neve"
+
 +++
 

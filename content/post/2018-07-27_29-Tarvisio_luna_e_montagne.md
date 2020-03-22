@@ -3,6 +3,7 @@ date = 2018-08-02T00:00:00Z
 draft = true
 image = "https://photos.smugmug.com/photos/i-9CxXKtp/0/ca12822d/X3/i-9CxXKtp-X3.jpg"
 series = "Montagna"
+slug = "tarvisio-luna-e-montagne"
 tags = ["montagna", "eclissi", "slovenia"]
 title = "Tarvisio tra luna e montagne"
 

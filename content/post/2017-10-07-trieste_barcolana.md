@@ -1,8 +1,12 @@
 +++
-date = "2017-10-07"
-title = "Barcolana"
+date = 2017-10-07T00:00:00Z
+description = ""
 draft = true
-tags = ["barcolana", "trieste", "friuli venezia giulia", "italia"]
+image = ""
 series = "Italia"
+slug = "barcolana-2017"
+tags = ["barcolana", "trieste", "friuli venezia giulia", "italia"]
+title = "Barcolana"
+
 +++
 
