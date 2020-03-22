@@ -4,6 +4,7 @@ title = "Da Roncisvalle a Larrasoaña"
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
 series = "Camino de Santiago"
+slug = "santiago-day-2"
 +++
 
 

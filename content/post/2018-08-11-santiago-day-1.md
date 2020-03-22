@@ -4,6 +4,7 @@ title = "Da Saint-Jean-Pied-de-Port a Roncisvalle"
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
 series = "Camino de Santiago"
+slug = "santiago-day-1"
 +++
 <!--image = "2018-santiago/day-1-partenza/RS-CLAN-2012-08-06_13-Santiago_de_compostela-024_v1.JPG"-->
 

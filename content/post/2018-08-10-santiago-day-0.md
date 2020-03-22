@@ -5,6 +5,7 @@ draft = true
 image = "https://photos.smugmug.com/photos/i-nK6hvkK/0/d53e97b6/L/i-nK6hvkK-L.jpg"
 tags = ["a piedi", "by foot", "santiago"]
 series = "Camino de Santiago"
+slug = "santiago-day-0"
 +++
 
 ## Partire o non partire

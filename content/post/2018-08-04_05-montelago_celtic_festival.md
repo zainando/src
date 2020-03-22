@@ -1,8 +1,10 @@
 +++
-date = "2018-08-04"
-title = "Montelago Celtic Festival 2018"
+date = 2018-08-04T09:00:00Z
 draft = true
-tags = ["festival", "celtic"]
 series = "Festival"
+slug = "montelago-celtic-festival"
+tags = ["festival", "celtic"]
+title = "Montelago Celtic Festival 2018"
+
 +++
 
