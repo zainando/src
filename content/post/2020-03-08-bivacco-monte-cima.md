@@ -1,10 +1,10 @@
 +++
-date = ""
+date = 2020-03-08T00:00:00Z
 description = ""
 draft = true
 image = ""
 series = ""
-slug = ""
+slug = "bivacco-monte-cima-ciaspole"
 tags = []
 title = "Una notte al Bivacco Argentino con ciaspolata notturna!"
 
