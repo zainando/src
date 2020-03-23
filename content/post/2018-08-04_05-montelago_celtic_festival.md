@@ -1,6 +1,8 @@
 +++
 date = 2018-08-04T09:00:00Z
 draft = true
+description = ""
+image = ""
 series = "Festival"
 slug = "montelago-celtic-festival"
 tags = ["festival", "celtic"]

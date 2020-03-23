@@ -1,9 +1,13 @@
 +++
 date = "2018-09-30"
-title = "Riassunto del Camino de Santiago"
+description = ""
 draft = true
-tags = ["a piedi", "by foot", "santiago"]
+image = ""
 series = "Camino de Santiago"
+slug = "cammino-santiago-riassunto"
+tags = ["a piedi", "by foot", "santiago"]
+title = "Riassunto del Camino de Santiago"
+
 +++
 
 # L'itinerario

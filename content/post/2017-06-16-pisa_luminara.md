@@ -7,5 +7,6 @@ series = "Ialia"
 slug = "pisa-luminara"
 tags = ["festival", "luci", "fuochi","fuochi d'artificio", "fireworks", "santo patrono", "italia"]
 title = "Pisa Luminara"
+
 +++
 
