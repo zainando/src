@@ -6,20 +6,35 @@ image = ""
 series = ""
 slug = "bivacco-monte-cima-ciaspole"
 tags = []
-title = "Una notte al Bivacco Argentino con ciaspolata notturna!"
+title = "Una notte al Bivacco Malga Cima con ciaspolata notturna!"
 
 +++
-**Ciaspolata con la luna piena: chi viene?** 
+Una notte in bivacco sul Lagorai
 
-**Itinerario** La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire in un bivacco montano per poi scendere il giorno dopo con molta calma.
+Partenza a 1325 metri 
 
-La proposta è sfidante, il percorso pure: si tratta di X km per X di dislivello, circa 3 ore di camminata previste in estate, con la neve prevediamo di impiegarne almeno un'ora in più. Non di certo un programma per novellini della montagna, ma per noi gruppo già oliato è un'occasione da cogliere!
+**dislivello:**825 metri  
+**tempo di percorrenza:**  3.00 h 
 
-Il piano è definito nei dettagli, abbiamo con noi ciaspole, ramponi, il cibo per la cena e la colazione, sacchi a pelo e materassini: siamo consapevoli però che ci saranno serie di incognite che potrebbero metterci i bastoni tra le ruote. 
+**difficoltà:** Turistico misto \[T/E\]
 
-Tra queste: non conosciamo il percorso, un amico (grazie Giorgio) lo ha fatto due settimane prima e ci ha passato la traccia GPS ma pochi giorni fa è nevicato molto e non sappiamo in che condizioni sia il sentiero, se sia battuto oppure no.  Il bivacco al nostro arrivo potrebbe già essere occupato:  la cosa non ci preoccupa particolarmente perchè è uno dei più grandi in zona, e abbiamo i materassini con noi per poter dormire anche sul pavimento. 
+ **Ciaspolata con la luna piena: chi viene?** 
 
-Pronti, partenza e via: ci troviamo alle 16.00 a Mestre e percorrendo la Castellana ci dirigiamo verso la Valsugana. Una tappa alla Decathlon di Bassano ci fa recuperare gli ultimi materiali necessari, e tra una tappa "merenda", un caffè e una spesa arriviamo all'inbocco di Malga Cenon di Sopra che ormai è buio. 
+La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire nel bivacco montano Malga Monte Cima sul gruppo del Lagorai, per poi scendere il giorno dopo con calma.
+
+La proposta è sfidante, il percorso pure: si tratta di X km per X di dislivello, circa 3 ore di camminata previste in estate, con la neve prevediamo di impiegarne almeno un'ora in più. Non di certo un programma per novellini della montagna, ma per noi gruppo oliato come il nostro è un'occasione da cogliere!
+
+Il piano è definito nei dettagli, abbiamo con noi ciaspole, ramponi, il cibo per la cena e la colazione, sacchi a pelo e materassini: siamo consapevoli però che ci saranno serie di incognite che potrebbero metterci i bastoni tra le ruote.
+
+Queste le nostre incognite: non conosciamo il percorso, un amico (grazie Giorgio) lo ha fatto due settimane prima e ci ha passato la traccia GPS ma un paio di giorni fa è nevicato molto e non sappiamo in che condizioni troveremo il sentiero, se sarà battuto oppure no.  Il bivacco al nostro arrivo potrebbe già essere occupato:  la cosa non ci preoccupa particolarmente perchè è uno dei più grandi in zona, e abbiamo i materassini con noi per poter dormire anche sul pavimento.
+
+Pronti, partenza e via: ci troviamo alle 16.00 a Mestre e percorrendo la Castellana ci dirigiamo verso la Valsugana. Una tappa alla Decathlon di Bassano ci fa recuperare gli ultimi materiali necessari, e tra una tappa "merenda", un caffè e una spesa arriviamo all'inbocco del sentiero in Val Scurelle che ormai è buio. 
+
+Da piano iniziale avremmo dovuto partire da Malga Cenon di Sopra, ma la strada statale è ghiacciata e parcheggiamo poco sotto, a Malga Cenon di Sotto dove un piccolo slargo accoglie le nostre due vetture (qui POSIZIONE PARCHEGGIO). 
+
+Seguiamo la statale
+
+NB per salire al bivacco esiste un percorso alternativo che parte da Samone, piccolo abitato sopra 
 
 i segue la lunga forestale, segnavia 333, nel bosco fino ad uno slargo ove compare Malga Cenon di Sopra (possibilità di tagliare un lungo tornante puntando direttamente alla malga). Si continua sempre per la forestale con ampie visioni sulla valle e le cime circostanti, lasciando a sinistra il sentiero L34, sentiero della Memoria, diretto a Cima Primalunetta e presto in vista della Malga Val di Prà. Si scende leggermente attraversando la testata della Val di Prà, e riprendendo la salita si sbuca sull'ampia conca di Primalunetta con la cappella di S. Bortolo 1722 m, Malga Primalunetta e varie costruzioni, alcune ristrutturate. Alla nostra destra (Sud-Est) la Forcella del Dogo fra Cima Ravetta a sinistra e M. Cima a destra.
 
