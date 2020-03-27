@@ -18,11 +18,11 @@ Una notte in bivacco sul Lagorai
 * Tempo di percorrenza:  3 h da cartina, 5 h effettive
 * Difficoltà: Turistico misto \[T/E\]
 
-#### Salita
+### Salita
 
 <iframe src="https://www.komoot.com/tour/160654895/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-#### Discesa
+### Discesa
 
 <iframe src="https://www.komoot.com/tour/160820881/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
