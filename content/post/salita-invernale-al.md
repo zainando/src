@@ -6,7 +6,7 @@ image = ""
 series = ""
 slug = ""
 tags = []
-title = "Salita invernale al "
+title = "Salita invernale dal PAsso Giau al Rifugio Palmieri"
 
 +++
 ## In breve
