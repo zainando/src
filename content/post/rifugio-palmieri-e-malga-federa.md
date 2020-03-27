@@ -15,12 +15,11 @@ asdasdads
 
 <iframe src="https://www.komoot.com/tour/108777311/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-
 ## Salita al Rifugio Palmieri
 
 asdasdasd
 
-!\[\]
+![Becco di Mezzodì visto dal Rifugio Palmieri](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-DfJgpKP/0/c2897d3d/X3/IMG_0965-X3.jpg)
 
 ## Pranzo a Malga Federa
 
