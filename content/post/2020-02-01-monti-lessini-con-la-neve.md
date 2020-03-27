@@ -17,6 +17,13 @@ title = "Monti Lessini con la neve"
 
 <iframe src="https://www.komoot.com/tour/111972807/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+## L'anello
+
+E\` possibile lasciare la macchina [qui](https://goo.gl/maps/cV59a8dyiqJVCaGE8) 
+
+........
+
+
 ## Risorse
 
 * risorsa 1
