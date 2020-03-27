@@ -40,13 +40,25 @@ Pronti, partenza e via: ci troviamo alle 16.00 a Mestre e percorrendo la Castell
 
 Da piano iniziale avremmo dovuto partire da Malga Cenon di Sopra, ma la strada statale è ghiacciata e le auto scivolano, quindi parcheggiamo poco sotto, a Malga Cenon di Sotto dove un piccolo slargo accoglie le nostre due vetture, presso il Ponte delle Rudole ([qui](https://goo.gl/maps/1hH3LCx97dZ1qK5TA)).
 
+![Panorama notturno 1](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5cxJNqv/0/afdd288c/X3/IMG_3505-X3.jpg)
+
 Seguiamo la statale per due tornanti fino ad arrivare alla forestale; superiamo Malga Cenon di Sopra e iniziamo con dolcezza ad alzarci. Alla nostra sinistra abbiamo una bella visione sulla valle e le montagne circostanti, è possibile vedere il Monte Ciste e il Monte Pastronezze; il sentiero è abbastanza largo per camminare a due affiancati. Superiamo un primo bivio che porta verso Malga Val di Prà ma proseguiamo sempre sulla forestale; a questo punto è necessario indossare le ciaspole perchè la neve si fa abbondante e morbida. Qui siamo è maggiormente esposto al vento e il freddo si fa sentire. Arrivamo alla conca di Malga Primalunetta dove ci sono varie costruzioni, tutte in quel momento chiuse; un cartello ci indica dove ci troviamo e i vari sentieri che da qui di dividono. Inizialmente decidiamo di proseguire verso Malga Primalunetta e Malga Primaluna di Sopra, passando di fronte alla cappella S.Bortolo, ma la traccia non  battuta, l'aumentare del dislivello e un pezzo in costa esposto ci riporta sui nostri passi. La vista da qui è spettacolare: non serve nemmeno tenere le torce frontali accese perchè la luna illumina il pendio e lo spettacolo è mozzafiato.
+
+![Panorama notturno 2](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-QxpCWc7/0/606edd29/X3/IMG_3508-X3.jpg)
 
 Torniamo quindi indietro e prendiamo verso  destra; un sentiero in discesa che a questo punto è super gradita ci porta a passare attraverso alcune costruzioni. Capitiamo di fronte ad una fontanella dove facciamo rifornimento di acqua che per fortuna non è ghiacchiata, e apriamo la pista nella neve alta. Si ricomincia lentamente a salire: manca solo un km all'arrivo ma ormai si è fatto tardi, siamo oltre mezzanotte e sia le gambe che l'umore iniziano a risentirne. L'ultima parte di percorso è un susseguirsi di sudore e ansimi; ad un tornate scegliamo di seguire il sentiero verso il bosco invece che proseguire dritti, ma la variante si fa ancora più faticosa!
 
+![Il bivacco di notte](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-PN5R38M/0/29178525/X3/IMG_3510-X3.jpg)
+
 Arriviamo finalmente al bivacco che è deserto e immerso nella neve: la legnaia è dietro e facciamo partire un bel fuoco ristoratore nel camino. Non abbiamo successo nell'accendere la stufa economica, e cuciniamo quindi sul fornellino a gas portato da casa. Una stanza al piano di sotto ha 6 letti a castello, di sopra invece due piccole stanze hanno 4 letti ciascuna; ognuno di noi sceglie il giaciglio preferito e andiamo a riposare.
 
+![Panorama dal bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-75t2Qkf/0/a1627760/X3/IMG_3509-X3.jpg)
+
+![Interno del bivacco](https://photos.marcozeta.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/A)
+
 L'indomani la gionata ci sveglia con un sole splendente, avremmo voluto proseguire fino alla sommità del Monte Cima e arrivare al bivacco Argentino ma il giorno prima ci ha sfiancato e preferiamo tornare verso le auto.
+
+![La colazione](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-8fGNxFr/0/a35b6e3a/X3/IMG_3516-X3.jpg)
 
 NB: per salire al bivacco esiste un percorso alternativo che parte da Samone, piccolo abitato sopra
 
