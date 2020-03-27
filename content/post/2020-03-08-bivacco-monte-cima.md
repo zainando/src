@@ -4,7 +4,7 @@ description = ""
 draft = true
 image = ""
 series = "Montagna"
-slug = "bivacco-monte-cima-ciaspole"
+slug = "bivacco-monte-cima-ciaspole-notte"
 tags = ["montagna", "ciaspolata", "notturna", "luna", "neve", "bivacco"]
 title = "Una notte al Bivacco Malga Cima con ciaspolata notturna!"
 
@@ -52,8 +52,8 @@ Est il Bivacco Argentino, che si raggiunge in una decina di minuti. Dotato di se
 
 Ritornati sul sentiero 333 in direzione Ovest si raggiunge la forcella del Dogo, di fronte il Monte Cima con gli evidenti resti della vecchia cava di quarzo. Si scende per il sentiero, oggi spesso ghiacciato, fino a raggiungere, valicato un ruscello, la strada di servizio di Malga Primaluna di Sopra. Da qui per l’itinerario dell’andata, al ponte delle Rudole.
 
-[http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html](http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html "http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html")
+## Risorse
 
-[https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/](https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/ "https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/")
-
-in versione estiva: [http://girovagandoinmontagna.com/gim/lagorai-cima-d](http://girovagandoinmontagna.com/gim/lagorai-cima-d "http://girovagandoinmontagna.com/gim/lagorai-cima-d")['asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/](http://girovagandoinmontagna.com/gim/lagorai-cima-d'asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/)
+* [http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html](http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html "http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html")
+* [https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/](https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/ "https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/")
+* in versione estiva: [http://girovagandoinmontagna.com/gim/lagorai-cima-d](http://girovagandoinmontagna.com/gim/lagorai-cima-d "http://girovagandoinmontagna.com/gim/lagorai-cima-d")['asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/](http://girovagandoinmontagna.com/gim/lagorai-cima-d'asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/)
