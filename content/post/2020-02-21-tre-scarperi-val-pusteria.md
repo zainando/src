@@ -46,7 +46,6 @@ Al costo di 5€ (non 4€ come avevamo trovato scritto nelle nostre ricerche pr
 
 ![Traguardo!](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-rS29Q9P/0/8bd6c655/X3/IMG_3247-X3.jpg)
 
-
 ## SPA a Sesto: il Caravan Park Sexten
 
 Siamo partiti per la camminata intorno alle 11.00 della mattina e intorno alle 16.30 siamo già di ritorno alla macchina; la giornata non è stata per nulla fredda ma il sole sta tramontando e i vestiti sono fradici per la discesa, è ora di scaldarci le ossa! Ci rechiamo quindi al [Caravan Park Sexten SPA](https://www.caravanparksexten.it/en/caravan-park.html) poco distante per goderci 3 ore di puro relax. Il parcheggio è poco capiente quindi giriamo un pochino prima di trovare un posto libero; entrando capiamo subito il perchè, il posto è davvero pieno di persone!  
@@ -66,8 +65,10 @@ Per cena siamo andati alla [Lanterna Verde](https://www.gruenelaterne.it/en/grue
 
 Grazie a Davide e Chiara che hanno vissuto con noi questa avventura!!
 
+Thanks to:[https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/](https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/ "https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/")
+
+***
+
 Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;)
 
 Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
-
-Thanks to:[https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/](https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/ "https://www.babytrekking.it/rifugio-tre-scarperi-bambini-passeggino/")
