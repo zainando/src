@@ -13,4 +13,6 @@ title = "Rifugio Zacchi in inverno"
 
 <iframe src="https://www.komoot.com/tour/107504999/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-## ASDASDASD
+## Asdasda
+
+E\\\` possibile lasciare la macchina al parcheggio del lago superiore di Fusine ([qui](https://goo.gl/maps/VQymcu26MdzX31ot7))....
