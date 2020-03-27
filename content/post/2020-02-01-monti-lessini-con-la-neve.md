@@ -11,6 +11,12 @@ title = "Monti Lessini con la neve"
 +++
 ## In breve
 
+* Durata: circa 2 ore
+* Lunghezza 2.5 km
+* Dislivello: 200 m
+
+<iframe src="https://www.komoot.com/tour/111972807/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Risorse
 
 * risorsa 1
