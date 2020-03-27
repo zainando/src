@@ -2,7 +2,7 @@
 date = 2020-01-05T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-CmtS8DS/0/e5c12e8e/X3/IMG_0951-X3.jpg"
 series = "Montagna"
 slug = "2020-01-06-palmieri-federa"
 tags = ["escursione invernale", "croda da lago", "ampezzano", "gores de federa", "palmieri", "ciaspe", "cortina", "montagna"]
