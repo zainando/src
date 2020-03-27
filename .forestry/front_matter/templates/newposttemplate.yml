@@ -33,6 +33,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/2019-12-29-rifugio-zacchi-in-inverno.md
 - content/post/2020-01-05-sbagliato-giau-palmieri.md
 - content/post/2020-01-06-rifugio-palmieri-e-malga-federa.md
 - content/post/2020-01-25-acroyoga-al-rifugio-carestiato.md
@@ -49,5 +50,4 @@ pages:
 - content/post/madeira.md
 - content/post/rifugio-fonda-savio-dal-lago-d-atorno.md
 - content/post/rifugio-fuciade.md
-- content/post/rifugio-zacchi-in-inverno.md
 - content/post/viaggio-in-indonesia-bali-fai-da-te.md
