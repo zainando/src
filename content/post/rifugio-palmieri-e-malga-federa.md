@@ -19,7 +19,7 @@ asdasdads
 
 asdasdasd
 
-![Becco di Mezzodì visto dal Rifugio Palmieri](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-DfJgpKP/0/c2897d3d/X3/IMG_0965-X3.jpg)
+![Becco di Mezzodì visto dal Rifugio Palmieri](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-DfJgpKP/0/c2897d3d/X3/IMG_0965-X3.jpg "Becco di Mezzodì visto dal Rifugio Palmieri")
 
 ## Pranzo a Malga Federa
 
