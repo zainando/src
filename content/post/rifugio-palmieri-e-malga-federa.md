@@ -24,6 +24,8 @@ asdasdasd
 ## Pranzo a Malga Federa
 
 asdasdasd
+![Pranzo pronto a Malga Federa](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-HPkqtC5/0/d7e4615a/X3/IMG_0983-X3.jpg)
+
 
 ## Gores de Federa
 
