@@ -30,7 +30,7 @@ Una notte in bivacco sul Lagorai
 
 La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire nel bivacco montano Malga Monte Cima sul gruppo del Lagorai, per poi scendere il giorno dopo con calma.
 
-La proposta è sfidante, il percorso pure: si tratta di X km per X di dislivello, circa 3 ore di camminata previste in estate, con la neve prevediamo di impiegarne almeno un'ora in più. Non di certo un programma per novellini della montagna, ma per noi gruppo oliato come il nostro è un'occasione da cogliere!
+La proposta è sfidante, il percorso pure: si tratta di 8 km per 600 m di dislivello, circa 3 ore di camminata previste in estate, con la neve prevediamo di impiegarne almeno un'ora in più. Non di certo un programma per novellini della montagna, ma per noi gruppo oliato come il nostro è un'occasione da cogliere!
 
 Il piano è definito nei dettagli, abbiamo con noi ciaspole, ramponi, il cibo per la cena e la colazione, sacchi a pelo e materassini: siamo consapevoli però che ci saranno serie di incognite che potrebbero metterci i bastoni tra le ruote.
 
