@@ -17,6 +17,8 @@ asdasdasd
 
 asdasdasd
 
+[https://it.wikipedia.org/wiki/Ferrovia_Rocchette-Asiago](https://it.wikipedia.org/wiki/Ferrovia_Rocchette-Asiago "https://it.wikipedia.org/wiki/Ferrovia_Rocchette-Asiago")
+
 ## Il pranzo
 
 asdasdasd
