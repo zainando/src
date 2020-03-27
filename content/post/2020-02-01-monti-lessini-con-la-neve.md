@@ -10,3 +10,14 @@ title = "Monti Lessini con la neve"
 
 +++
 ## In breve
+
+## Risorse
+
+* risorsa 1
+* risorsa 2
+
+***
+
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;)
+
+Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
