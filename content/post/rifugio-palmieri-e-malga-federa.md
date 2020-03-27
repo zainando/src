@@ -17,7 +17,11 @@ asdasdads
 
 ## Salita al Rifugio Palmieri
 
+Si lascia la macchina in un parcheggio nei pressi del LAgo di Pianozes ([qui](https://goo.gl/maps/ZVKXULXeg8PzfCum8))
+
 asdasdasd
+
+salita lunghissima ugualissima che volevo morire e ho visto tutti i santi del calendario
 
 ![Becco di Mezzodì visto dal Rifugio Palmieri](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-DfJgpKP/0/c2897d3d/X3/IMG_0965-X3.jpg "Becco di Mezzodì visto dal Rifugio Palmieri")
 
