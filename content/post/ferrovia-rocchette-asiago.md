@@ -13,6 +13,8 @@ title = "Ferrovia Rocchette-Asiago"
 
 asdasdasd
 
+<iframe src="https://www.komoot.com/tour/164426416/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## L'antica ferrovia
 
 asdasdasd
