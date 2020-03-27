@@ -86,3 +86,9 @@ Grazie a Chiara, Lorenzo, Marco G., Francesca per aver condiviso con noi quest'a
 * [http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html](http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html "http://montagnaatuttabirra.blogspot.com/2016/01/bivacco-argentino-vanin-2160-m-lagorai.html")
 * [https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/](https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/ "https://www.iltrentinodeibambini.it/rifugio-caldenave-paradiso-in-val-campelle/")
 * in versione estiva: [http://girovagandoinmontagna.com/gim/lagorai-cima-d](http://girovagandoinmontagna.com/gim/lagorai-cima-d "http://girovagandoinmontagna.com/gim/lagorai-cima-d")['asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/](http://girovagandoinmontagna.com/gim/lagorai-cima-d'asta-rava-91/ponte-delle-rudole-bivacco-argentino-e-al-'cristo-de-ciopa'/)
+
+***
+
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;)
+
+Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
