@@ -6,7 +6,7 @@ image = ""
 series = ""
 slug = ""
 tags = []
-title = "Salita invernale dal PAsso Giau al Rifugio Palmieri"
+title = "Abbiamo sbagliato: dal Passo Giau al Rifugio Palmieri"
 
 +++
 ## In breve
