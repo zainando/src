@@ -2,10 +2,10 @@
 date = ""
 description = ""
 draft = true
-image = ""
-series = ""
-slug = ""
-tags = []
+image = "https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-XJvfQbs/0/f2e6ff65/X3/IMG_0864-X3.jpg"
+series = "Montagna"
+slug = "sbagliato-giau-palmieri"
+tags = ["ampezzano", "cortina", "ampezzo", "dolomiti", "ciaspolata", "neve", "mezzodì", "mondeval", "palmieri", "giau"]
 title = "Abbiamo sbagliato: dal Passo Giau al Rifugio Palmieri"
 
 +++
@@ -20,8 +20,6 @@ title = "Abbiamo sbagliato: dal Passo Giau al Rifugio Palmieri"
 <iframe src="https://www.komoot.com/tour/164439574/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Abbiamo sbagliato!!!
-
-![](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-XJvfQbs/0/f2e6ff65/X3/IMG_0864-X3.jpg)
 
 ![Passaggio non praticabile in inverno](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-c5jt6Vv/0/f195c4b8/X3/IMG_0862-X3.jpg "Passaggio non praticabile in inverno")
 
