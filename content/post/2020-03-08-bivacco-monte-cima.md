@@ -20,7 +20,13 @@ Una notte in bivacco sul Lagorai
 
 #### Salita
 
-**Ciaspolata con la luna piena: chi viene?**
+<iframe src="https://www.komoot.com/tour/160654895/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+#### Discesa
+
+<iframe src="https://www.komoot.com/tour/160820881/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Ciaspolata con la luna piena: chi viene?
 
 La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire nel bivacco montano Malga Monte Cima sul gruppo del Lagorai, per poi scendere il giorno dopo con calma.
 
