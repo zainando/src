@@ -57,20 +57,33 @@ Arriviamo finalmente al bivacco che è deserto e immerso nella neve: la legnaia 
 ![Interno del bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/0/7328f829/X3/IMG_3517-X3.jpg)
 
 L'indomani la gionata ci sveglia con un sole splendente, avremmo voluto proseguire fino alla sommità del Monte Cima e arrivare al bivacco Argentino ma il giorno prima ci ha sfiancato e preferiamo tornare verso le auto.
+NB: per salire al bivacco esiste un percorso alternativo che parte da Samone, piccolo abitato sopra
 
 ![La colazione](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-8fGNxFr/0/a35b6e3a/X3/IMG_3516-X3.jpg)
 
-NB: per salire al bivacco esiste un percorso alternativo che parte da Samone, piccolo abitato sopra
+![La partenza](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-prkJ4bX/0/6ad577f1/X3/IMG_3539-X3.jpg)
 
 Si segue la lunga forestale, segnavia 333, nel bosco fino ad uno slargo ove compare Malga Cenon di Sopra (possibilità di tagliare un lungo tornante puntando direttamente alla malga). Si continua sempre per la forestale con ampie visioni sulla valle e le cime circostanti, lasciando a sinistra il sentiero L34, sentiero della Memoria, diretto a Cima Primalunetta e presto in vista della Malga Val di Prà. Si scende leggermente attraversando la testata della Val di Prà, e riprendendo la salita si sbuca sull'ampia conca di Primalunetta con la cappella di S. Bortolo 1722 m, Malga Primalunetta e varie costruzioni, alcune ristrutturate. Alla nostra destra (Sud-Est) la Forcella del Dogo fra Cima Ravetta a sinistra e M. Cima a destra.
+
+![La discesa](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5VMktD7/0/49a860f9/X3/IMG_3599-X3.jpg)
 
 Sempre seguendo il segnavia 333, attraversato il piccolo villaggio, si taglia il pendio in direzione Sud puntando a Malga Primaluna di Sopra, 1842 m. A questo punto, abbandonato il sentiero che scende ad attraversare un torrente, si segue una traccia indicata da una palina segnaletica in legno (Biv. Argentino), in direzione Est. Il sentiero è indicato con un tratteggio in nero sulle carte Kompass. Si risale per bosco con qualche zig-zag mantenendo sempre la medesima direzione fino a giungere, nonostante la presenza di neve in questo versante non consenta di vedere la traccia, ad un piccolo poggio da cui si domina la piana sottostante dove si trova, coperto di neve, il laghetto di Valcava.
 
 Qui la stessa palina in legno con la scritta “Biv. Argentino” indica a destra. Ci si abbassa un po’ e si segue una crestina boscosa che va a congiungersi al ripido pendio di destra, sinistra orografica, della Valcava. Si risale traversando un ripido canale innevato e con un paio di svolte si va a prendere una traccia, segnata dall’accumulo di neve, che con un lungo traverso porta in direzione delle pareti rocciose che racchiudono la valletta. Dopo un centinaio di metri la traccia svolta a destra e risale il ripido pendio sbucando alla sommità di uno sperone panoramico a Ovest di cima Ravetta.
 
+![Ultimo tratto con le ciaspe](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-ZTRTstW/0/bab97b04/X3/IMG_3627-X3.jpg)
+
 Est il Bivacco Argentino, che si raggiunge in una decina di minuti. Dotato di sei posti letto, cucina a legna, legna e acqua nelle vicinanze, praticamente di ogni confort per un bivacco, sorge in un punto panoramico a precipizio sulla Valsugana e a 20 minuti da Cima Ravetta.
 
 Ritornati sul sentiero 333 in direzione Ovest si raggiunge la forcella del Dogo, di fronte il Monte Cima con gli evidenti resti della vecchia cava di quarzo. Si scende per il sentiero, oggi spesso ghiacciato, fino a raggiungere, valicato un ruscello, la strada di servizio di Malga Primaluna di Sopra. Da qui per l’itinerario dell’andata, al ponte delle Rudole.
+
+## Pranzo al Rifugio Crucolo
+
+![La cantina del Crucolo](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-JkpkSbL/0/8e953d3a/X3/IMG_3631-X3.jpg)
+
+![Raccolta di bottiglie](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-ncSnwLc/0/c2aef1bd/X3/IMG_3650-X3.jpg)
+
+[Qui altre foto della giornata](https://photos.marcozeta.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima)
 
 ## Risorse
 
