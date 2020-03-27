@@ -2,7 +2,7 @@
 date = 2020-03-08T09:00:00Z
 description = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-vGDQMkW/0/63b5cdee/X3/IMG_3498-X3.jpg"
 series = "Montagna"
 slug = "bivacco-monte-cima-ciaspole-notte"
 tags = ["montagna", "ciaspolata", "notturna", "luna", "neve", "bivacco"]
