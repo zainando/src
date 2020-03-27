@@ -48,11 +48,11 @@ Seguiamo la statale per due tornanti fino ad arrivare alla forestale; superiamo 
 
 Torniamo quindi indietro e prendiamo verso  destra; un sentiero in discesa che a questo punto è super gradita ci porta a passare attraverso alcune costruzioni. Capitiamo di fronte ad una fontanella dove facciamo rifornimento di acqua che per fortuna non è ghiacchiata, e apriamo la pista nella neve alta. Si ricomincia lentamente a salire: manca solo un km all'arrivo ma ormai si è fatto tardi, siamo oltre mezzanotte e sia le gambe che l'umore iniziano a risentirne. L'ultima parte di percorso è un susseguirsi di sudore e ansimi; ad un tornate scegliamo di seguire il sentiero verso il bosco invece che proseguire dritti, ma la variante si fa ancora più faticosa!
 
-![Il bivacco di notte](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-PN5R38M/0/29178525/X3/IMG_3510-X3.jpg)
+![Panorama dal bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-75t2Qkf/0/a1627760/X3/IMG_3509-X3.jpg)
 
 Arriviamo finalmente al bivacco che è deserto e immerso nella neve: la legnaia è dietro e facciamo partire un bel fuoco ristoratore nel camino. Non abbiamo successo nell'accendere la stufa economica, e cuciniamo quindi sul fornellino a gas portato da casa. Una stanza al piano di sotto ha 6 letti a castello, di sopra invece due piccole stanze hanno 4 letti ciascuna; ognuno di noi sceglie il giaciglio preferito e andiamo a riposare.
 
-![Panorama dal bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-75t2Qkf/0/a1627760/X3/IMG_3509-X3.jpg)
+![Il bivacco di notte](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-PN5R38M/0/29178525/X3/IMG_3510-X3.jpg)
 
 ![Interno del bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/0/7328f829/X3/IMG_3517-X3.jpg)
 
