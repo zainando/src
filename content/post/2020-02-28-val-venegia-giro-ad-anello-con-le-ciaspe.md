@@ -18,7 +18,6 @@ Raggiungiamo il parcheggio presso Pian dei Casoni (mt. 1677)  dopo aver superato
 
 Il giro ad anello può essere percorso in entrambi i sensi, verso Malga Juribello come abbiamo fatto noi oppure attraversando subito la Val Venegia e puntando a Malga Venegia (mt. 1778); per la nostra escursione abbiamo sicuramente scelto il verso più adatto.
 
-
 ## In breve
 
 * Durata: 5 ore
@@ -33,7 +32,6 @@ Il giro ad anello può essere percorso in entrambi i sensi, verso Malga Juribell
 
 <iframe src="https://www.komoot.com/tour/115562299/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-
 ## La salita
 
 Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoci sudare e togliere i primi strati di vestiario;  qui facciamo delle splendide foto con la neve che ancora scende dolcemente su di noi.
@@ -42,7 +40,7 @@ Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoc
 
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/L/IMG_3290-L.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-dNJ5tGL/0/e98664c2/X3/IMG_3290-X3.jpg" caption="Prima sosta foto in mezzo alla neve!!!">}}
 
- Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare e il sentiero si distingue a fatica nella neve fresca; ci guida Marco G. che controlla il percorso sul GPS. Anche la visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare, totalmente immerso nel bianco. Avanzare senza ciaspe nell'ultimo tratto diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. Malga Cervino dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta di aver effettuato la salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
+Dopo poco il sentiero esce dal bosco e inizia una lenta e inesorabile salita, che ci porta ad un primo incrocio di strade: proseguiamo in direzione Malga Cervino. Questo tratto si rivela il più difficile in quanto esposto al vento che ha iniziato a soffiare e il sentiero si distingue a fatica nella neve fresca; ci guida Marco G. che controlla il percorso sul GPS. Anche la visibilità è ridotta al minimo.. sembra di camminare in un paesaggio lunare, totalmente immerso nel bianco. Avanzare senza ciaspe nell'ultimo tratto diventa complicato e qualcuno di noi che le aveva appese allo zaino le indossa. Teniamo duro fino all'arrivo della Malga, per arrivarci attraversiamo la pista da sci che in questo momento, a causa del vento, è chiusa. Malga Cervino dentro è molto accogliente, si deve mangiare molto bene! Troviamo qualche famiglia che ci racconta di aver effettuato la salita con i bimbi e gli slittini al traino e programma una discesa decisamente emozionante.
 
 {{< gallery >}}
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-HVJ5tVv/0/3fb63b88/S/IMG_3272-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-HVJ5tVv/0/3fb63b88/X3/IMG_3272-X3.jpg" caption="">}}
@@ -54,7 +52,7 @@ Il sentiero immerso nel bosco sale inizialmente con una certa pendenza, facendoc
 
 La tentazione di fermarci qui e concludere la nostra gita con una mangiata fa capolino, ma per fortuna teniamo duro e proseguiamo; in circa mezz'ora di salita che costeggia la pista da sci arriviamo a Baita Segantini: ce l'abbiamo fatta! Al piano superiore si trova il ristorante, ma leggiamo sul cartello che il servizio cucina chiude alle 14.00, e sono esattamente le 14.00 quando ci arriviamo; andiamo così al "piano terra" con il dove si trova il bar: ordiniamo un panino e una birra a testa per scaldarci un po', anche se ci eravamo portati il pranzo al sacco.
 
-Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista delle Pale di San Martino innevate, un vero spettacolo! Giusto il tempo di scattare qualche foto, rimetterci lo zaino sulle spalle per ripartire che il cielo si è nuovamente coperto e ha riiniziato a nevicare. 
+Durante la nostra sosta il cielo decide di aprirsi per pochi minuti e ci regala la vista delle Pale di San Martino innevate, un vero spettacolo! Giusto il tempo di scattare qualche foto, rimetterci lo zaino sulle spalle per ripartire che il cielo si è nuovamente coperto e ha riiniziato a nevicare.
 
 {{< gallery >}}
 {{< figure src="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-bN95kH2/0/6fce2c67/S/IMG_3324-S.jpg" link="https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-bN95kH2/0/6fce2c67/X3/IMG_3324-X3.jpg" caption="">}}
@@ -82,7 +80,7 @@ Passiamo di fronte a Malgia Venegiota e Malga Venegia, entrambe chiuse d'inverno
 
 Dopo circa 5 ore di camminata (tolte pause fotografiche e pausa pranzo) siamo arrivati alle macchine: siamo gli unici rimasti in parcheggio!
 
-Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per intraprendere una nuova avventura: al giro infatti si può aggiungere una tappa verso la cima del Monte Castellaz per raggiungere il Cristo Pensante, che si raggiunge in un'ora di cammino circa da Capanna Cervino. In inverno non è prudente percorrerla in quanto il sentiero è poco battuto e sarebbe stato difficile individuarlo. Tutta una scusa per tornare con la bella stagione! 
+Salutiamo grati la Val Venegia e ci diamo appuntamento a questa estate per intraprendere una nuova avventura: al giro infatti si può aggiungere una tappa verso la cima del Monte Castellaz per raggiungere il Cristo Pensante, che si raggiunge in un'ora di cammino circa da Capanna Cervino. In inverno non è prudente percorrerla in quanto il sentiero è poco battuto e sarebbe stato difficile individuarlo. Tutta una scusa per tornare con la bella stagione!
 
 [Qui trovate tutte le foto](https://photos.marcozeta.com/SpaceTimePoints/2020-03-01-ValVenegia)
 
@@ -93,3 +91,9 @@ Grazie a Chiara P., Chiara G., Alvise, Marco G., Marco C., Francesca, Sebastiano
 Ringraziamo per la descrizione invernale [http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/](http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/ "http://www.civediamoquandotorno.it/2018/01/22/trentino-trekking-in-val-venegia-baita-segantini/")
 
 Per il giro al Trekking del Cristo Pensante: [http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/](http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/ "http://www.civediamoquandotorno.it/2018/09/18/val-venegia-baita-segantini-escursione-ad-anello-sotto-le-pale-di-san-martino/")
+
+***
+
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;)
+
+Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
