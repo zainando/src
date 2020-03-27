@@ -27,7 +27,7 @@ asdasdasd
 
 ## Fiocchi di luce
 
-asdasdasd ogni anno a febbratio blablabla
+asdasdasd ogni anno a febbraio blablabla
 
 ***
 
