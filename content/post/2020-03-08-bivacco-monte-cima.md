@@ -24,7 +24,7 @@ title = "Una notte al Bivacco Malga Cima con ciaspolata notturna!"
 
 <iframe src="https://www.komoot.com/tour/160820881/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Ciaspolata con la luna piena: chi viene? Una notte in bivacco sul Lagorai
+## Ciaspolata con la luna piena: chi viene? 
 
 La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire nel bivacco montano Malga Monte Cima sul gruppo del Lagorai, per poi scendere il giorno dopo con calma.
 
@@ -54,7 +54,7 @@ Arriviamo finalmente al bivacco che è deserto e immerso nella neve: la legnaia 
 
 ![Interno del bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/0/7328f829/X3/IMG_3517-X3.jpg)
 
-L'indomani la gionata ci sveglia con un sole splendente, avremmo voluto proseguire fino alla sommità del Monte Cima e arrivare al bivacco Argentino ma il giorno prima ci ha sfiancato e preferiamo tornare verso le auto. Sarà per una prossima escursione estiva! 
+L'indomani la gionata ci sveglia con un sole splendente, avremmo voluto proseguire fino alla sommità del Monte Cima e arrivare al bivacco Argentino ma il giorno prima ci ha sfiancato e preferiamo tornare verso le auto. Sarà per una prossima escursione estiva!
 
 ![La colazione](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-8fGNxFr/0/a35b6e3a/X3/IMG_3516-X3.jpg)
 
@@ -68,11 +68,11 @@ La discesa avviene per lo stesso percorso della salita, ma la strada battuta ci 
 
 ## Pranzo al Rifugio Crucolo
 
-Dal parcheggio al Rifugio Crucolo ci vogliono solo 12 minuti: nonostante fossero passare le 14.00 facciamo un tentativo, e in men che non si dica siamo seduti ad un tavolo ad assaggiare le prelibatezze trentine. Tra le tante, ci sono rimaste impresse la carne salada servita con mele e cavolo cappuccio, il Mose ovvero una polenta con funghi e formaggio, ma anche primi e secondi non scherzano (porzioni contenute, ma tra antipasto un piatto e il dolce siamo usciti sazi e soddisfatti). 
+Dal parcheggio al Rifugio Crucolo ci vogliono solo 12 minuti: nonostante fossero passare le 14.00 facciamo un tentativo, e in men che non si dica siamo seduti ad un tavolo ad assaggiare le prelibatezze trentine. Tra le tante, ci sono rimaste impresse la carne salada servita con mele e cavolo cappuccio, il Mose ovvero una polenta con funghi e formaggio, ma anche primi e secondi non scherzano (porzioni contenute, ma tra antipasto un piatto e il dolce siamo usciti sazi e soddisfatti).
 
 Immancabile il finale con i Parampampoli: un dopopranzo a base di grappa, caffè e vino servito caldo. Da provare!
 
-Abbiamo richiesto infine un tour guidato alle cantine, dove vengono prodotti salami, formaggi e alcolici che si possono degustare e acquistare. La grappa al Mugo ha vinto il favore del nostro palato. 
+Abbiamo richiesto infine un tour guidato alle cantine, dove vengono prodotti salami, formaggi e alcolici che si possono degustare e acquistare. La grappa al Mugo ha vinto il favore del nostro palato.
 
 ![La cantina del Crucolo](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-JkpkSbL/0/8e953d3a/X3/IMG_3631-X3.jpg)  
 ![Raccolta di bottiglie](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-ncSnwLc/0/c2aef1bd/X3/IMG_3650-X3.jpg)
