@@ -2,10 +2,10 @@
 date = 2020-02-14T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/SpaceTimePoints/2020-02-15-Antica-Ferrovia-Rocchette-Asiago/i-d35T855/0/cd8abcaf/X3/IMG_2754-X3.jpg"
 series = "Montagna"
 slug = "ferrovia-rocchette-asiago"
-tags = ["bosco", "ferrovia", "asiago"]
+tags = ["cesuna", "rocchette", "bosco", "ferrovia", "asiago"]
 title = "Ferrovia Rocchette-Asiago"
 
 +++
