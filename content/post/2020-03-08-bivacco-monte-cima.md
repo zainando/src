@@ -5,7 +5,7 @@ draft = true
 image = ""
 series = ""
 slug = "bivacco-monte-cima-ciaspole"
-tags = []
+tags = ["montagna", "ciaspolata", "notturna", "luna", "neve", "bivacco"]
 title = "Una notte al Bivacco Malga Cima con ciaspolata notturna!"
 
 +++
