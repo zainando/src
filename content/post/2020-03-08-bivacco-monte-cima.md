@@ -1,7 +1,6 @@
 +++
 date = 2020-03-08T09:00:00Z
 description = "Una notte in bivacco sul Lagorai.\nLa proposta è sfidante, il percorso pure: si tratta di 8 km per 600 m di dislivello, circa 3 ore di camminata previste in estate, di notte con la neve prevediamo di impiegarne almeno un'ora in più. Non di certo un programma per novellini della montagna, ma per noi gruppo oliato come il nostro è un'occasione da cogliere!"
-draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-vGDQMkW/0/63b5cdee/X3/IMG_3498-X3.jpg"
 series = "Montagna"
 slug = "bivacco-monte-cima-ciaspole-notte"
