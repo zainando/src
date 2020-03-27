@@ -26,10 +26,11 @@ asdasdasd
 asdasdasd
 ![Pranzo pronto a Malga Federa](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-HPkqtC5/0/d7e4615a/X3/IMG_0983-X3.jpg)
 
-
 ## Gores de Federa
 
 asdasdasd canyon albero caduto sul ponte aiuto
+
+![Gores de Federa](https://photos.smugmug.com/SpaceTimePoints/Cortina-Gennaio-2020/i-7jTzB56/0/5830a42a/X3/IMG_0989-X3.jpg "Gores de Federa")
 
 ***
 
