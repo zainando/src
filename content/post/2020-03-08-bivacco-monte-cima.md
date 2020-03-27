@@ -15,8 +15,8 @@ Una notte in bivacco sul Lagorai
 
 * Partenza a 1325 metri
 * Dislivello 825 metri
-* Tempo di percorrenza**:**  3 h da cartina, 5 h effettive
-* Difficoltà**:** Turistico misto \[T/E\]
+* Tempo di percorrenza:  3 h da cartina, 5 h effettive
+* Difficoltà: Turistico misto \[T/E\]
 
 #### Salita
 
