@@ -13,9 +13,14 @@ title = "Rifugio Palmieri e Malga Federa"
 
 asdasdads
 
+<iframe src="https://www.komoot.com/tour/108777311/embed?profile=1" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 ## Salita al Rifugio Palmieri
 
 asdasdasd
+
+!\[\]
 
 ## Pranzo a Malga Federa
 
@@ -23,7 +28,7 @@ asdasdasd
 
 ## Gores de Federa
 
-asdasdasd canyon albero caduto sul ponte aiuto 
+asdasdasd canyon albero caduto sul ponte aiuto
 
 ***
 
