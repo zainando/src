@@ -16,3 +16,10 @@ title = "Rifugio Zacchi in inverno"
 ## Asdasda
 
 E\\\` possibile lasciare la macchina al parcheggio del lago superiore di Fusine ([qui](https://goo.gl/maps/VQymcu26MdzX31ot7))....
+
+---
+
+Se utilizzi il nostro articolo per le tue escursioni, ne saremo più che contenti. questo blog è nato apposta! Taggateci nelle vostre uscite per farcelo sapere ;)
+
+Per segnalarci variazioni, inesattezze o aggiornamenti scriveteci!!
+
