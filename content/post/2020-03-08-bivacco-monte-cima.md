@@ -18,6 +18,8 @@ Una notte in bivacco sul Lagorai
 * Tempo di percorrenza**:**  3 h da cartina, 5 h effettive
 * Difficoltà**:** Turistico misto \[T/E\]
 
+#### Salita
+
 **Ciaspolata con la luna piena: chi viene?**
 
 La nostra avventura inizia in un inoltrato sabato pomeriggio di marzo: decidiamo di festeggiare un weekend di luna piena intraprendendo una salita notturna che ci porterà a dormire nel bivacco montano Malga Monte Cima sul gruppo del Lagorai, per poi scendere il giorno dopo con calma.
