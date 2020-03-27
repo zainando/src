@@ -5,7 +5,7 @@ draft = true
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-01-25-AcroAlCarestiato/i-MRDDrJd/0/c792b33e/X3/IMG_1110-X3.jpg"
 series = "Montagna"
 slug = "acro-al-carestiato"
-tags = ["Camminate", "Acroyoga", "Montagna"]
+tags = ["carestiato", "neve", "camminate", "acroyoga", "montagna"]
 title = "Acroyoga al Rifugio Carestiato"
 
 +++
