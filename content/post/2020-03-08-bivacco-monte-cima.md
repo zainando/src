@@ -54,7 +54,7 @@ Arriviamo finalmente al bivacco che è deserto e immerso nella neve: la legnaia 
 
 ![Panorama dal bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-75t2Qkf/0/a1627760/X3/IMG_3509-X3.jpg)
 
-![Interno del bivacco](https://photos.marcozeta.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/A)
+![Interno del bivacco](https://photos.smugmug.com/SpaceTimePoints/2020-03-08-BivaccoMagaCima/i-5pbbDKz/0/7328f829/X3/IMG_3517-X3.jpg)
 
 L'indomani la gionata ci sveglia con un sole splendente, avremmo voluto proseguire fino alla sommità del Monte Cima e arrivare al bivacco Argentino ma il giorno prima ci ha sfiancato e preferiamo tornare verso le auto.
 
