@@ -100,6 +100,5 @@ title = "Marocco"
 
 ### Gole del Dades e Gole di Todra
 
-* pausa panoramica a [Café-restaurant Timzzillite Chez Mohamed](https://goo.gl/maps/15midWh8HPin9j266)
-* 4x4
+* pausa panoramica vicino a [Café-restaurant Timzzillite Chez Mohamed](https://goo.gl/maps/15midWh8HPin9j266) dove montiamo sulle Jeep 4x4
 * pausa a [Maison d'hôtes la vallée des nomades](https://goo.gl/maps/QZDdTFBaA4uckcb96)
