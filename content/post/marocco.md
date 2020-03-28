@@ -83,7 +83,7 @@ title = "Marocco"
 ### Ait Ben-Haddou
 
 * Lungo la strada pranzo al [Café Restaurant AFOULKI](https://goo.gl/maps/SNh7GubS6DZk7eCe9) per poi proseguire verso [Col du Tichka](https://goo.gl/maps/RjFKiQP25oSmPUDp9)(Tizi n'Tichka), passo a 2260 metri che collega MArrakech ai deserti del sud del Marocco
-* visita alla [Qasba di Télouet](https://goo.gl/maps/JENggFguCW6pqPkk6) in cui il tipo con il tirbante arancione ci racconta la storia, erano i padroni di mezzo marocco blablabla
+* visita alla [Qasba di Télouet](https://goo.gl/maps/JENggFguCW6pqPkk6) in cui il tipo con il turbante arancione ci racconta la storia, erano i padroni di mezzo marocco blablabla
 * arriviamo a [Ait-Ben-Haddou](https://goo.gl/maps/fdW3WPKXC7wndA3eA)
 * alloggiama a [La Baraka Auberge](https://goo.gl/maps/eWEEUNXom2czjk4b7)
 * tramonto e alba deludenti
@@ -159,11 +159,16 @@ title = "Marocco"
 
 ### Chefchaouen
 
-* 
+* [Maison D'hôte Lalla Khadouj](https://goo.gl/maps/EAFEndxj4ksRBGCH6)
+* Girello della città
+* Tramonto dall'alto della [Mosque Bouzaafer](https://goo.gl/maps/NuYDnSoYjd6nVD36A)
 
 ### Meknes
 
-
+* [Sito Archeologico di Volubilis](https://goo.gl/maps/43QCZMMMSxqt7nh77)
+* [Riad Bahia](https://goo.gl/maps/Kcqhk3jcME8ZsgRb7)
+* Palazzo reale [Heri es-Souani](https://goo.gl/maps/TYpGeZHXA2iCQahv8) e stalle reali
+* negozio di tappeti 
 
 ### Rabat
 
@@ -175,7 +180,7 @@ title = "Marocco"
 
 * visita al mercato della medina
 * visita alla [Moschea di Hassan II](https://goo.gl/maps/qbFxMApkq11oY4LPA)
-* cena al 
+* cena in una bettola in questa zona [https://goo.gl/maps/pXf7fLhi1MH7ZWqw8](https://goo.gl/maps/pXf7fLhi1MH7ZWqw8)
 
 
 
