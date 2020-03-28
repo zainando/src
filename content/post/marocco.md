@@ -61,5 +61,5 @@ title = "Marocco"
 * Tombe Saadiane
 * Hammam
 * giro per il mercato
-* Giardini Majorelle [https://goo.gl/maps/mN9sFtRp1AA8HcFW6](https://goo.gl/maps/mN9sFtRp1AA8HcFW6 "Giardini Majorelle")
-* [https://goo.gl/maps/5GsPbXuCdH54afLM8](https://goo.gl/maps/5GsPbXuCdH54afLM8 "Piazza Jemaa el-Fna")
+* Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
+* [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
