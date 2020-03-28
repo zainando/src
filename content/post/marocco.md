@@ -29,7 +29,7 @@ title = "Marocco"
 ### El Oualidia Plage
 
 * [https://goo.gl/maps/S5HzEryUYG9ND3UL9](https://goo.gl/maps/S5HzEryUYG9ND3UL9 "https://goo.gl/maps/S5HzEryUYG9ND3UL9")
-* in realtà spiaggia sulla via di safi-> chiedere a sandro o cercare nelle locations delle foto
+* in realtà spiaggia sulla via di safi-> chiedere a sandro o cercare nelle locations delle foto 
   * qualcuno mangia pesce preparato sulla spiaggia
 
 ### Safi
