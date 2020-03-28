@@ -28,7 +28,7 @@ title = "Marocco"
 * Partita a calcio con i bambini del posto
 * Hotel
 
-### El Oualidia 
+### El Oualidia
 
 * [https://goo.gl/maps/b8Zh5RB17FpUeuLw7](https://goo.gl/maps/b8Zh5RB17FpUeuLw7)
 * qualcuno mangia pesce preparato sulla spiaggia
@@ -59,4 +59,7 @@ title = "Marocco"
 * Riad Venise
 * Palazzo el Bahia
 * Tombe Saadiane
-*
+* Hammam
+* giro per il mercato
+* Giardini Majorelle [https://goo.gl/maps/mN9sFtRp1AA8HcFW6](https://goo.gl/maps/mN9sFtRp1AA8HcFW6 "Giardini Majorelle")
+* [https://goo.gl/maps/5GsPbXuCdH54afLM8](https://goo.gl/maps/5GsPbXuCdH54afLM8 "Piazza Jemaa el-Fna")
