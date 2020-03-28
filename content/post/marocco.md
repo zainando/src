@@ -57,6 +57,9 @@ title = "Marocco"
 
 * [https://goo.gl/maps/eFDBX6vNa6VjrwW17](https://goo.gl/maps/eFDBX6vNa6VjrwW17 "https://goo.gl/maps/eFDBX6vNa6VjrwW17")
 * [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9)
+* ci portano i bagagli con il carretto per le viette strette della medina
+* bancarelle con i prodotti ricoperti di insetti
+* motorini che sfrecciano per la medina sfiorandoti
 * Palazzo el Bahia
 * Tombe Saadiane
 * Hammam
