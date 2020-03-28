@@ -122,10 +122,9 @@ title = "Marocco"
 * cena
 * falò con musica e notte stellata
 * nanna sotto le stelle (o nelle finte tende del [bivacco](https://goo.gl/maps/daA87hQrWw8YkArH9))
-* alba
+* alba sulle dune
 
-
-
+Dopo il deserto
 
 * visita al tipo che fa tavoli con i fossili
 * visita dall'alto a una piscina pubblica
@@ -170,7 +169,7 @@ title = "Marocco"
 * Palazzo reale [Heri es-Souani](https://goo.gl/maps/TYpGeZHXA2iCQahv8) e stalle reali
 * negozio di tappeti 
 
-### Rabat
+### Rabat
 
 * [Kasbah of the Udayas](https://goo.gl/maps/S3uqe1t1MAPuYRpAA)
 * spiaggia
@@ -181,17 +180,3 @@ title = "Marocco"
 * visita al mercato della medina
 * visita alla [Moschea di Hassan II](https://goo.gl/maps/qbFxMApkq11oY4LPA)
 * cena in una bettola in questa zona [https://goo.gl/maps/pXf7fLhi1MH7ZWqw8](https://goo.gl/maps/pXf7fLhi1MH7ZWqw8)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
