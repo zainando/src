@@ -100,5 +100,25 @@ title = "Marocco"
 
 ### Gole del Dades e Gole di Todra
 
-* pausa panoramica vicino a [Café-restaurant Timzzillite Chez Mohamed](https://goo.gl/maps/15midWh8HPin9j266) dove montiamo sulle Jeep 4x4
+* pausa panoramica vicino a [Café-restaurant Timzzillite Chez Mohamed](https://goo.gl/maps/15midWh8HPin9j266) dove montiamo sulle Jeep 4x4 per affrontare le Gole di Dades
+* pausa panoramica a [Les Pattes de Singes](https://goo.gl/maps/yewnv3iVFUruogS78) davanti alle [Monkey Paw Mountains](https://goo.gl/maps/m1teXUBDAk9hVYJr6)
 * pausa a [Maison d'hôtes la vallée des nomades](https://goo.gl/maps/QZDdTFBaA4uckcb96)
+* raggiungiamo il passo che separa le Gole di Dades dalle Gole di Todra ([qui](https://maps.app.goo.gl/t1NsSEjprzsYUH4z8))
+* asinelli
+* altra pausa panoramica dove incontriamo il camper di ..., donna del Brunei/Buthan sposata ocn un austriaco e blablabla
+* Alle Gole di Todra alloggiamo al [Dar Ayour Guest House](https://g.page/darayour?share)
+
+### Jorf e Erg Chebbi
+
+* lungo la strada ci fermiamo a visitare gli antichi pozzi del [Bivouac Chez Bachir a Jorf](https://goo.gl/maps/KvhDfAfdXNuMKEvR7)
+* pozzi verticali scavati per dare aria ai tunnel lunghi XXX km (50?) che portavano l'acqua dalle montagna
+* molti canali sotterranei paralleli, uno per tribù
+* hanno girato alcune scene di Star Wars
+* visita a ??? (moschea e viuzze)
+* veniamo lasciati a bordo strada in mezzo al deserto per poi salire dentro e sopra a delle Jeep per raggiungere [Auberge Sandfisch](https://g.page/auberge-sandfisch?share) 
+* piscina con frutta
+* girello sulle dune
+* giro a dorso di dromedario per vedere il tramonto sulle dune
+* cena
+* falò con musica e notte stellata
+* nanna sotto le stelle (o nelle finte tende del [bivacco](https://goo.gl/maps/daA87hQrWw8YkArH9))
