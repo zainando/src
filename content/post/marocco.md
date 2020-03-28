@@ -26,11 +26,21 @@ title = "Marocco"
 * Partita a calcio con i bambini del posto
 * Hotel
 
+### El Oualidia Plage
+
+* [https://goo.gl/maps/S5HzEryUYG9ND3UL9](https://goo.gl/maps/S5HzEryUYG9ND3UL9 "https://goo.gl/maps/S5HzEryUYG9ND3UL9")
+* in realtà spiaggia sulla via di safi-> chiedere a sandro o cercare nelle locations delle foto
+  * qualcuno mangia pesce preparato sulla spiaggia
+
 ### Safi
 
 * [https://goo.gl/maps/GpSPXGatAoM7JSPA7](https://goo.gl/maps/GpSPXGatAoM7JSPA7 "https://goo.gl/maps/GpSPXGatAoM7JSPA7")
-* in realtà spiaggia vicina -> chiedere a sandro o cercare nelle locations delle foto
-* qualcuno mangia pesce preparato sulla spiaggia
+* Safi
+  * miriana incastrata nella toilette
+  * viette
+  * piazzetta
+  * baracchette dove fanno da mangiare
+  * produttori di ceramiche (?), vasi, ...
 
 ### Essaouira
 
@@ -41,8 +51,12 @@ title = "Marocco"
 * La mattina dopo girello in zona porto
 * Miriana e Ricky (?) assaggiano pesce crudo a una bancarella
 * Vediamo una fabbrica di ghiaccio (da fuori, passando)
+* Nel tragitto verso Marrakech visitiamo una cooperativa di donne che si sostenta creando e vendendo prodotti a base di Argan
 
 ## Marrakech
 
 * [https://goo.gl/maps/eFDBX6vNa6VjrwW17](https://goo.gl/maps/eFDBX6vNa6VjrwW17 "https://goo.gl/maps/eFDBX6vNa6VjrwW17")
 * Riad Venise
+* Palazzo el Bahia
+* Tombe Saadiane
+* 
