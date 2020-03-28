@@ -63,8 +63,12 @@ title = "Marocco"
 * giro per il mercato
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
+* artigiano che fa lavoretti con il legno con i piedi
 
 ### Cascades d'Ouzoud
 
 * [https://g.page/cascades-douzoud?share](https://g.page/cascades-douzoud?share)
 * [Kasbah Ouzoud](https://goo.gl/maps/WBqyjP3sUvgn2YTF9)
+* camminata fino alle grotte
+* campeggio hippie
+* serata a guardare le stelle
