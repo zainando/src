@@ -60,6 +60,7 @@ title = "Marocco"
 * ci portano i bagagli con il carretto per le viette strette della medina
 * bancarelle con i prodotti ricoperti di insetti
 * motorini che sfrecciano per la medina sfiorandoti
+* venditori di lanterne
 * Palazzo el Bahia
 * Tombe Saadiane
 * Hammam
@@ -67,11 +68,38 @@ title = "Marocco"
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
 * artigiano che fa lavoretti con il legno con i piedi
+* In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
+
 
 ### Cascades d'Ouzoud
 
 * [https://g.page/cascades-douzoud?share](https://g.page/cascades-douzoud?share)
 * [Kasbah Ouzoud](https://goo.gl/maps/WBqyjP3sUvgn2YTF9)
 * camminata fino alle grotte
-* campeggio hippie
+* campeggio hippie, in questa zone qui [https://goo.gl/maps/C4HsbkMmWumfmi9n8](https://goo.gl/maps/C4HsbkMmWumfmi9n8)
+* piscina
 * serata a guardare le stelle
+
+### Ait Ben-Haddou
+
+* Lungo la strada pranzo al [Café Restaurant AFOULKI](https://goo.gl/maps/SNh7GubS6DZk7eCe9) per poi proseguire verso [Col du Tichka](https://goo.gl/maps/RjFKiQP25oSmPUDp9)(Tizi n'Tichka), passo a 2260 metri che collega MArrakech ai deserti del sud del Marocco
+* visita alla [Qasba di Télouet](https://goo.gl/maps/JENggFguCW6pqPkk6) in cui il tipo con il tirbante arancione ci racconta la storia, erano i padroni di mezzo marocco blablabla
+* arriviamo a [Ait-Ben-Haddou](https://goo.gl/maps/fdW3WPKXC7wndA3eA)
+* alloggiama a [La Baraka Auberge](https://goo.gl/maps/eWEEUNXom2czjk4b7)
+* tramonto e alba deludenti
+* [Kasbah Ait Ben Haddo](https://g.page/ksar-ait-ben-haddou?share) fiqua oltre il letto in secca di un fiume
+* notte matrimonio a cui veniamo invitati
+
+### Ouarzazate
+
+* saltiamo gli Atlas Studio
+* Visita a [Kasbah Taourirt](https://goo.gl/maps/kZRV6JVb3uif8PK66)
+* Visita al villaggio
+* Visita al negozio di tessuti
+* Kasbah Amridil a Skoura??? fatta???
+
+### Gole del Dades e Gole di Todra
+
+* pausa panoramica a [Café-restaurant Timzzillite Chez Mohamed](https://goo.gl/maps/15midWh8HPin9j266)
+* 4x4
+* pausa a [Maison d'hôtes la vallée des nomades](https://goo.gl/maps/QZDdTFBaA4uckcb96)
