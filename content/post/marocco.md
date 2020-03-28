@@ -122,3 +122,64 @@ title = "Marocco"
 * cena
 * falò con musica e notte stellata
 * nanna sotto le stelle (o nelle finte tende del [bivacco](https://goo.gl/maps/daA87hQrWw8YkArH9))
+* alba
+
+
+
+
+* visita al tipo che fa tavoli con i fossili
+* visita dall'alto a una piscina pubblica
+* kashbah con bambini
+
+### Sidi Hamza
+
+* [Palacio Sidi Hamza](https://goo.gl/maps/4cL7CaTAeEXTqUkV9)
+* cena con i musici 
+* il giorno dopo visita al paese, mulino, mercato, scuola 
+* antica biblioteca bruciata?
+* visita al parco con le scimmie [Rassemblement naturel des singes](https://goo.gl/maps/BoKkja3rSM6JQT5b7)
+* Ifrane, la svizzera marocchina
+
+### Fes
+
+* [Riad Rocco](https://www.facebook.com/pages/category/Bed-and-Breakfast/Riad-Rocco-452405721525064/)
+* Hammam
+* pentola in testa
+* Henneh
+* palazzo reale https://goo.gl/maps/zoGsuurd85oeZQFbA
+* vista dall'alto da ???
+* medina
+* [Madrasa Bou Inania](https://goo.gl/maps/66GBw1Vnpq9K1TCq5)
+* 
+
+### Chefchaouen
+
+### Meknes
+
+
+
+### Rabat
+
+* [Kasbah of the Udayas](https://goo.gl/maps/S3uqe1t1MAPuYRpAA)
+* spiaggia
+* giro street art
+
+### Casablanca
+
+* visita al mercato della medina
+* visita alla [Moschea di Hassan II](https://goo.gl/maps/qbFxMApkq11oY4LPA)
+* cena al 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
