@@ -15,7 +15,7 @@ title = "Marocco"
 
 ### Casablanca
 
-* Morocco House Hotel
+* [Morocco House Hotel](https://goo.gl/maps/QVi6PkqQ6dG1kU8i6)
 * spesa di acqua per i giorni successivi
 * prima tajin in un ristorante locale
 
@@ -45,7 +45,7 @@ title = "Marocco"
 ### Essaouira
 
 * [https://goo.gl/maps/ab5ZHxxPMemFwojB7](https://goo.gl/maps/ab5ZHxxPMemFwojB7 "https://goo.gl/maps/ab5ZHxxPMemFwojB7")
-* Riad Chakir Mogador
+* [Riad Chakir Mogador](https://goo.gl/maps/DND9DXSuMtFYnZo57)
 * Girello la sera a vedere il tramonto
 * Veniamo assaliti dai buttadentro dei ristoranti scrausi nella zona del mercato del pesce
 * La mattina dopo girello in città e poi in zona porto
@@ -56,7 +56,7 @@ title = "Marocco"
 ### Marrakech
 
 * [https://goo.gl/maps/eFDBX6vNa6VjrwW17](https://goo.gl/maps/eFDBX6vNa6VjrwW17 "https://goo.gl/maps/eFDBX6vNa6VjrwW17")
-* Riad Venise
+* [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9)
 * Palazzo el Bahia
 * Tombe Saadiane
 * Hammam
@@ -67,3 +67,4 @@ title = "Marocco"
 ### Cascades d'Ouzoud
 
 * [https://g.page/cascades-douzoud?share](https://g.page/cascades-douzoud?share)
+* [Kasbah Ouzoud](https://goo.gl/maps/WBqyjP3sUvgn2YTF9)
