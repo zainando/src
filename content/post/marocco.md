@@ -150,9 +150,16 @@ title = "Marocco"
 * vista dall'alto da ???
 * medina
 * [Madrasa Bou Inania](https://goo.gl/maps/66GBw1Vnpq9K1TCq5)
-* 
+* [Funduq al-Najjariyyin](https://goo.gl/maps/g1uFHeswb3eqgMQo6)
+* Farmacia - ARGAN e THE ALLA MENTA?
+* laboratorio di ceramiche???
+* laboratorio seta dove abbiamo comprato le coperte???
+* concerie [Chouara Tannery](https://g.page/chouaratannery?share)
+* [Madersa Attarine](https://goo.gl/maps/ppRGSxiumNq29bEk8) da fuori
 
 ### Chefchaouen
+
+* 
 
 ### Meknes
 
