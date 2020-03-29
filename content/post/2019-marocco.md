@@ -11,6 +11,8 @@ title = "Marocco"
 +++
 ## In breve
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1l5ZWeuqmjAGYup_v0UO1ZqzWuj7F-1C0" width="640" height="480"></iframe>
+
 ## Le nostre tappe
 
 ### Casablanca
