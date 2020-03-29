@@ -2,7 +2,7 @@
 date = 2019-06-30T22:00:00Z
 description = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/Zainando/n-BrFfR4/Marocco-2019/i-RNh4njX/0/e01e2349/X3/IMG_1703-X3.jpg"
 serie = ""
 slug = "marocco-2019"
 tags = ["marocco"]
