@@ -91,17 +91,29 @@ SECONDO GIORNO A MARRAC...
 
 Pianifichiamo il giro turistico decidento di vedere quante più cose possibili nel tempo a disposizione. 
 
-* Palazzo el Bahia
+* Palais de la Bahia
 
-* Tombe Saadiane
+il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello e mozzafiato; è il primo incontro che facciamo con l'architettura araba. Per la storia vi lasciamo a una più autorevole guida, noi ci siamo limitati a immergerci nelle varie stanze e percorsi a labirinto, tanto che il gruppo si è fin da subito smembrato. Cose da fare: una foto seduti per terra e ripresi dall'alto per mettere in risalto il meraviglioso pavimento della struttura, soffermarsi nella zona con le vetrate colorate per catturare giochi di luce sui lineamenti. 
+
+COSTO: 
+
+* Tombeaux Saadians
+
+ 
+
 * Hammam
 * giro per il mercato
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
+
+Per arrivare ai giardini bisogna prendere un mezzo di trasporto, noi abbiamo optato per l'autobus, esperienza decisamente consigliata per meglio immergersi nella popolazione locale. I giardini colpiscono per la quantità e la varietà di piante presenti; noi non esperti di botanica siamo rimasti a bocca aperta davanti a tante specie, alcune mai viste. Tappa obbligatoria la costruzione colorata blu, dove bisogna fare la fila per potersi concedere una foto sulle scalinate a fianco del limone giallo. 
+
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
 * artigiano che fa lavoretti con il legno con i piedi
 * In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
 
 Un'altro posto da vedere a Marrackeck, che ha visto solo la Marghe (per vari motivi, è arrivata in città un giorno prima e ha potuto girarla da sola) è Le Jardin secret, proprio nel cuore della città. è un giardino più piccolo a livello di estensione rispetto al Majorelle, ma davvero piacevole; la cosa che più colpisce è il senso di pace, e la freschezza che si respira rispetto all'esterno, dove si trova il centro commerciale. Per salire sulla torre è previsto il pagamento di un altro biglietto, ma dalla terrazza del bar è possibile vedere un panorama mozzafiato. 
+
+u max and jan concept store, un negozio a struttura tipicamente occidentale, di design e artigianato. 
 
 Cosa puoi fotografare di tipico a Marrackeck: 
 
@@ -111,7 +123,7 @@ banchetti di venditori ambulanti dove puoi acquistare anche un singolo pezzo: ba
 
 signore con la testa coperta, ma anche (e più frequenti di quelle che pensassi) signore totalmente coperte con solo gli occhi fuori, talvolta nemmeno quelli 
 
-I negozi che vendono lanterne, quelli che vengono tappeti e prodotti in vimini, le pappucce
+I negozi che vendono lanterne, quelli che vengono tappeti e prodotti in vimini, le pappucce,banchetti di spezie
 
 ### Cascades d'Ouzoud
 
