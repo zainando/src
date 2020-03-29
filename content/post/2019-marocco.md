@@ -95,6 +95,8 @@ frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabinde
 
 ### Ait Ben-Haddou
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3418.222999409554!2d-7.132350484860926!3d31.047890981528486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdbae066b97915d3%3A0xafa414dfda628e0a!2sKasbah%20Ait%20Ben%20Haddou%E2%80%8C!5e0!3m2!1sen!2sit!4v1585486048934!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * Lungo la strada pranzo al [Café Restaurant AFOULKI](https://goo.gl/maps/SNh7GubS6DZk7eCe9) per poi proseguire verso [Col du Tichka](https://goo.gl/maps/RjFKiQP25oSmPUDp9)(Tizi n'Tichka), passo a 2260 metri che collega MArrakech ai deserti del sud del Marocco
 * visita alla [Qasba di Télouet](https://goo.gl/maps/JENggFguCW6pqPkk6) in cui il tipo con il turbante arancione ci racconta la storia, erano i padroni di mezzo marocco blablabla
 * arriviamo a [Ait-Ben-Haddou](https://goo.gl/maps/fdW3WPKXC7wndA3eA)
@@ -154,6 +156,8 @@ Dopo il deserto
 
 ### Fes
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52908.373157698225!2d-5.036759816740797!3d34.024029024698855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585486099575!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Riad Rocco](https://www.facebook.com/pages/category/Bed-and-Breakfast/Riad-Rocco-452405721525064/)
 * Hammam
 * pentola in testa
@@ -171,11 +175,15 @@ Dopo il deserto
 
 ### Chefchaouen
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26091.379733657584!2d-5.288490032993407!3d35.17102157104232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585486133259!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Maison D'hôte Lalla Khadouj](https://goo.gl/maps/EAFEndxj4ksRBGCH6)
 * Girello della città
 * Tramonto dall'alto della [Mosque Bouzaafer](https://goo.gl/maps/NuYDnSoYjd6nVD36A)
 
 ### Meknes
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52997.33134473833!2d-5.573039617431483!3d33.88107130435236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda044d23bfc49d1%3A0xfbbf80a99e4cde18!2sMeknes%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585486155946!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 * [Sito Archeologico di Volubilis](https://goo.gl/maps/43QCZMMMSxqt7nh77)
 * [Riad Bahia](https://goo.gl/maps/Kcqhk3jcME8ZsgRb7)
@@ -184,11 +192,15 @@ Dopo il deserto
 
 ### Rabat
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105884.88504841928!2d-6.9273026268321685!3d33.96934138171569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585486271311!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Kasbah of the Udayas](https://goo.gl/maps/S3uqe1t1MAPuYRpAA)
 * spiaggia
 * giro street art
 
 ### Casablanca
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106376.55067486245!2d-7.657032334626923!3d33.572410806096805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484398004!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 * visita al mercato della medina
 * visita alla [Moschea di Hassan II](https://goo.gl/maps/qbFxMApkq11oY4LPA)
