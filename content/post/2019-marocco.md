@@ -1,9 +1,9 @@
 +++
-date = 2019-06-30T22:00:00Z
-description = ""
+date = 2019-06-29T22:00:00Z
+description = "Abbiamo scelto di visitare il Marocco per numerose ragioni: a poche ore di viaggio da noi, ci permette di arrivare in un continente diverso (prima volta in Africa per Marghe!) e di entrare in contatto con profumi, colori, religione e abitudini differenti dalle nostre. Non servono vaccini specifici, mentre è richiesto il passaporto, che entrambi possediamo. La sfida era quella di ottimizzare le due settimane di ferie decise solo un mese prima, e vedere quante più cose possibili: come non far lievitare i prezzi, e allo stesso tempo organizzare un tour di molte tappe in poco tempo?"
 draft = true
 image = "https://photos.smugmug.com/Zainando/n-BrFfR4/Marocco-2019/i-RNh4njX/0/e01e2349/X3/IMG_1703-X3.jpg"
-serie = ""
+serie = "marocco"
 slug = "marocco-2019"
 tags = ["marocco"]
 title = "Marocco"
