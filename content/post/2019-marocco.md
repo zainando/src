@@ -11,36 +11,49 @@ title = "Marocco"
 +++
 ## In breve
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1l5ZWeuqmjAGYup_v0UO1ZqzWuj7F-1C0" width="600" height="450"
-frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"
-></iframe>
+Perchè il Marocco? 
 
-## Le nostre tappe
+Abbiamo scelto di visitare il Marocco per numerose ragioni: a poche ore di viaggio da noi, ci permette di arrivare in un continente diverso (prima volta in Africa per Marghe!) e di entrare in contatto con profumi, colori, religione e abitudini differenti dalle nostre. Non servono vaccini specifici, mentre è richiesto il passaporto, che entrambi possediamo. La sfida era quella di ottimizzare le due settimane di ferie decise solo un mese prima, e vedere quante più cose possibili: come non far lievitare i prezzi, e allo stesso tempo organizzare un tour di molte tappe in poco tempo? 
+
+Decidiamo di appoggiarci a Viaggi Avventure Nel Mondo nell'ineraio Marrocco Discovery, dopo aver telefonato al coordinatore nominato per assicurarci fosse in linea con le nostre aspettative. A 15 giorni di distanza dalla partenza, prenotiamo. (se volete sapere se vale la pena viaggiare con Viaggi Avventure, leggete questo post!!). Pronti partenza via, il viaggio inizia!
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1l5ZWeuqmjAGYup_v0UO1ZqzWuj7F-1C0" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"
+
+> </iframe>
+>
+> ## Le nostre tappe
 
 ### Casablanca
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106376.55067486245!2d-7.657032334626923!3d33.572410806096805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484398004!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-* [Morocco House Hotel](https://goo.gl/maps/QVi6PkqQ6dG1kU8i6)
-* spesa di acqua per i giorni successivi
-* prima tajin in un ristorante locale
+Ci troviamo all'areoporto di Milano con i partecipanti al viaggio, qualcun altro parte invece da Roma e ci si incontrerà direttamente in suolo africano. Atterriamo in sera avanzata a Casablanca, dove raggiungiamo con (???) il [Morocco House Hotel](https://goo.gl/maps/QVi6PkqQ6dG1kU8i6). L'ostello non è al centro della città, ma è abbastanza grande per ospitare il gruppone, siamo infatti in 16. 
+
+DOVE CAMBIARE IL DINERO? 
+
+Facciamo scorta di bottiglie di acqua per il giorno successivo, reperirle è facile, infatti è pieno di piccoli negozietti di alimentari base (biscotti, pane, snack, yogurt, bottiglie di bibite) e altri piccoli oggetti di prima necessità come prodotti di profumeria, carta igenica ecc. Cerchiamo in velocità un posto dove cenare, chiaramente a base di Tajin, piatto tipico locale che sarà ricorrente durante il viaggio. 
+
+DOVE AVETE MANGIATO?
 
 ### El Jadida
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53396.1868728128!2d-8.538683997149942!3d33.233447294019456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda91dc1b421fe47%3A0x307cf87fb6b01a1f!2sEl%20Jadida%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484451487!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-* Girello per le viuzze
-* Girello sui bastioni
-* Foto sui bastioni
-* Partita a calcio con i bambini del posto
-* Hotel
+La prima giornata del nostro giro prevede una vistita alle cittadine lungo la costa occidentale affacciate sul mare; generalmente il giro proposto da Avventure è in senso orario, ma un altro gruppo lo sta percorrendo in questo momento e noi ci differenziamo dalla massa. 
+
+Quello che caratterizza questi pesini costieri sono le piccole barchette blu dei pescatori attraccate al porto e gli stormi di gabbiani che si contendono pezzi di cibo avanzati; l'architettura comprende spesso bastioni o mura per difendere dagli attacchi via mare. Luci, visi e odori colpiscono nel segno e siamo consapevoli di essere arrivati in una terra totalmente differente dall'Europa. 
+
+Il primo paesino è El Jaddida; non è come alcuni dei nostri compagni di avvetura pensavano una meta "di mare" come si intende generalmente, infatti si affaccia sull'oceano dove la temperatura rigida e le onde rendono molto diffiile fare il bagno. Vi va meglio se avete progettato invece di fare una mezza giornata di surf. 
+
+è piacevole salire sui bastioni la cui altezza permette di fare qualche foto all'abitato; le piccole vie in selciato ci fanno passare a fianco di pescatori seduti o accovaciati, che riposano o semplicemente "stanno", anche questo altro letit motiv del paese. Incontrati un gruppo di bambini del posto, ci mischiamo per una movimentata partita a calcio Italia-Marocco:chiaramente vince quest'ultimo. 
 
 ### El Oualidia
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.215424894109!2d-9.047583284819085!3d32.73346998098525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdaead3cc8809093%3A0xb352cc57c882c464!2sOualidia%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484506817!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 * [https://goo.gl/maps/b8Zh5RB17FpUeuLw7](https://goo.gl/maps/b8Zh5RB17FpUeuLw7)
-* qualcuno mangia pesce preparato sulla spiaggia
+
+  Altra attività imperdibile di queste zone è approfittare delle bancarelle dove viene cucinato il pesce al momento: pochi attrezzi essenziali come una griglia e un po' di braci ed è possibile addentare una sardina o pesci più grandi, decisamente freschi. Se mangiati poi seduti in riva alla spiaggia, acquista tutto un sapore ancora più dolce!
 
 ### Safi
 
@@ -56,23 +69,18 @@ frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabinde
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27211.849239185125!2d-9.78005175727618!3d31.510942357837212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484564736!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-* [Riad Chakir Mogador](https://goo.gl/maps/DND9DXSuMtFYnZo57)
-* Girello la sera a vedere il tramonto
-* Veniamo assaliti dai buttadentro dei ristoranti scrausi nella zona del mercato del pesce
-* La mattina dopo girello in città e poi in zona porto
-* Miriana e Ricky (?) assaggiano pesce crudo a una bancarella
-* Vediamo una fabbrica di ghiaccio (da fuori, passando)
-* Nel tragitto verso Marrakech visitiamo una cooperativa di donne che si sostenta creando e vendendo prodotti a base di Argan
+Arrivati in serata, appoggiamo i bagagli al [Riad Chakir Mogador](https://goo.gl/maps/DND9DXSuMtFYnZo57). La sera facciamo un girello per  vedere il tramonto e vvniamo assaliti dai buttadentro dei ristoranti scrausi nella zona del mercato del pesce. 
+
+La mattina dopo facciamo un breve girello in città e poi in zona porto; nuovamente tentati dalle bancarelle, due dei nostri assaggiano pesce crudo a una bancarella per una sfida: dichiarano che fosse buono, noi non abbiamo verificato! Passiamo di fronte ad una fabbrica di ghiaccio passando da fuori, ed è già ora di proseguire verso la prossima tappa. Nel tragitto verso Marrakech visitiamo una cooperativa di donne che si sostenta creando e vendendo prodotti a base di Argan (QUALE FABBRICA?)
 
 ### Marrakech
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217406.37638548054!2d-8.1479381904096!3d31.63454497560447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484818447!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-* [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9)
-* ci portano i bagagli con il carretto per le viette strette della medina
-* bancarelle con i prodotti ricoperti di insetti
-* motorini che sfrecciano per la medina sfiorandoti
-* venditori di lanterne
+Alloggiamo presso il [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9), non esattamente dove segna la geolocalizzazione ma qualche porta prima. Una delle prime cose che colpiscono della città è la quantità di persone che si offrono per un servizio, una indicazione o un favore: bambini o adulti che ti riconoscono come turista ti avvicinano per offrirti di accompagnarti presso il tuo albergo o per portarti il bagaglio. Ne approfittiamo per caricare i bagagli su di un carretto e il signore ci accompagna nelle strade contorte e tutte uguali della medina (le auto infatti non hanno possibilità di accedere al centro abitato). 
+
+Dopo una veloce sosta non possiamo che riversarci nel centro per assaporare la città, milioni di cose ci colpiscono: le bancarelle con i prodotti dolciari ricoperti di insetti, i motorini che sfrecciano per le strade strette e non colpendoci per un soffio, i venditori di lanterne e altri oggetti di metallo e ottone. 
+
 * Palazzo el Bahia
 * Tombe Saadiane
 * Hammam
@@ -81,7 +89,6 @@ frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabinde
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
 * artigiano che fa lavoretti con il legno con i piedi
 * In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
-
 
 ### Cascades d'Ouzoud
 
@@ -129,8 +136,8 @@ frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabinde
 * pozzi verticali scavati per dare aria ai tunnel lunghi XXX km (50?) che portavano l'acqua dalle montagna
 * molti canali sotterranei paralleli, uno per tribù
 * hanno girato alcune scene di Star Wars
-* visita a ??? (moschea e viuzze)
-* veniamo lasciati a bordo strada in mezzo al deserto per poi salire dentro e sopra a delle Jeep per raggiungere [Auberge Sandfisch](https://g.page/auberge-sandfisch?share) 
+* Rissani, visita a Mausoleè Moulay Ali Cherif (+ viuzze)
+* veniamo lasciati a bordo strada in mezzo al deserto per poi salire dentro e sopra a delle Jeep per raggiungere [Auberge Sandfisch](https://g.page/auberge-sandfisch?share)
 * piscina con frutta
 * girello sulle dune
 * giro a dorso di dromedario per vedere il tramonto sulle dune
@@ -148,8 +155,8 @@ Dopo il deserto
 ### Sidi Hamza
 
 * [Palacio Sidi Hamza](https://goo.gl/maps/4cL7CaTAeEXTqUkV9)
-* cena con i musici 
-* il giorno dopo visita al paese, mulino, mercato, scuola 
+* cena con i musici
+* il giorno dopo visita al paese, mulino, mercato, scuola
 * antica biblioteca bruciata?
 * visita al parco con le scimmie [Rassemblement naturel des singes](https://goo.gl/maps/BoKkja3rSM6JQT5b7)
 * Ifrane, la svizzera marocchina
@@ -188,7 +195,7 @@ Dopo il deserto
 * [Sito Archeologico di Volubilis](https://goo.gl/maps/43QCZMMMSxqt7nh77)
 * [Riad Bahia](https://goo.gl/maps/Kcqhk3jcME8ZsgRb7)
 * Palazzo reale [Heri es-Souani](https://goo.gl/maps/TYpGeZHXA2iCQahv8) e stalle reali
-* negozio di tappeti 
+* negozio di tappeti
 
 ### Rabat
 
