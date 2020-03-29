@@ -25,11 +25,11 @@ Mappa
 
 ### A destra dopo le guglie
 
-### Vedova
+### Cà D'Oro alla Vedova
 
 ### Bacarando in Corte dell'Orso
 
-### I Promessi Sposi
+### Ai Promessi Sposi
 
 ## Altri
 
