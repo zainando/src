@@ -15,6 +15,8 @@ title = "Marocco"
 
 ### Casablanca
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106376.55067486245!2d-7.657032334626923!3d33.572410806096805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484398004!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Morocco House Hotel](https://goo.gl/maps/QVi6PkqQ6dG1kU8i6)
 * spesa di acqua per i giorni successivi
 * prima tajin in un ristorante locale
