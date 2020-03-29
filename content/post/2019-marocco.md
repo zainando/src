@@ -64,7 +64,8 @@ title = "Marocco"
 
 ### Marrakech
 
-* [https://goo.gl/maps/eFDBX6vNa6VjrwW17](https://goo.gl/maps/eFDBX6vNa6VjrwW17 "https://goo.gl/maps/eFDBX6vNa6VjrwW17")
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217406.37638548054!2d-8.1479381904096!3d31.63454497560447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484818447!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9)
 * ci portano i bagagli con il carretto per le viette strette della medina
 * bancarelle con i prodotti ricoperti di insetti
