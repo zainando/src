@@ -12,13 +12,13 @@ url = "/page/about/"
 weight = 1
 [[menu.social]]
 identifier = "instagram"
-name = "@zainandoperilmondo"
+name = " zainandoperilmondo"
 pre = "<i class='fa fa-instagram'></i>"
 url = "https://instagram.com/zainandoperilmondo/"
 weight = 1
 [[menu.social]]
 identifier = "facebook"
-name = "@zainandoperilmondo"
+name = " zainandoperilmondo"
 pre = "<i class='fa fa-facebook'></i>"
 url = "https://www.facebook.com/zainandoperilmondo/"
 weight = 2
