@@ -98,7 +98,6 @@ il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello
 COSTO:
 
 * Tombeaux Saadians
-* Hammam
 * giro per il mercato
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
 
