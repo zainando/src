@@ -3,7 +3,7 @@ date = "2017-04-22"
 title = "GRX#8: Alhambra"
 draft = true
 image = "***"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "granada", "travel"]
 +++
 

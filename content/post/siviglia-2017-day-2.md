@@ -3,7 +3,7 @@ date = "2017-04-20"
 title = "SVQ#6: Parasol, Cattedrale e Piazza di Spagna"
 draft = true
 image = "https://photos.smugmug.com/photos/i-gBqmFFQ/0/d823b63e/X3/i-gBqmFFQ-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "siviglia", "travel"]
 +++
 

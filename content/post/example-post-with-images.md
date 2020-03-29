@@ -3,7 +3,7 @@ date = "2017-04-10"
 title = "Example post with images"
 draft = true
 image = "https://photos.smugmug.com/photos/i-qpJQvhq/0/b9234cda/X3/i-qpJQvhq-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "barcelona", "travel"]
 +++
 

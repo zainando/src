@@ -3,7 +3,7 @@ date = "2018-08-18"
 title = "Da Nájera a Grañón"
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
-series = "Camino de Santiago"
+serie = "Camino de Santiago"
 +++
 
 

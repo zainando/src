@@ -1,7 +1,7 @@
 +++
 date = 2017-04-19T09:00:00Z
 image = "https://photos.smugmug.com/photos/i-qcjVgTD/0/81339bfe/X3/i-qcjVgTD-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "siviglia", "travel"]
 title = "SVQ#5: Macarena y Royal Alcázar"
 

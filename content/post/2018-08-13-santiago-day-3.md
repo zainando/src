@@ -3,7 +3,7 @@ date = "2018-08-13"
 title = "Da Larrasoaña a Zariquiegui"
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
-series = "Camino de Santiago"
+serie = "Camino de Santiago"
 slug = "santiago-day-3"
 +++
 

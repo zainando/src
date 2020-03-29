@@ -27,8 +27,8 @@ fields:
   label: slug
   description: The post URL
 - type: text
-  name: series
-  label: series
+  name: serie
+  label: serie
 - type: list
   name: tags
   label: tags

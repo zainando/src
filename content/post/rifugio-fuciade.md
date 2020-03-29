@@ -2,7 +2,7 @@
 date = ""
 draft = true
 image = ""
-series = ""
+serie = ""
 slug = ""
 tags = []
 title = "Rifugio Fuciade "

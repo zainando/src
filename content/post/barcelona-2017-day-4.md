@@ -3,7 +3,7 @@ date = "2017-04-18"
 title = "BCN#4: Ciao Barcellona e grazie per tutto il pesce"
 draft = false
 image = "https://photos.smugmug.com/photos/i-WJXWf67/0/84c6a32a/X3/i-WJXWf67-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "barcelona","barcellona", "travel"]
 +++
 

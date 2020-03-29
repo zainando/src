@@ -3,7 +3,7 @@ date = "2017-04-16"
 title = "BCN#2: Gaudí"
 draft = false
 image = "https://photos.smugmug.com/photos/i-qJb6tDW/0/a0f9d544/X3/i-qJb6tDW-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "barcelona","barcellona", "travel"]
 +++
 

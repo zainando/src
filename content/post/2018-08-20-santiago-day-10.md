@@ -3,7 +3,7 @@ date = "2018-08-20"
 title = "Da Villafranca Montes de Oca a "
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
-series = "Camino de Santiago"
+serie = "Camino de Santiago"
 +++
 
 

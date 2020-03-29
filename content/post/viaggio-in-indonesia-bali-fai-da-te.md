@@ -2,7 +2,7 @@
 date = ""
 draft = true
 image = ""
-series = ""
+serie = ""
 slug = ""
 tags = []
 title = "Viaggio in Indonesia: Bali Fai da te "

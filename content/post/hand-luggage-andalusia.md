@@ -3,7 +3,7 @@ date = "2017-05-07"
 title = "L'Andalusia in uno zaino"
 draft = true
 image = "***"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "andalusia", "travel"]
 
 +++

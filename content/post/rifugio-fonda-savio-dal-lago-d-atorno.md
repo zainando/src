@@ -2,7 +2,7 @@
 date = 2020-02-28T23:00:00Z
 draft = true
 image = ""
-series = "Montagna"
+serie = "Montagna"
 slug = ""
 tags = ["Giro ad anello"]
 title = "Rifugio Fonda Savio dal Lago D'Atorno"

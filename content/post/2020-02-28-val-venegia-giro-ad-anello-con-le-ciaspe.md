@@ -2,7 +2,7 @@
 date = 2020-02-27T23:00:00Z
 description = "Da Malga Juribello a Baita Segantini proseguendo per la Val Venegia: una ciaspolata immersi nel bianco"
 image = "https://photos.smugmug.com/SpaceTimePoints/2020-03-01-ValVenegia/i-L3mSbjP/0/706001c8/X3/IMG_3337-X3.jpg"
-series = "Montagna"
+serie = "Montagna"
 slug = "val-venegia-con-le-ciaspe"
 tags = ["montagna", "trentino", "val venegia", "ciaspe", "baita segantini", "trekking montagna", "giro ad anello"]
 title = "Val Venegia: giro ad Anello sotto la neve!"

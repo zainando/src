@@ -3,7 +3,7 @@ date = "2017-04-23"
 title = "GRX#9: Granada by day, Granada by night"
 draft = true
 image = "***"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "granada", "travel"]
 
 +++

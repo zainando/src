@@ -3,7 +3,7 @@ date = "2018-08-14"
 title = "Da Zariquiegui a Lorca"
 draft = true
 tags = ["a piedi", "by foot", "santiago"]
-series = "Camino de Santiago"
+serie = "Camino de Santiago"
 +++
 
 <!-- ## Da Zariquiegui a Lorca -->

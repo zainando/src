@@ -1,7 +1,7 @@
 +++
 date = 2018-08-23T00:00:00Z
 draft = true
-series = "Camino de Santiago"
+serie = "Camino de Santiago"
 tags = ["a piedi", "by foot", "santiago"]
 title = "Da  a "
 

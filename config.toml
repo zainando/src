@@ -2,8 +2,10 @@ baseurl = "https://zainando.com/"
 languageCode = "it-it"
 theme = "hugo_theme_robust"
 title = "Zainando"
+
 [markup.goldmark.renderer]
 unsafe = true
+
 [[menu.main]]
 name = "Chi siamo"
 url = "/page/about/"
@@ -20,14 +22,17 @@ name = "@zainandoperilmondo"
 pre = "<i class='fa fa-facebook'></i>"
 url = "https://www.facebook.com/zainandoperilmondo/"
 weight = 2
+
 [outputs]
 page = ["HTML", "AMP"]
+
 [params]
 GoogleAnalyticsUserID = "UA-97568677-1"
 disqusShortname = "zainando"
+
 [taxonomies]
-category = "categories"
-serie = "series"
+#category = "categories"
+serie = "serie"
 tag = "tags"
 
 [permalinks]

@@ -3,7 +3,7 @@ date = "2017-04-17"
 title = "BCN#3: Sagrada Familia"
 draft = false
 image = "https://photos.smugmug.com/photos/i-x49MnZv/0/458a9588/X3/i-x49MnZv-X3.jpg"
-series = "Spagna 2017"
+serie = "Spagna"
 tags = ["spagna", "barcelona","barcellona", "travel"]
 +++
 
