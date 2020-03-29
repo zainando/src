@@ -33,12 +33,15 @@ title = "Marocco"
 
 ### El Oualidia
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.215424894109!2d-9.047583284819085!3d32.73346998098525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdaead3cc8809093%3A0xb352cc57c882c464!2sOualidia%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484506817!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [https://goo.gl/maps/b8Zh5RB17FpUeuLw7](https://goo.gl/maps/b8Zh5RB17FpUeuLw7)
 * qualcuno mangia pesce preparato sulla spiaggia
 
 ### Safi
 
-* [https://goo.gl/maps/GpSPXGatAoM7JSPA7](https://goo.gl/maps/GpSPXGatAoM7JSPA7 "https://goo.gl/maps/GpSPXGatAoM7JSPA7")
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53963.139112395926!2d-9.271712224892418!3d32.29314507273789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdac212049843597%3A0x6b618c47dfd85d40!2sSafi%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484531231!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * miriana incastrata nella toilette
 * viette
 * piazzetta
@@ -47,7 +50,8 @@ title = "Marocco"
 
 ### Essaouira
 
-* [https://goo.gl/maps/ab5ZHxxPMemFwojB7](https://goo.gl/maps/ab5ZHxxPMemFwojB7 "https://goo.gl/maps/ab5ZHxxPMemFwojB7")
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27211.849239185125!2d-9.78005175727618!3d31.510942357837212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484564736!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Riad Chakir Mogador](https://goo.gl/maps/DND9DXSuMtFYnZo57)
 * Girello la sera a vedere il tramonto
 * Veniamo assaliti dai buttadentro dei ristoranti scrausi nella zona del mercato del pesce
