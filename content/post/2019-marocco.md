@@ -77,53 +77,54 @@ La mattina dopo facciamo un breve girello in città e poi in zona porto; nuovame
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217406.37638548054!2d-8.1479381904096!3d31.63454497560447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!5e0!3m2!1sen!2sit!4v1585484818447!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-Alloggiamo presso il [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9), non esattamente dove segna la geolocalizzazione ma qualche porta prima. Una delle prime cose che colpiscono della città è la quantità di persone che si offrono per un servizio, una indicazione o un favore: bambini o adulti che ti riconoscono come turista ti avvicinano per offrirti di accompagnarti presso il tuo albergo o per portarti il bagaglio. Ne approfittiamo per caricare i bagagli su di un carretto e il signore ci accompagna nelle strade contorte e tutte uguali della medina (le auto infatti non hanno possibilità di accedere al centro abitato).
+Alloggiamo presso il [Riad Venise](https://goo.gl/maps/paby3PZoeiNHBVaC9), non esattamente dove segna la geolocalizzazione ma qualche porta prima. Una delle prime cose che colpiscono della città è la quantità di persone che ti si avvicinano offrendoti un servizio, di darti una indicazione o accompagnarti da qualche parte: bambini o adulti che ti riconoscono come turista colgono al volo l'occasione per poterti poi chiedere un diran in cambio. Accade anche noi appena arrivati, dove più di un signore ci offre di scortarci all'arbergo e di portare i nostri bagagli sul suo carretto. Ne approfittiamo ci avventuriamo nelle strade contorte e tutte uguali della medina (le auto infatti non hanno possibilità di accedere al centro abitato).
 
 Dopo una veloce sosta non possiamo che riversarci nel centro per assaporare la città, milioni di cose ci colpiscono: le bancarelle con i prodotti dolciari ricoperti di insetti, i motorini che sfrecciano per le strade strette e non colpendoci per un soffio, i venditori di lanterne e altri oggetti di metallo e ottone. Cogliamo la possibilità di andare in un centro benessere marocchino, che qui si chiama Hammam: ci facciamo consigliare dall'abergo ed eccoci giusto lungo una strada principale, entriamo in NOME HAMMAM
 
-L'esperienza è forte, non riesco a definirla del tutto piacevole: veniamo divisi in maschi e femmine e portati in due ale differenti della struttura. Noi ragazze, dopo aver atteso con pazienza il nostro turno in una sala ricoperta di tappeti e dall'odoro greve, veniamo portate in una stanza spoglia e completamente rivestita di pietra, dove delle donne in costume che non parlano inglese ci fanno capire a gesti di toglierci gli indumenti... tutto tranne le mutande. Io e le mie compagne di viaggio conosciute da poco ci troviamo quindi zinne al vento a seguire queste signore che ci fanno prima lavare alla buona, e ci chiudono poi in una stanza a gradoni dove viene immesso un vapore caldo: iniziamo a sudare copiosamente e a chiederci quanto tempo dovremo stare dentro, visto che non ci sono state date spiegazioni. Ad una ad una veniamo prelevate, fatte distendere su un tavolaccio, e ci viene passato sul corpo un guanto ruvido che ha lo scopo di toglierci la pelle superflua: è il cosiddetto "Gommage" .veniamo poi spalmate di un prodotto nero e denso, che scopriremo poi essere argilla, e infine sciaquate con delle secchiate di acqua approvviginata ad una fontanella li presente. Al termine di questo trattamento ci meritimo un massaggio: veniamo rivestite da un asciugamano, portate in un'altra stanza e con un the marocchino in mano fatte riposare brevemente. La parte del massaggio è quella che ho preferito, dolce ma energico allo stesso tempo, con un olio ricostituente che ha fatto riprendere la pelle dallo shock iniziale. 
+L'esperienza è forte, non riesco a definirla del tutto piacevole: veniamo divisi in maschi e femmine e portati in due ale differenti della struttura. Noi ragazze, dopo aver atteso con pazienza il nostro turno in una sala ricoperta di tappeti e dall'odoro greve, veniamo portate in una stanza spoglia e completamente rivestita di pietra, dove delle donne in costume che non parlano inglese ci fanno capire a gesti di toglierci gli indumenti... tutto tranne le mutande. Io e le mie compagne di viaggio conosciute da poco ci troviamo quindi zinne al vento a seguire queste signore che ci fanno prima lavare alla buona, e ci chiudono poi in una stanza a gradoni dove viene immesso un vapore caldo: iniziamo a sudare copiosamente e a chiederci quanto tempo dovremo stare dentro, visto che non ci sono state date spiegazioni. Ad una ad una veniamo prelevate, fatte distendere su un tavolaccio, e ci viene passato sul corpo un guanto ruvido che ha lo scopo di toglierci la pelle superflua: è il cosiddetto "Gommage" .veniamo poi spalmate di un prodotto nero e denso, che scopriremo poi essere argilla, e infine sciaquate con delle secchiate di acqua approvviginata ad una fontanella li presente. Al termine di questo trattamento ci meritimo un massaggio: veniamo rivestite da un asciugamano, portate in un'altra stanza e con un the marocchino in mano fatte riposare brevemente. La parte del massaggio è quella che ho preferito, dolce ma energico allo stesso tempo, con un olio ricostituente che ha fatto riprendere la pelle dallo shock iniziale.
 
 L'hammam è un'esperienza che consiglio ma suggerisco di scegliere bene la struttura dove scegliete di essere seguiti. Quella dove ci siamo recati noi era un'esercizio spilla-turisti, più che un luogo dove il benessere e il relax sono messi al primo piano. Non serve spendere molto e andare in strutture cinque stelle, ma sicuramente scegliere dei professionisti aiuta a godersi maggiormente il viaggio!
 
-la prima sera ceniamo in un posto qualunque vicino a piazza El-XXXX, ci sono sicuramente piccoli ristorantini che valgono maggiormente la pena ma abbiamo cercato il miglior compromesso prezzo-numero di persone. Ricordiamo che trovare un locale che serva alcolici è molto difficile, i musulmani infatti sono alcool-free. Dopo qualche richiesta siamo andati in XXX, dove all'ultimo piano su di una terrazza panoramica abbiamo bevuto a caro prezzo una lattina di birra ciascuno: rigorosamente a temperatura ambiente e deliziati da una musica italiana d'altri tempi che avevano messo apposta pe noi. 
+la prima sera ceniamo in un posto qualunque vicino a piazza El-XXXX, ci sono sicuramente piccoli ristorantini che valgono maggiormente la pena ma abbiamo cercato il miglior compromesso prezzo-numero di persone. Ricordiamo che trovare un locale che serva alcolici è molto difficile, i musulmani infatti sono alcool-free. Dopo qualche richiesta siamo andati in XXX, dove all'ultimo piano su di una terrazza panoramica abbiamo bevuto a caro prezzo una lattina di birra ciascuno: rigorosamente a temperatura ambiente e deliziati da una musica italiana d'altri tempi che avevano messo apposta pe noi.
 
 SECONDO GIORNO A MARRAC...
 
-Pianifichiamo il giro turistico decidento di vedere quante più cose possibili nel tempo a disposizione. 
+Pianifichiamo il giro turistico decidento di vedere quante più cose possibili nel tempo a disposizione.
 
 * Palais de la Bahia
 
-il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello e mozzafiato; è il primo incontro che facciamo con l'architettura araba. Per la storia vi lasciamo a una più autorevole guida, noi ci siamo limitati a immergerci nelle varie stanze e percorsi a labirinto, tanto che il gruppo si è fin da subito smembrato. Cose da fare: una foto seduti per terra e ripresi dall'alto per mettere in risalto il meraviglioso pavimento della struttura, soffermarsi nella zona con le vetrate colorate per catturare giochi di luce sui lineamenti. 
+il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello e mozzafiato; è il primo incontro che facciamo con l'architettura araba. Per la storia vi lasciamo a una più autorevole guida, noi ci siamo limitati a immergerci nelle varie stanze e percorsi a labirinto, tanto che il gruppo si è fin da subito smembrato. Cose da fare: una foto seduti per terra e ripresi dall'alto per mettere in risalto il meraviglioso pavimento della struttura, soffermarsi nella zona con le vetrate colorate per catturare giochi di luce sui lineamenti.
 
-COSTO: 
+COSTO:
 
 * Tombeaux Saadians
-
- 
-
 * Hammam
 * giro per il mercato
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
 
-Per arrivare ai giardini bisogna prendere un mezzo di trasporto, noi abbiamo optato per l'autobus, esperienza decisamente consigliata per meglio immergersi nella popolazione locale. I giardini colpiscono per la quantità e la varietà di piante presenti; noi non esperti di botanica siamo rimasti a bocca aperta davanti a tante specie, alcune mai viste. Tappa obbligatoria la costruzione colorata blu, dove bisogna fare la fila per potersi concedere una foto sulle scalinate a fianco del limone giallo. 
+Per arrivare ai giardini bisogna prendere un mezzo di trasporto, noi abbiamo optato per l'autobus, esperienza decisamente consigliata per meglio immergersi nella popolazione locale. I giardini colpiscono per la quantità e la varietà di piante presenti; noi non esperti di botanica siamo rimasti a bocca aperta davanti a tante specie, alcune mai viste. Tappa obbligatoria la costruzione colorata blu, dove bisogna fare la fila per potersi concedere una foto sulle scalinate a fianco del limone giallo.
 
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
+
+La piazza in sè è già un'avventura. Sconsiglio di viverla da soli, essere in gruppo aiuta a affrontare le numero persone che si avvicinano per offrire uno spettacolo o per offrire i prodotti in vendita. Girando troviamo incantatori di serpenti, suonatori, venditori ambulanti, maghi, giochi fatti con un tabellone e una moneta da lanciare. Ci divertiamo un pochino, ma non ci addentriamo nelle varie bancarelle che vendono frutta, verdura, datteri e prodotti differenti. Consigliano di vedere il tramonto da uno dei baretti che si affacciano sulla piazza: noi ce lo siamo persi, ma se avete l'occasione vi suggerisco di non perdervelo!
+
 * artigiano che fa lavoretti con il legno con i piedi
-* In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
 
-Un'altro posto da vedere a Marrackeck, che ha visto solo la Marghe (per vari motivi, è arrivata in città un giorno prima e ha potuto girarla da sola) è Le Jardin secret, proprio nel cuore della città. è un giardino più piccolo a livello di estensione rispetto al Majorelle, ma davvero piacevole; la cosa che più colpisce è il senso di pace, e la freschezza che si respira rispetto all'esterno, dove si trova il centro commerciale. Per salire sulla torre è previsto il pagamento di un altro biglietto, ma dalla terrazza del bar è possibile vedere un panorama mozzafiato. 
+Un'altro posto da vedere a Marrackeck, che ha visto solo la Marghe (per vari motivi, è arrivata in città un giorno prima e ha potuto girarla da sola) è Le Jardin secret, proprio nel cuore della città. è un giardino più piccolo a livello di estensione rispetto al Majorelle, ma davvero piacevole; la cosa che più colpisce è il senso di pace, e la freschezza che si respira rispetto all'esterno, dove si trova il centro commerciale. Per salire sulla torre è previsto il pagamento di un altro biglietto, ma dalla terrazza del bar è possibile vedere un panorama mozzafiato.
 
-u max and jan concept store, un negozio a struttura tipicamente occidentale, di design e artigianato. 
+u max and jan concept store, un negozio a struttura tipicamente occidentale, di design e artigianato.
 
-Cosa puoi fotografare di tipico a Marrackeck: 
+Cosa puoi fotografare di tipico a Marrackeck:
 
 Asini che camminano con ceste o altro materiale sulla schiena
 
 banchetti di venditori ambulanti dove puoi acquistare anche un singolo pezzo: banane, fichi d'india, pane
 
-signore con la testa coperta, ma anche (e più frequenti di quelle che pensassi) signore totalmente coperte con solo gli occhi fuori, talvolta nemmeno quelli 
+signore con la testa coperta, ma anche (e più frequenti di quelle che pensassi) signore totalmente coperte con solo gli occhi fuori, talvolta nemmeno quelli
 
-I negozi che vendono lanterne, quelli che vengono tappeti e prodotti in vimini, le pappucce,banchetti di spezie
+I negozi che vendono lanterne, quelli che vengono tappeti  e cuscini, i prodotti in vimini, le pappucce, i banchetti di spezie
+
+* In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
 
 ### Cascades d'Ouzoud
 
