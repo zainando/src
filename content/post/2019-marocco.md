@@ -85,7 +85,8 @@ frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabinde
 
 ### Cascades d'Ouzoud
 
-* [https://g.page/cascades-douzoud?share](https://g.page/cascades-douzoud?share)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.9629980934124!2d-6.722324984837117!3d32.01611598120845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda48d6c7dbd3851%3A0x6e9e0fe22217dc35!2sOuzoud%20Falls!5e0!3m2!1sen!2sit!4v1585484949047!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * [Kasbah Ouzoud](https://goo.gl/maps/WBqyjP3sUvgn2YTF9)
 * camminata fino alle grotte
 * campeggio hippie, in questa zone qui [https://goo.gl/maps/C4HsbkMmWumfmi9n8](https://goo.gl/maps/C4HsbkMmWumfmi9n8)
