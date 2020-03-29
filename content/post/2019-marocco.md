@@ -11,7 +11,9 @@ title = "Marocco"
 +++
 ## In breve
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1l5ZWeuqmjAGYup_v0UO1ZqzWuj7F-1C0" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1l5ZWeuqmjAGYup_v0UO1ZqzWuj7F-1C0" width="600" height="450"
+frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"
+></iframe>
 
 ## Le nostre tappe
 
