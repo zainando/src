@@ -80,27 +80,51 @@ Pianifichiamo il giro turistico decidento di vedere quante più cose possibili n
 
 * Palais de la Bahia
 
-il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello e mozzafiato; è il primo incontro che facciamo con l'architettura marocchina. Per la storia dettagliata vi lasciamo a una più autorevole guida, basterà sapere che fu costruito alla fine del XIX secolon e che per costruirlo ci volle più di un decennio. Lo scopo era quello di costruire un palazzo magnificente noi ci siamo limitati a immergerci nelle varie stanze e percorsi a labirinto, tanto che il gruppo si è fin da subito smembrato. Cose da fare: una foto seduti per terra e ripresi dall'alto per mettere in risalto il meraviglioso pavimento della struttura, soffermarsi nella zona con le vetrate colorate per catturare giochi di luce sui lineamenti.
+  Costo di ingresso: 70 dirham ( da verificare)
 
-COSTO:
+  Orario: dalle 9 alle 17
+
+il primo palazzo che visitiamo è Palais de la Bahia, inutile dire davvero bello e mozzafiato; è il primo incontro che facciamo con l'architettura marocchina. Per la storia dettagliata vi lasciamo a una più autorevole guida, basterà sapere che fu costruito alla fine del XIX secolon e che per costruirlo ci volle più di un decennio. Lo scopo era quello di costruire un palazzo magnificente, forse dedicato alla moglie del visir, e l'intento è decisamente riuscito;   ci siamo immersi nelle150  stanze e percorsi a labirinto tra giardinie cortili,  tanto che il gruppo si è fin da subito smembrato. Le stanze sono vuote, quindi senza arredo, ma le decorazioni su soffitto in legno e marmo, le ceramiche e le fontane lasciano il visitatore a bocca aperta. La visita merita sicuramente, non abbiamo trovato guide in loco da ingaggiare per un tour guidato ma ne abbiamo incontrate di private, prenotandole con anticipo può dare un sapore aggiuntivo- 
+
+Cose da fare: una foto seduti per terra e ripresi dall'alto per mettere in risalto il meraviglioso pavimento della struttura, soffermarsi nella zona con le vetrate colorate per catturare giochi di luce sui lineamenti.
 
 * Tombeaux Saadians
-* giro per il mercato
+
+Le tombe vennero scoperte nel 1917 e sono oggi visitabili: contengono i sepolcri del **sultano Ahmad al-Mansur** e i membri della sua famiglia.La costruzione principale è il mausoleo con tre stanze, che si possono vedere infilando la testa in porte laterali, ma non è possibile entrare per non calpestare il pavimento finemente lavorato. La stanza più conosciuta è quella delle 12 colonne, dove sono sepolti i  figli del sultano. Il complesso non è grande e si visita in 20/30 minuti: per quanto sia sicuramente notevole come costruzione, lascia un po' delusi in confronto alla maestosità del palazzo precedentemente visto. 
+
+Da vedere se vi avanza tempo, ma non una visita indispensabile. 
+
+* Il Suk
+
+visitare il suk è un'esperienza imperdibile ma che allo stesso tempo può spaventare. Il dedalo di bancarelle di vario genere, da quello alimentare al ferro e all'artigianato locale si estende al nord della piazza, ma risulta davvero difficile orientarsi al suo interno. Noi ci siamo lasciati trascinare dallo spirito di avventura, senza dare troppo corda ai vari venditori che ad ogni costo cercano di attirare l'attenzione e se possono a trascinarti dentro il loro piccolo mercato. Andate in gruppo e non lasciatevi portare "dentro", ma tenete le rendini del gioco e ricordatevi di contrattare sul prezzo: siate spudorati e tenaci e ricordatevi che è il loro modo di entrare in relazione con voi e costruire una fiducia reciproca. 
+
 * Giardini Majorelle [Giardini Majorelle](https://goo.gl/maps/mN9sFtRp1AA8HcFW6)
 
-Per arrivare ai giardini bisogna prendere un mezzo di trasporto, noi abbiamo optato per l'autobus, esperienza decisamente consigliata per meglio immergersi nella popolazione locale. I giardini colpiscono per la quantità e la varietà di piante presenti; noi non esperti di botanica siamo rimasti a bocca aperta davanti a tante specie, alcune mai viste. Tappa obbligatoria la costruzione colorata blu, dove bisogna fare la fila per potersi concedere una foto sulle scalinate a fianco del limone giallo.
+  costo di ingresso: 70 Diram
+
+I giardini che prendono il nome dal loro creatore, il pittore  **Jacques Majorelle** furono creati nel 1924; vennero in un secondo momento acquistati dallo stilista **Yves Saint Laurent**.. Per arrivaci dalla Medina bisogna prendere un mezzo di trasporto, noi abbiamo optato per l'autobus, esperienza decisamente consigliata per meglio immergersi nella popolazione locale. Altrimenti è possibile arrivarci in taxi per un costo di circa 20 dirham a persona.  I giardini colpiscono per la quantità e la varietà di piante presenti tra cui cactus, palme, bambù, piante da giardino e piante acquatiche. I grandi alberi donando ombra e quindi temperature piacevoli che fanno tirare un sospiro di sollievo rispetto all'afa del centro. Tappa obbligatoria la villa del pittore colorata del blu che prende il suo nome un blu oltremare/cobalto al tempo stesso intenso e chiaro, dove bisogna fare la fila per potersi concedere una foto sulle scalinate a fianco del limone giallo.
+
+All'interno dei giardini è possibile visitare il museo berbero con un costo aggiutivo, che noi non abbiamo visitato. 
+
+* **Moschea della Koutoubia** 
+
+Il tetto del minareto della Moschea è visibile da quasi tutti i punti della città. è la moschea più importante e il minareto alto 69 metri si distingue per il colore rosato dovuto alla pietra utilizzata, l'arenaria rosata. 
 
 * [Piazza Jemaa el-Fna](https://goo.gl/maps/5GsPbXuCdH54afLM8)
 
-La piazza in sè è già un'avventura. Sconsiglio di viverla da soli, essere in gruppo aiuta a affrontare le numero persone che si avvicinano per offrire uno spettacolo o per offrire i prodotti in vendita. Girando troviamo incantatori di serpenti, suonatori, venditori ambulanti, maghi, giochi fatti con un tabellone e una moneta da lanciare. Ci divertiamo un pochino, ma non ci addentriamo nelle varie bancarelle che vendono frutta, verdura, datteri e prodotti differenti. Consigliano di vedere il tramonto da uno dei baretti che si affacciano sulla piazza: noi ce lo siamo persi, ma se avete l'occasione vi suggerisco di non perdervelo!
+La piazza in sè è già un'avventura. Sconsiglio di viverla da soli, essere in gruppo aiuta a affrontare le numero persone che si avvicinano per offrire uno spettacolo o pervendere i propri prodotti. Si trovano i commerci più disparati: incantatori di serpenti, suonatori, venditori ambulanti, maghi, addestratori di scimmie. giochi più o meno artigianali che comprendono ovviamente i soldi. Di giorno la evitiamo mentre la sera ci passeggiamo con piacere divertendoci in qualche standi, ma non ci addentriamo nelle varie bancarelle che vendono frutta, verdura, datteri e spezie Consigliano di vedere il tramonto da uno dei baretti che si affacciano sulla piazza: noi ce lo siamo persi, ma se avete l'occasione vi suggerisco di approffitarne!
 
-* artigiano che fa lavoretti con il legno con i piedi
+* L'arte del legno
 
-Un'altro posto da vedere a Marrackeck, che ha visto solo la Marghe (per vari motivi, è arrivata in città un giorno prima e ha potuto girarla da sola) è Le Jardin secret, proprio nel cuore della città. è un giardino più piccolo a livello di estensione rispetto al Majorelle, ma davvero piacevole; la cosa che più colpisce è il senso di pace, e la freschezza che si respira rispetto all'esterno, dove si trova il centro commerciale. Per salire sulla torre è previsto il pagamento di un altro biglietto, ma dalla terrazza del bar è possibile vedere un panorama mozzafiato.
+Le cose che si possono vedere, inusuali per la nostra cultura, sono davvero tantissime; tra queste siamo rimasti affascinati da una bancarella che propone oggetti in legno come scatole con aperture "magiche" e non scontate. Uno dei due venditori, mentre ci mostrava i prodotti più ingegnosi, creava degli oggetti in legno con una sorta di torchio che azionava con i piedi. Siamo rimasti a chiaccherare e a divertirci per oltre una mezz'ora, seppur al termine nessuno di noi acquistò un prodotto. se avete tempo da investire, vi auguriamo di fare un'esperienza di questo tipo!
 
-u max and jan concept store, un negozio a struttura tipicamente occidentale, di design e artigianato.
+*  Le Jardin secret
 
-Cosa puoi fotografare di tipico a Marrackeck:
+  Un altro posto da vedere a Marrackeck, che ha visto solo la Marghe (per vari motivi, è arrivata in città un giorno prima e ha potuto girarla da sola) è Le Jardin secret, proprio nel cuore della città. è un giardino più piccolo a livello di estensione rispetto al Majorelle, ma davvero piacevole; la cosa che più colpisce è il senso di pace, e la freschezza che si respira rispetto all'esterno, dove si trova il centro commerciale. Per salire sulla torre è previsto il pagamento di un altro biglietto, ma dalla terrazza del bar è possibile vedere un panorama mozzafiato.
+* max and jan concept store, 
+
+  un negozio a struttura tipicamente occidentale, di design e artigianato. Visita super consigliata, anche se pure i prezzi sono occidentali! 
+* Cosa puoi fotografare di tipico a Marrackeck:
 
 Asini che camminano con ceste o altro materiale sulla schiena
 
@@ -110,4 +134,8 @@ signore con la testa coperta, ma anche (e più frequenti di quelle che pensassi)
 
 I negozi che vendono lanterne, quelli che vengono tappeti  e cuscini, i prodotti in vimini, le pappucce, i banchetti di spezie
 
-* In direzione delle cascate ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17)
+Dopo due giorni di permamenza in città è arrivata l'ora di paritire. La città è sicuramente affascinante e una tappa imperdibile in un tour del Marocco e ma allo stesso tempo è logorante, a causa dell'insistenza di chi prova a vendere degli oggetti. Per noi due giorni sono stati più che sufficiente e per l'obbiettivo che ci siamo dati, ovvero di visitare quanto più del paese possibile, non abbiamo bisogno di rimanere di più. Per chi progetta invece di rimanere più giorni in città ci sono altre attrazioni da visitare come La Madrasa di Ben Youssef che era chiusa per restauro (prevista la chiusura fino a metà 2020), il Palazzo El Badi o i vari musei quali il Museo di Marrakech o il museo di **Dar​ Si Said.** 
+
+Il nostro bus punta in direzione delle cascate ma lungo la strada ci fermiamo al [Souk Hebdomadaire Jeudi](https://goo.gl/maps/veUEgEbKv1f5kHF57), un mercato tipico locale vicino a [El Attaouia](https://goo.gl/maps/A7xKgFTLVWKh8sj17). 
+
+L'esperienza è tanto vera quando cruda... letteralmente! Il mercato dedicato ai locals è una serie di piccole bancarelle organizzate tematicamente, prima tutta la frutta, poi le spezie, poi gli oggetti, oltre ancora la carne, dove è possibile fare spese. Molti dei prodotti sono appoggiati a terra, fatta di sabbia battuta, ma è possibile anche trovare barbieri e parrocchieri che per qualche centesimo ti rasano con l'aiuto di un rasoio, una forbice e una sediolina. La sezione della carne (che si poteva trovare sia cruda che cotta, in piccole griglie che proponevano principalmente spidini) è quella che ci ha colpito di più. Tranci di carne esposti al sole e agli insetti venivano pesati e tagliati su richiesta; le norme igeniche. dimenticate (o mai esistite!!)
