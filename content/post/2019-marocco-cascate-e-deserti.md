@@ -2,16 +2,17 @@
 date = 2019-07-04T22:00:00Z
 description = ""
 draft = true
-image = ""
+image = "https://photos.smugmug.com/Zainando/n-BrFfR4/Marocco-2019/i-hp9hr46/0/a4a016a9/X2/marocco_2019-0982-X2.jpg"
 serie = "marocco"
 slug = "marocco-cascate-e-deserti"
 tags = ["cascata", "deserto", "marocco"]
 title = "Marocco: cascate e deserti"
 
 +++
-### Cascades d'Ouzoud
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.9629980934124!2d-6.722324984837117!3d32.01611598120845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda48d6c7dbd3851%3A0x6e9e0fe22217dc35!2sOuzoud%20Falls!5e0!3m2!1sen!2sit!4v1585484949047!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d1738342.5346692235!2d-6.848679795705953!3d31.68309279710008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e0!4m5!1s0xda48d6c7dbd3851%3A0x6e9e0fe22217dc35!2sOuzoud%20Falls%2C%20Cascades%20d&#39;Ouzoud%2C%20Ouzoud%2023400%2C%20Morocco!3m2!1d32.016116!2d-6.7201363!4m5!1s0xdbac91b9f282847%3A0x1a9f3fbc983e5178!2sTizi%20n&#39;Tichka%2C%20Tizi%20N&#39;Tichka%2C%20Morocco!3m2!1d31.286296399999998!2d-7.3810636999999995!4m5!1s0xdbad04cc9149155%3A0x6f8c0e07db71a066!2sTelouet%20Kasbah%2C%20Telouet%2C%20Morocco!3m2!1d31.287123899999997!2d-7.236733999999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3255009b74c9d%3A0xed41bdef3d997bf3!2sMaison%20d&#39;h%C3%B4tes%20la%20vall%C3%A9e%20des%20nomades%2C%20M&#39;semrir%2C%20Morocco!3m2!1d31.693582099999997!2d-5.823524!4m4!2s31.742971%2C-5.688361!3m2!1d31.742970999999997!2d-5.688361!4m5!1s0xd9787d93d8cd66b%3A0xd65d4a812574ec9d!2sbivouac%20chez%20bachir%2C%20fezna%20Ouled%20Jellal%2C%20JORF%2052350%2C%20Morocco!3m2!1d31.531074399999998!2d-4.4921368!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd988d532094a6f3%3A0xd1bf1ba65f54a7a3!2sAuberge%20Palacio%20Sidi%20Hamza%2C%20KSAR%20TAZROUFT%20ZAOUIT%20SIDI%20HAMZA%20-%20MIDELT%2C%2052400%2C%20Morocco!3m2!1d32.446504499999996!2d-4.7238267!5e0!3m2!1sen!2sit!4v1586117725873!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+### Cascades d'Ouzoud
 
 * [Kasbah Ouzoud](https://goo.gl/maps/WBqyjP3sUvgn2YTF9)
 * camminata fino alle grotte
@@ -20,8 +21,6 @@ title = "Marocco: cascate e deserti"
 * serata a guardare le stelle
 
 ### Ait Ben-Haddou
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3418.222999409554!2d-7.132350484860926!3d31.047890981528486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdbae066b97915d3%3A0xafa414dfda628e0a!2sKasbah%20Ait%20Ben%20Haddou%E2%80%8C!5e0!3m2!1sen!2sit!4v1585486048934!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 * Lungo la strada pranzo al [Café Restaurant AFOULKI](https://goo.gl/maps/SNh7GubS6DZk7eCe9) per poi proseguire verso [Col du Tichka](https://goo.gl/maps/RjFKiQP25oSmPUDp9)(Tizi n'Tichka), passo a 2260 metri che collega MArrakech ai deserti del sud del Marocco
 * visita alla [Qasba di Télouet](https://goo.gl/maps/JENggFguCW6pqPkk6) in cui il tipo con il turbante arancione ci racconta la storia, erano i padroni di mezzo marocco blablabla
