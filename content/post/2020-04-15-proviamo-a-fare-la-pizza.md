@@ -4,7 +4,7 @@ description = ""
 draft = true
 image = ""
 serie = "zainando in cucina"
-slug = "proviamo-a-fare-la-pizza"
+slug = "zainando-in-cucina-pizza"
 tags = ["cucina", "pizza"]
 title = "Proviamo a fare la pizza"
 

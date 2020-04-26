@@ -4,7 +4,7 @@ description = ""
 draft = true
 image = ""
 serie = "zainando in cucina"
-slug = "gnocchi-di-ricotta"
+slug = "zainando-in-cucina-gnocchi-di-ricotta"
 tags = ["ricotta", "gnocchi", "cucina"]
 title = "Gnocchi di ricotta"
 
