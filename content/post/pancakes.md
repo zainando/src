@@ -9,3 +9,12 @@ tags = ["pancackes", "cucina"]
 title = "Pancakes"
 
 +++
+Farina
+
+Uovo
+
+Latte
+
+Olio di semi
+
+Olio di 
