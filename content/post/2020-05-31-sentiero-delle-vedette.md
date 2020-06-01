@@ -5,7 +5,7 @@ draft = true
 image = ""
 serie = "Montagna"
 slug = "sentiero-delle-vedette"
-tags = ["prealpi", "trevigiano", "sentiero delle vedette", "soligo", "Montagna"]
+tags = ["prealpi", "trevigiano", "sentiero delle vedette", "soligo", "montagna"]
 title = "Sentiero delle Vedette"
 
 +++
