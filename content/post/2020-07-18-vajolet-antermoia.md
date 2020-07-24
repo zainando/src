@@ -5,7 +5,7 @@ draft = true
 image = ""
 serie = "Montagna"
 slug = "vajolet-antermoia"
-tags = ["catinaccio", "vajolet", "antermoia, "dolomiti", "montagna", "rifugio"]
+tags = ["catinaccio", "vajolet", "antermoia", "dolomiti", "montagna", "rifugio"]
 title = "Il Catinaccio dal Vajolet all'Antermoia"
 
 +++
