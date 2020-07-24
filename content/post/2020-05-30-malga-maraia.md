@@ -6,7 +6,7 @@ image = ""
 serie = "Montagna"
 slug = "malga-maraia"
 tags = ["misurina", "maraia", "dolomiti", "montagna"]
-title = "Misurina e Malga Maraia
+title = "Misurina e Malga Maraia"
 
 +++
 
