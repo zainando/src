@@ -9,3 +9,8 @@ tags = ["montagna", "tour", "Monviso"]
 title = "Giro del Monviso"
 
 +++
+* Castello (Pontechianale)
+* Rif. Qui tino Sella
+* Rif. Giacoletti
+* Ref. du Viso
+* Rif. 
