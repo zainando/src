@@ -13,4 +13,4 @@ title = "Giro del Monviso"
 * Rif. Qui tino Sella
 * Rif. Giacoletti
 * Ref. du Viso
-* Rif. 
+* Rif. Vallanta
