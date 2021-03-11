@@ -33,7 +33,7 @@ Decidiamo di seguire il sentiero che costeggia la strada battuta, immerso per la
 
 Alcuni punti ben si prestano a foto profilo, perchè dominano dall'alto le vette tra cui il Monte Mattina che sovrasta lo sguardo: il caldo sole di febbraio rende la luce perfetto per un piccolo set improvvisato! L'ultima parte del sentiero è quasi pianeggiante e la valle è incorniciata dai monti per una vista da favola.
 
-![Momomento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-Ln33vQc/0/04ab20cc/X3/IMG_3226-X3.jpg "Momomento Instagram prima di arrivare al rifugio")
+![Momento Instagram prima di arrivare al rifugio](https://photos.smugmug.com/SpaceTimePoints/2020-02-22-TreScarperi/i-Ln33vQc/0/04ab20cc/X3/IMG_3226-X3.jpg "Momento Instagram prima di arrivare al rifugio")
 
 Arriviamo in circa un'ora e mezza (comprese soste fotografiche e non) al Rifugio Tre Scarperi che compare alla nostra sinistra quasi un po' defilato. Nonostante la bella giornata non è particolarmente affollato e possiamo sederci sui tavoloni della terrazza a gustare qualche bontà locale. Nonostate i piatti alla carta siano uno più invitante dell'altro, ordiniamo solo una birra a testa ed un dolce, ci eravamo infatti mangiati i panini al sacco: ma la prossima volta proveremo anche la parte gastronomica del rifugio!  
 Rifugio Tre Scarperi 0474 966610 [www.drei-schuster-huette.com](http://www.drei-schuster-huette.com/)
